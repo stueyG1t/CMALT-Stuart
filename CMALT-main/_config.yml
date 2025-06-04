@@ -1,0 +1,71 @@
+title: Stuart's PGCert Portfolio
+description: Reflections and artefacts from my PGCert in Higher Education
+baseurl: "/PGCert" # the subpath of your site
+url: "https://stueyG1t.github.io" # the full base URL of your site
+
+include:
+- assets/css/override.css
+
+exclude:
+  - README-OLD.md
+  - example/
+  - docs/
+  - .gitignore
+  - .DS_Store
+remote_theme: mmistakes/so-simple-theme
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-paginate
+
+# skin: "/assets/css/skins/default.css"
+locale: en-EN
+date_format: "%B %-d, %Y"
+
+google_fonts:
+  - name: "Inter"
+    weights: "400,500,700"
+
+# Optional features
+mathjax:
+  enable: false
+
+# Liquid
+liquid:
+  error_mode: strict
+
+# Build settings
+permalink: /:categories/:title/
+markdown: kramdown
+feed:
+  path: atom.xml
+
+# Front Matter Defaults
+defaults:
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+      share: true
+      custom_head: head-custom
+
+# Author
+author:
+  name: "Stuart Smith"
+  picture:
+  email:
+  twitter:
+  links:
+    - title:
+      url:
+      icon:
+
+# Footer Links
+footer_links:
+  - title: Feed
+    url: atom.xml
+    icon: fas fa-rss-square

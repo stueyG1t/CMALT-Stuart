@@ -1,0 +1,26 @@
+.page-title {
+    font-family: "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+    font-style: normal;
+    font-weight: 600;
+    letter-spacing: -1px;
+}
+
+
+summary {
+    font-size: 1.2rem;
+    font-weight: 600;
+    cursor: pointer;
+    padding: 0.5em;
+    background-color: #f7f7f7;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    transition: background-color 0.2s ease-in-out;
+    margin-bottom: 1rem;
+  }
+  
+  summary:hover {
+    background-color: #eaeaea;
+  }
+  
+
+  
