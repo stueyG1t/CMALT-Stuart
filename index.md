@@ -22,7 +22,8 @@ title: Stuart Smith CMALT Portfolio
 3. A [Credits](#credits) section is included to acknowledge image sources.
 
 ## Contextual Statement
-
+<details open>
+  <summary>Expand or collapse this section</summary>
 I am currently a digital skills developer at the University of Greenwich, where I lead institutional efforts to improve digital capability among students and staff. My work is grounded in the belief that learning technology is not just a set of tools, but a form of literacy essential to equity, empowerment, and future-readiness in higher education.
 
 I have not previously completed Certified Membership of the Association for Learning Technology (CMALT), but I strongly identify with its values – particularly the commitment to exploring the interplay between technology and learning, and to supporting ethical, accessible, and inclusive practice. My Senior CMALT submission builds directly on the critical reflection and pedagogical development undertaken as part of my PGCert in Teaching in Higher Education, where I shifted from competence-based delivery to confidence-based facilitation, and began to see myself more as an educator than a technologist.
@@ -41,40 +42,13 @@ This portfolio represents the next step in my professional development – from 
 
 ---
 
-### References (Greenwich Harvard Style)
+### References
 
 * Department for Education (2019) *Essential digital skills framework*. Available at: [https://www.gov.uk/government/publications/essential-digital-skills-framework](https://www.gov.uk/government/publications/essential-digital-skills-framework) (Accessed: 14 July 2025).
 * Jisc (2022) *Digital Capabilities Framework: the six elements defined*. Available at: [https://digitalcapability.jisc.ac.uk/what-is-digital-capability/](https://digitalcapability.jisc.ac.uk/what-is-digital-capability/) (Accessed: 14 July 2025).
 * University of Greenwich (2022) *Digital Strategy 2030: Becoming a digital-first university*. Internal document.
-
-
-<details open>
-  <summary>Expand or collapse this section</summary>
-<img
-class="align-left"
-src="{{ "/assets/media/PGCert-Portfolio-stuart-smith-headshot.jpg" | prepend: site.baseurl }}"
-alt="Stuart Smith, Digital Skills Developer"
-width="200"
-loading="lazy"
-/>
-
-<p>When a student describes your session as <strong>"life changing"</strong>, it is a special moment. That is one of the most rewarding aspects of my work. I frequently support students who feel left behind in the rapidly changing digital environment, helping them gain confidence and competence. My name is Stuart Smith, and I am the Digital Skills Developer at the University of Greenwich, a unique role focused on student engagement with and appropriate use of digital technologies. This reflects UKPSF dimensions K4 (the use and value of appropriate learning technologies) and V2 (promoting participation in higher education and equality of opportunity for learners).</p>
-
-<p>My role builds on earlier work in learning technology across both commercial and university settings. It is a challenging but enjoyable position because it spans multiple faculties and disciplines, requiring flexibility and a cross-institutional approach. Greenwich has ambitions to become “digital-first” (University of Greenwich, 2021, p. 45) in terms of working environment and service delivery, and my work directly contributes to this strategy.</p>
-
-<p>I design and plan learning activities and support student learning in digital contexts, aligning with UKPSF A1 (design and planning of learning activities), A2 (teaching and supporting learning), and A4 (developing effective learning environments supported by appropriate technologies). Technology isn’t something I add into my work—it’s woven into it.</p>
-
-<p>My pedagogical stance is rooted in constructivist and humanist traditions (Vygotsky, 1978; Freire, 1970; Rogers, 1969), which emphasise learner agency, reflection, and the social context of knowledge building. Generative Artificial Intelligence (Gen AI), such as Copilot, represents a powerful but sometimes unreliable tool. In my teaching, I aim to co-opt such technologies to support and not supplant learner centred education.</p>
-
-<p>For example, a recent session I ran on digital wellbeing was heavily disrupted by a compulsory, unscheduled hardware update. Rather than conceal my frustration or embarrassment, I shared the experience openly with the students. This prompted sympathetic responses and, more importantly, conversations about shared coping strategies. It became a live opportunity to reinforce the idea that in a technology-led world, human connection, adaptability, and reflection remain critical. In this way, I model humanist and constructivist values while equipping students to navigate imperfect digital systems.</p>
-
-<p>As part of the PGCert module, we were encouraged to use Microsoft <a href="#glossary-sway" id="back-to-sway">Sway</a> to present our portfolios. While Sway is a valuable tool within the Microsoft 365 ecosystem, I chose to build my portfolio using <a href="#glossary-jekyll" id="back-to-jekyll">Jekyll</a> and <a href="#glossary-markdown" id="back-to-markdown">Markdown</a>. This is a technically more challenging solution, but it offers advantages such as speed, flexibility, and stronger compliance with accessibility standards. Combining Markdown with HTML, CSS, and other web technologies creates a fast-loading, low-resource, and highly customisable platform for sharing information.</p>
-
-<p>This more technical and independent approach aligns with my belief that educators should understand the underlying technologies they use. <a href="#glossary-wysiwyg" id="back-to-wysiwyg">WYSIWYG</a> (What You See Is What You Get) tools like Sway or <a href="#glossary-squarespace" id="back-to-squarespace">Squarespace</a> provide ease of use, but can mask important issues around accessibility and interoperability.</p>
-
-<p>In the early science fiction novel <em>The Machine Stops</em>, E. M. Forster warned of a society that placed blind trust in a system no one truly understood: “You talk as if a god had made the Machine… I believe that you pray to it when you are unhappy. Men made it, do not forget that” (Forster, 1928). We must be careful not to confuse convenience with resilience. By engaging directly with web code, I am better positioned to problem-solve, advocate for inclusive design, and promote technical curiosity—essential traits for a digitally fluent educator.</p>
-</details>
 [↑ Back to top](#sections)
+</details>
 
 ## Reflective Area 1 – Operational Issues
 
