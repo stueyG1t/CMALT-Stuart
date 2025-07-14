@@ -15,11 +15,6 @@ title: Stuart Smith CMALT Portfolio
 - [AI Usage Declaration](#ai-usage-declaration)
 - [Credits](#credits)
 
-### Note for Readers
-
-1. A United Kingdom Professional Standards Framework (UKPSF) 2023 mapping has been included to clearly demonstrate how each section aligns with the PSF’s areas of activity, core knowledge, and professional values.
-2. A [Glossary](#glossary-of-terms) is included with explanations and links for specialist terms.
-3. A [Credits](#credits) section is included to acknowledge image sources.
 
 ## Contextual Statement
 <details open>
@@ -51,6 +46,8 @@ This portfolio represents the next step in my professional development – from 
 </details>
 
 ## Core Area 1a: Understanding the Constraints and Benefits of Different Technologies
+<details open>
+  <summary>Expand or collapse this section</summary>
 
 ### Description
 
@@ -94,6 +91,7 @@ Looking ahead, I am interested in exploring more advanced features of LTI and SC
 * Project documentation or planning emails
 * Summary of early adoption metrics (if available)
 </details>
+[↑ Back to top](#sections)
 
 ## Reflective Area 2 – Learning, Teaching and Assessment
 <details open>
