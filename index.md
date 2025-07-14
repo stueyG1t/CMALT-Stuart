@@ -8,6 +8,9 @@ title: Stuart Smith CMALT Portfolio
 - [Core Area 1b: Technical Knowledge and Ability in the Use of Learning Technology](#Core-Area-1b:-Technical-Knowledge-and-Ability-in-the-Use-of-Learning-Technology)
 - [Core Area 1c: Supporting the Deployment of Learning Technologies](#Core-Area-1c:-Supporting-the-Deployment-of-Learning-Technologies)
 - [Core Area 2a: An Understanding of Teaching, Learning, and/or Assessment Processes](#Core-Area-2a:-An-Understanding-of-Teaching,-Learning,-and/or-Assessment-Processes)
+- [Core Area 2b: An Understanding of Your Target Learners](#Core-Area-2b:-An-Understanding-of-Your-Target-Learners)
+- [Core Area 3: Understanding and Engaging with Legislation, Policies, and Standards](#Core-Area-3:-Understanding-and-Engaging-with-Legislation,-Policies,-and-Standards)
+- 
 - 
 - [Bibliography](#bibliography)
 - [AI Usage Declaration](#ai-usage-declaration)
@@ -228,6 +231,198 @@ Sadler, D. R. (1989). Formative assessment and the design of instructional syste
 
 </details>
 
+## Core Area 2b: An Understanding of Your Target Learners
+<details open>
+  <summary>Expand or collapse this section</summary>
+
+### Description
+
+My work as a Digital Skills Developer at the University of Greenwich is framed by the institution’s strategic aim to become a digital-first university by 2030. This ambition places digital capability development at the heart of teaching and learning across all disciplines. Within this wider context, my work on the Digital Backpack initiative and associated AI workshops is designed to align not only with institutional priorities but also with key national frameworks and sector-wide conversations on digital equity, confidence, and inclusion.
+
+### Digital Backpack as a Strategic and Sector-Aligned Tool
+
+The Digital Backpack serves as a formative confidence-based diagnostic tool, mapping to both the Jisc Digital Capabilities Framework and the UK Government’s Essential Digital Skills Framework. It enables students and staff to reflect on their own digital competencies, receive personalised feedback, and engage in scaffolded learning journeys.
+
+This tool supports the university’s commitment to inclusive access and life-wide digital literacy. It allows us to surface inequalities in digital confidence while avoiding the punitive tone of traditional assessment. In a sector context, the Digital Backpack represents a scalable response to national calls for more inclusive and responsive digital skills strategies.
+
+### Widening Participation and Digital Inclusion
+
+The tool and workshops are built with a strong commitment to inclusion. Students from diverse linguistic, cultural, and socio-economic backgrounds regularly attend our sessions with vastly different digital starting points. Some may be confident consumers of social media but lack productive or academic digital skills.
+
+By focusing on non-judgmental self-assessment, plain language, and tool-agnostic tasks, the Backpack encourages a sense of agency and confidence. My reflection on delivering these sessions is that digital skills equity is not simply about access to tools, but about pedagogy and approach – how we frame digital development so it feels empowering rather than remedial.
+
+### AI, Critical Thinking, and Institutional Adaptation
+
+My AI-focused workshops introduce students and staff to Microsoft Copilot and guide them through its use as a formative learning companion. Informed by my PGCert study and institutional policy involvement, I teach participants how to critically use generative AI to:
+
+* Reframe complex questions
+* Generate model answers or revision materials
+* Translate and simplify academic language
+* Test their understanding through example generation
+
+This work reflects a wider shift in higher education. According to Intelligent.com (2024), 92% of students report using generative AI tools. The majority of this use happens outside guided learning. By embedding critical AI practice in our workshops, I aim to close the gap between informal use and educational benefit.
+
+I have contributed to the development of our university’s AI guidance and emphasise the importance of transparency, data awareness, and academic integrity in all AI-based activities.
+
+### Understanding Learner Needs and Evolving Practice
+
+Understanding the needs of learners in a digital-first institution has required both responsive design and creative feedback mechanisms. In live workshops, I have increasingly shifted from traditional knowledge checks (e.g. “Do you know how to…?”) toward interactive confidence-based sliders, particularly using tools like Mentimeter. These help surface not just gaps in capability, but underlying anxieties and misconceptions, especially for students who are reluctant to speak or appear on camera during online sessions.
+
+To supplement this, I regularly liaise with experienced colleagues who teach more directly and who have built long-term relationships with cohorts. Their insights have helped me shape materials and teaching approaches that are more culturally and linguistically responsive. This triangulated input – from students, peers, and real-time analytics – allows me to adapt delivery dynamically.
+
+One example of changed practice is the development of short, 10–15 minute presentation scripts that can be delivered live or accessed asynchronously. These are used to introduce a concept or digital skill before opening into collaborative exploration or tool-based tasks. This model accommodates different learning paces while maximising limited contact time. It also provides flexibility for learners who may never attend workshops but still need access to accessible, scaffolded content.
+
+The introduction of Microsoft Copilot and other AI tools into the student learning environment has also led to a major shift in my approach. I now include AI literacy in nearly every session – not only to acknowledge how widely students already use tools like ChatGPT, but to actively teach ethical and critical practices. By giving explicit permission to explore generative AI tools within defined boundaries, I help students shift from passive consumption to active, reflective engagement with both their learning content and the technology itself.
+
+### Reflection and Sector Engagement
+
+The wider context is changing rapidly, and while tools like Copilot offer powerful affordances, our assessment models and institutional practices often lag behind. I believe AI represents a levelling force – particularly for neurodivergent learners, mature students, and multilingual users – but only if pedagogy evolves alongside it.
+
+Through the Digital Backpack and AI teaching, I advocate for infrastructure and practice that acknowledges difference, prioritises confidence, and respects autonomy. My future goals include continued refinement of the diagnostic approach, further involvement in AI policy, and sharing of practice across the sector to support inclusive digital transformation.
+
+---
+
+### To-Do List for Evidence
+
+* Add artefact e.g student quote
+
+### References
+
+Intelligent.com (2024) *Survey: 92% of college students use AI tools like ChatGPT*. Available at: [https://www.intelligent.com/](https://www.intelligent.com/) (Accessed: 14 July 2025).
+
+Jisc (no date) *Digital capabilities framework*. Available at: [https://jisc.ac.uk](https://jisc.ac.uk) (Accessed: 14 July 2025).
+
+UK Department for Education (2019) *Essential digital skills framework*. Available at: [https://www.gov.uk/government/publications/essential-digital-skills-framework](https://www.gov.uk/government/publications/essential-digital-skills-framework) (Accessed: 14 July 2025).
+
+
+</details>
+
+
+
+* [ ] Copy of Digital Backpack mapping documentation (to Jisc/Essential Digital Skills)
+
+* [ ] Screenshot or link to university AI policy showing contributed definition
+
+* [ ] Email or notes showing contribution to LinkedIn Learning or Teams Premium rollout
+
+* [ ] Evidence of WCAG 2.1 compliance checklists used in workshop/resource development
+
+* [ ] Meeting minutes or summary of AI SIG discussions reflecting your input
+
+*
+
+---
+
+### References
+
+Equality Act 2010. (2010) *legislation.gov.uk*. Available at: [https://www.legislation.gov.uk/ukpga/2010/15/contents](https://www.legislation.gov.uk/ukpga/2010/15/contents) (Accessed: 14 July 2025).
+
+European Union (2016) *Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 (General Data Protection Regulation)*. Available at: [https://gdpr.eu/](https://gdpr.eu/) (Accessed: 14 July 2025).
+
+UK Government (2018) *The Public Sector Bodies (Websites and Mobile Applications) Accessibility Regulations 2018*. Available at: [https://www.legislation.gov.uk/uksi/2018/952/contents/made](https://www.legislation.gov.uk/uksi/2018/952/contents/made) (Accessed: 14 July 2025).
+
+UK Department for Education (2019) *Essential digital skills framework*. Available at: [https://www.gov.uk/government/publications/essential-digital-skills-framework](https://www.gov.uk/government/publications/essential-digital-skills-framework) (Accessed: 14 July 2025).
+
+Jisc (no date) *Digital capabilities framework*. Available at: [https://www.jisc.ac.uk/rd/projects/building-digital-capability](https://www.jisc.ac.uk/rd/projects/building-digital-capability) (Accessed: 14 July 2025).
+
+University of Greenwich (no date) *AI Guidance for Research*. Available at: [https://www.gre.ac.uk/ai-guidance/research](https://www.gre.ac.uk/ai-guidance/research) (Accessed: 14 July 2025).
+
+Equality Act 2010. (2010) *legislation.gov.uk*. Available at: [https://www.legislation.gov.uk/ukpga/2010/15/contents](https://www.legislation.gov.uk/ukpga/2010/15/contents) (Accessed: 14 July 2025).
+
+European Union (2016) *Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 (General Data Protection Regulation)*. Available at: [https://gdpr.eu/](https://gdpr.eu/) (Accessed: 14 July 2025).
+
+UK Government (2018) *The Public Sector Bodies (Websites and Mobile Applications) Accessibility Regulations 2018*. Available at: [https://www.legislation.gov.uk/uksi/2018/952/contents/made](https://www.legislation.gov.uk/uksi/2018/952/contents/made) (Accessed: 14 July 2025).
+
+UK Department for Education (2019) *Essential digital skills framework*. Available at: [https://www.gov.uk/government/publications/essential-digital-skills-framework](https://www.gov.uk/government/publications/essential-digital-skills-framework) (Accessed: 14 July 2025).
+
+Jisc (no date) *Digital capabilities framework*. Available at: [https://www.jisc.ac.uk/rd/projects/building-digital-capability](https://www.jisc.ac.uk/rd/projects/building-digital-capability) (Accessed: 14 July 2025).
+
+
+</details>
+
+## Core Area 3: Understanding and Engaging with Legislation, Policies, and Standards
+<details open>
+  <summary>Expand or collapse this section</summary>
+
+### Description
+
+My work in digital education requires a strong awareness of both legal and policy contexts. I regularly navigate legislative frameworks such as the General Data Protection Regulation (GDPR), accessibility requirements under the Equality Act 2010, and the UK’s copyright and licensing laws. These shape not only how I develop and deliver digital content, but also how I advise colleagues and guide institutional decisions. In addition to legal compliance, I engage with internal policies and national frameworks that influence practice in digital learning, inclusion, and AI ethics.
+
+---
+
+### 3a: Understanding and Engaging with Legislation
+
+A key legislative consideration in my role is the handling of student data and analytics, particularly as it relates to personalised learning and diagnostic tools. For example, the Digital Backpack project collects learner confidence data through a SCORM-based diagnostic, which only stored in a university approved system (Moodle). While we did not liaise directly with the Data Protection Office, we followed the university’s published data protection guidance closely and applied best practice under GDPR. One of our key principles is that we do not collect or retain any data that is not needed. All diagnostic data remains within Moodle, which has already been assessed and approved by the university. Students are invited to download a PDF of their results for personal use, but this is not retained on our systems, and the data disappears after download.
+
+Although the data collected is low-risk, we recognise the sensitivity of confidence scores and have been careful to ensure that the platform and associated processes align with policy frameworks. This approach reflects our belief in privacy by design and data minimisation.
+
+My experience with GDPR also extends to my early work on the LinkedIn Learning rollout. There was confusion at the university regarding whether users were required to link their personal LinkedIn profiles to their university accounts. I identified this issue and worked to revise internal documentation to clarify that linking is optional. This interpretation was later endorsed by the Data Protection Officer, reinforcing the importance of clarity and transparency in GDPR compliance.
+
+Over time, my thinking on compliance has evolved, particularly in response to the rise of generative AI. The rapid adoption of tools like Copilot has made it clear that AI policies need to be carefully worded. I advocated early on for precision in university policy language to ensure we don’t apply blanket terms to a highly complex and diverse set of technologies. As a result, I contributed to internal policy documents that distinguish between types of AI and the contexts in which they may or may not be used.
+
+I have become increasingly concerned about the limitations of current licensing models, particularly with Copilot. For instance, the university’s current implementation uses a corporate version of Microsoft 365 Copilot, which has notable content censorship and filtering that could limit academic research or open inquiry. While suitable in some contexts, such restrictions are problematic in a university setting, where academic freedom and open access to controversial or sensitive topics are essential.
+
+I have used my role within the university’s AI Special Interest Group (SIG) to reflect on and share these concerns, particularly around the disparity this might create between departments. For example, an AI tool acceptable in business or marketing courses may be completely unworkable in research exploring health, politics, or gender studies. These unresolved tensions inform my view that higher education institutions must push for purpose-built AI tools that respect both legal boundaries and academic needs.
+
+I have also raised concerns about the digital divide created when AI tools that level the playing field for disadvantaged students are restricted. Private tuition and access to cultural capital are rarely challenged, yet tools like GPT and Copilot are often viewed with suspicion. I have contributed to ongoing internal work on generative AI guidance to ensure that equity, access, and ethical use are all embedded in our institutional response.
+
+While I have no final resolution to the tensions raised by AI licensing and censorship, I believe ongoing dialogue and policy clarity are critical. I continue to advocate for a higher education-specific licensing model that supports safe, inclusive, and critical engagement with generative AI technologies.
+
+My understanding of the legal landscape has also informed the responsible adoption of Microsoft Copilot and LinkedIn Learning. For example, I have raised concerns about platform data use, the terms of service, and the lack of institutional control over some AI outputs. In doing so, I contributed to our internal AI guidance, which stresses transparency, learner consent, and alignment with UK GDPR principles.
+
+I also consider accessibility legislation—particularly the Public Sector Bodies (Websites and Mobile Applications) Accessibility Regulations 2018—in every tool or learning resource I design. My background in Human–Computer Interaction and accessibility, including postgraduate work and Jisc-published research, has embedded this deeply in my practice.
+
+---
+
+### 3b: Understanding and Engaging with Policies and Standards
+
+I have played an active role in shaping institutional strategy and policy, particularly in the areas of digital capability and generative AI. One significant example is the integration of the Digital Backpack into the university’s curriculum framework. This required working closely with the Academic Learning Enhancement (ALE) team and aligning the tool with institutional graduate attributes. I authored documentation mapping Backpack content to both the Jisc and Essential Digital Skills frameworks to support this integration.
+
+I also engage regularly with technical standards and procurement processes. When rolling out platforms such as LinkedIn Learning and piloting Teams Premium, I assessed compliance with WCAG 2.1 AA accessibility guidelines and ensured the solutions met our institutional interoperability standards, including SCORM and LTI 1.3. I contributed to procurement and onboarding documentation to ensure alignment with technical, pedagogical, and ethical priorities.
+
+In the area of generative AI, I am a member of the University’s AI Special Interest Group (SIG), where I actively contribute to discussions and documentation. Notably, I directly contributed to the official university AI guidance for research by helping define 'generative AI' and advocating the adoption of IBM’s definition, which has since been published as part of the university’s policy (University of Greenwich, no date). My advocacy in this space has consistently focused on precision in language to ensure AI guidance reflects the wide range of tools and use cases, rather than applying restrictive blanket terms.
+
+These experiences have deepened my understanding of the challenge in translating abstract values like inclusivity, transparency, and equity into practice. As an example, my work has helped shape how university policies address the limitations of commercial AI licenses, particularly the content filtering built into corporate versions of Copilot. I have raised concerns through the AI SIG that these constraints may disproportionately affect research areas that explore sensitive or marginalised topics. This reflection continues to shape how I engage with policy – advocating for clarity, nuance, and above all, equitable implementation.
+
+Overall, I see policy not as a constraint but as a living tool that can support responsible innovation when approached with care and critical thought.
+
+I also work within and promote adherence to standards of interoperability (e.g. SCORM and LTI 1.3) and accessibility (e.g. WCAG 2.1 AA). These standards guide my decisions when selecting tools or proposing integrations—ensuring both student access and sustainability. For example, during the rollout of LinkedIn Learning and the Teams Premium pilot, I assessed their compliance with technical and ethical standards and contributed documentation to support procurement and staff onboarding.
+
+Finally, I participate in university working groups and Special Interest Groups (SIGs) where policies on generative AI, accessibility, and digital equity are discussed. My input often centres on how to translate high-level policies into implementable, inclusive practices. I aim to ensure that policies do not just exist in principle but actually support meaningful change in practice.
+
+---
+
+### To-Do List for Evidence
+
+* [ ] Copy of Digital Backpack mapping documentation (to Jisc/Essential Digital Skills)
+
+* [ ] Screenshot or link to university AI policy showing contributed definition
+
+* [ ] Email or notes showing contribution to LinkedIn Learning or Teams Premium rollout
+
+* [ ] Evidence of WCAG 2.1 compliance checklists used in workshop/resource development
+
+* [ ] Meeting minutes or summary of AI SIG discussions reflecting your input
+
+*
+
+---
+
+### References
+
+Equality Act 2010. (2010) legislation.gov.uk. Available at: https://www.legislation.gov.uk/ukpga/2010/15/contents (Accessed: 14 July 2025).
+
+European Union (2016) Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 (General Data Protection Regulation). Available at: https://gdpr.eu/ (Accessed: 14 July 2025).
+
+UK Government (2018) The Public Sector Bodies (Websites and Mobile Applications) Accessibility Regulations 2018. Available at: https://www.legislation.gov.uk/uksi/2018/952/contents/made (Accessed: 14 July 2025).
+
+UK Department for Education (2019) Essential digital skills framework. Available at: https://www.gov.uk/government/publications/essential-digital-skills-framework (Accessed: 14 July 2025).
+
+Jisc (no date) Digital capabilities framework. Available at: https://www.jisc.ac.uk/rd/projects/building-digital-capability (Accessed: 14 July 2025).
+
+University of Greenwich (no date) AI Guidance for Research. Available at: https://www.gre.ac.uk/ai-guidance/research (Accessed: 14 July 2025).
+</details>
+
 ## Hold 2
 <details open>
   <summary>Expand or collapse this section</summary>
@@ -264,6 +459,7 @@ Sadler, D. R. (1989). Formative assessment and the design of instructional syste
 - Zhao, W., Yang, M., Zhang, H., Liu, Y., and Chen, H. (2025) ‘Let AI read first: Enhancing reading abilities for individuals with dyslexia through artificial intelligence’, *arXiv*. Available at: https://arxiv.org/abs/2504.00941 (Accessed: 20 May 2025).
 
 [↑ Back to top](#sections)
+
 
 ## AI Usage Declaration
 
