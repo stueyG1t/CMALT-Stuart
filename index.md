@@ -1,9 +1,9 @@
 ---
 layout: home
-title: Stuart's PGCert Portfolio
+title: Stuart Smith CMALT Portfolio
 ---
 ## Sections
-- [Introduction](#introduction)
+- [Contextual Statement](#Contextual-Statement)
 - [Reflective Area 1 - Operational Issues](#reflective-area-1--operational-issues)
 - [Reflective Area 2 – Learning, Teaching and Assessment](#reflective-area-2--learning-teaching-and-assessment)
 - [Reflective Area 3 – Wider Context](#reflective-area-3--wider-context)
@@ -21,7 +21,33 @@ title: Stuart's PGCert Portfolio
 2. A [Glossary](#glossary-of-terms) is included with explanations and links for specialist terms.
 3. A [Credits](#credits) section is included to acknowledge image sources.
 
-## Introduction
+## Contextual Statement
+
+I am currently a digital skills developer at the University of Greenwich, where I lead institutional efforts to improve digital capability among students and staff. My work is grounded in the belief that learning technology is not just a set of tools, but a form of literacy essential to equity, empowerment, and future-readiness in higher education.
+
+I have not previously completed Certified Membership of the Association for Learning Technology (CMALT), but I strongly identify with its values – particularly the commitment to exploring the interplay between technology and learning, and to supporting ethical, accessible, and inclusive practice. My Senior CMALT submission builds directly on the critical reflection and pedagogical development undertaken as part of my PGCert in Teaching in Higher Education, where I shifted from competence-based delivery to confidence-based facilitation, and began to see myself more as an educator than a technologist.
+
+One of the cornerstones of my practice is the Digital Backpack, a university-wide initiative that I have led from inception. Designed to address widening participation, digital inclusion, and curriculum-embedded skills development, the Backpack includes a formative, confidence-based diagnostic tool aligned with both the Jisc Digital Capabilities Framework (Jisc, 2022) and the UK Government’s Essential Digital Skills Framework (Department for Education, 2019). I have led cross-departmental collaboration – including with the Moodle and branding teams – negotiated access to institutional systems, and worked directly with students to co-design inclusive interventions.
+
+In parallel, I have overseen the integration of LinkedIn Learning using the System for Cross-domain Identity Management (SCIM) protocol, improving provisioning, segmentation, and analytics to support data-informed strategy. This work has enabled more focused engagement initiatives and greater value realisation from the institution’s investment.
+
+I also mentor both students and staff – for example, supporting a Business School undergraduate exploring careers in learning platforms, and advising staff colleagues on digital capability development and resource design. These mentoring experiences have strengthened my commitment to developing others and fostering leadership outside formal hierarchies.
+
+My impact spans local, institutional, and sector levels. Locally, I deliver inclusive workshops and consultations that build agency and digital confidence. Institutionally, I contribute to strategic conversations aligned with our 2030 “digital-first” vision (University of Greenwich, 2022). Sector-wide, I have spoken at events like the SHIFT Conference 2024, contribute to an internal Artificial Intelligence (AI) Special Interest Group (AI-SIG), and have helped shape guidance on the ethical use of generative AI in teaching and learning.
+
+I also support evidence-based decision making by evaluating tools such as the Jisc Digital Capabilities Tool, LinkedIn Learning, and Microsoft Teams Premium – particularly for their AI affordances and accessibility features. These evaluations have influenced purchasing, policy, and practice at Greenwich.
+
+This portfolio represents the next step in my professional development – from practitioner to institutional influencer. Through sustained work in learning technology, I have developed a strong strategic voice, a focus on inclusion and confidence-building, and a desire to contribute not only to my institution, but to national conversations about the ethical, inclusive, and purposeful use of digital tools in higher education.
+
+---
+
+### References (Greenwich Harvard Style)
+
+* Department for Education (2019) *Essential digital skills framework*. Available at: [https://www.gov.uk/government/publications/essential-digital-skills-framework](https://www.gov.uk/government/publications/essential-digital-skills-framework) (Accessed: 14 July 2025).
+* Jisc (2022) *Digital Capabilities Framework: the six elements defined*. Available at: [https://digitalcapability.jisc.ac.uk/what-is-digital-capability/](https://digitalcapability.jisc.ac.uk/what-is-digital-capability/) (Accessed: 14 July 2025).
+* University of Greenwich (2022) *Digital Strategy 2030: Becoming a digital-first university*. Internal document.
+
+
 <details open>
   <summary>Expand or collapse this section</summary>
 <img
