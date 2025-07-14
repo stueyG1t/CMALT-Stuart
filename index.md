@@ -7,6 +7,7 @@ title: Stuart Smith CMALT Portfolio
 - [Core Area 1a: Understanding the Constraints and Benefits of Different Technologies](#Core-Area-1a:-Understanding-the-Constraints-and-Benefits-of-Different-Technologies)
 - [Core Area 1b: Technical Knowledge and Ability in the Use of Learning Technology](#Core-Area-1b:-Technical-Knowledge-and-Ability-in-the-Use-of-Learning-Technology)
 - [Core Area 1c: Supporting the Deployment of Learning Technologies](#Core-Area-1c:-Supporting-the-Deployment-of-Learning-Technologies)
+- [Core Area 2a: An Understanding of Teaching, Learning, and/or Assessment Processes](#Core-Area-2a:-An-Understanding-of-Teaching,-Learning,-and/or-Assessment-Processes)
 - 
 - [Bibliography](#bibliography)
 - [AI Usage Declaration](#ai-usage-declaration)
@@ -180,6 +181,52 @@ This deployment work aligns with the CMALT principles of collaboration, critical
 
 </details>
 [↑ Back to top](#sections)
+
+## Core Area 2a: An Understanding of Teaching, Learning, and/or Assessment Processes
+<details open>
+  <summary>Expand or collapse this section</summary>
+
+### Description
+
+As a Digital Skills Developer at the University of Greenwich, I design and deliver inclusive, scaffolded digital skills sessions that support both students and staff in developing practical capabilities. My teaching approach is grounded in constructivist, humanist, and progressivist principles. Through my PGCert in Teaching in Higher Education, I have deepened my theoretical understanding and evolved my practice to emphasise co-creation, confidence-building, and critical engagement.
+
+### Workshop Design and Delivery
+
+I have created a developing programme of digital skills workshops, delivered online and aligned with the university's curriculum framework. These include sessions on Copilot, Word, Excel, Outlook, Teams, OneDrive, digital wellbeing, and digital security. Importantly, these sessions are tool-agnostic. The focus is on transferable digital skills, using Microsoft 365 tools only as accessible examples of what the university provides.
+
+Each session is carefully scaffolded: beginning with a brief introduction, followed by practical tasks based on realistic, curriculum-relevant scenarios. These tasks are chunked into manageable steps, especially in sessions that target essential digital skills. Jargon is minimised. I often describe AI interactions in natural terms – for example, replacing the word "prompt" with "question" to reduce barriers to understanding.
+
+A notable moment came when a mature student, often bullied for their lack of digital skills, began crying during a Copilot session – not out of distress, but because they felt empowered for the first time to understand complex university systems using a tool that spoke their language. This experience reflects my core goal: to support learners not only in acquiring digital skills, but in regaining agency and confidence.
+
+### Formative Use of AI in Learning
+
+I explore how students can use AI tools like Copilot for formative learning – asking questions, simplifying complex university communications (such as MFA), and even reframing assessed content (within the parameters of governing institutional policies). I encourage students to treat AI as a coach, not a crutch. For example, they might use Copilot to break down a challenging question, or to generate additional examples to test their understanding. My teaching demystifies the technology and invites experimentation within ethical boundaries.
+
+In one session, when students were given a structured task using Copilot's image creation features, they instead pursued their own creative ideas. I welcomed this divergence because the primary objective – ownership and confidence with the tool – had been achieved. My pedagogy is adaptive and responsive: I rarely know in advance who will attend, and I frequently adjust based on real-time feedback and participant needs.
+
+### The Digital Backpack Diagnostic
+
+The Digital Backpack confidence diagnostic tool complements this work by enabling students and staff to self-assess their digital capabilities. It draws on both the Jisc Digital Capabilities Framework and the UK Government's Essential Digital Skills Framework, offering a formative, non-judgmental entry point for digital development. Originally developed as a judgement-based skills test, we redesigned it, following feedback, as a confidence-based Likert model to avoid negative assessment experiences and better support inclusion.
+
+It's designed for diverse users: screen-reader friendly, keyboard-navigable, and SCORM-packaged to work across platforms. It operates with a bias toward under-reporting confidence to ensure self-assessments err on the cautious side. Students receive personalised recommendations but are never explicitly told whether they are beginner, intermediate, or advanced. The goal is to promote self-efficacy and reflection, not competition or grading.
+
+### Evolving Teaching Practice and Institutional Impact
+
+My PGCert reflections have helped me move from "delivery" toward "facilitation." I now see my role as helping students interact meaningfully with information. I support them in exploring tools, reflecting on use, and critically evaluating output.
+
+The university's recognition of the importance of digital skills was already evident in the creation of my role. What's evolved more recently is a shift in how those skills are approached: the confidence-first, scaffolded model that underpins the Digital Backpack is increasingly being seen as a reference point. Its inclusion in the university's developing curriculum framework reflects this. I've become a go-to person for colleagues seeking to understand how core digital capabilities intersect with the tools we use – from Microsoft 365 to generative AI. This has led to ongoing collaboration across academic and professional services teams, with my input now influencing areas beyond the traditional scope of educational development.
+
+I draw on principles of formative and diagnostic assessment (Black & Wiliam, 1998; Sadler, 1989), treating tools like the Digital Backpack and Copilot activities as scaffolds for reflection and self-regulation rather than summative endpoints.
+
+---
+
+### References
+
+Black, P., & Wiliam, D. (1998). Assessment and classroom learning. *Assessment in Education: Principles, Policy & Practice*, 5(1), 7–74. [https://doi.org/10.1080/0969595980050102](https://doi.org/10.1080/0969595980050102)
+
+Sadler, D. R. (1989). Formative assessment and the design of instructional systems. *Instructional Science*, 18(2), 119–144. [https://doi.org/10.1007/BF00117714](https://doi.org/10.1007/BF00117714)
+
+</details>
 
 ## Hold 2
 <details open>
