@@ -50,33 +50,50 @@ This portfolio represents the next step in my professional development – from 
 [↑ Back to top](#sections)
 </details>
 
-## Reflective Area 1 – Operational Issues
+## Core Area 1a: Understanding the Constraints and Benefits of Different Technologies
 
+### Description
+
+As the institutional lead for LinkedIn Learning at the University of Greenwich, one of my primary responsibilities has been to ensure we derive maximum value from our investment in the platform. LinkedIn Learning offers wide-ranging skills development opportunities for both students and staff, particularly in areas such as digital literacy, employability, and personal development. However, it is a third-party platform and not directly integrated with the university’s core systems.
+
+A key challenge we encountered was the fragmentation between LinkedIn Learning and Moodle, our primary Virtual Learning Environment (VLE). Tutors were required to manage content and learners across two systems. This led to duplicated effort, difficulties tracking student progress, and inconsistent user experiences.
+
+To address these issues, I led the integration of LinkedIn Learning into Moodle using Learning Tools Interoperability (LTI) 1.3, enabling tutors to embed learning resources directly into their course areas. This provided a more seamless experience for students, where progress could be monitored centrally within Moodle.
+
+This solution was evaluated against several key criteria:
+
+* Interoperability – using an established standard that enables secure, role-aware data exchange
+* Sustainability – reducing duplicate account management and making the solution scalable
+* Tutor workload – simplifying access to curated content and freeing time for teaching and support
+* User engagement – embedding content directly into courses encourages more consistent uptake
+
+In parallel, I supported the adoption of the System for Cross-domain Identity Management (SCIM) protocol to automate the provisioning and de-provisioning of user accounts. SCIM allows synchronisation of role-based access using data from HR and student records systems. While Single Sign-On (SSO) supports authentication, SCIM adds granular access control and supports segmentation by audience, enabling tailored communications and learning pathways.
+
+These choices were not without constraints. Moodle's limited support for deep linking in LTI 1.3 required significant workaround planning and the creation of support guides for tutors. The SCIM rollout required coordination across IT, HR, and third-party vendors, as well as careful alignment with internal data governance processes.
+
+The integration has so far been piloted with a small group of tutors. While formal evaluation is still underway, initial anecdotal feedback has been positive. Tutors noted the simplicity of embedding resources and the benefit of being able to track student engagement within Moodle. Interest from professional services colleagues has also grown, particularly from HR, who are exploring LinkedIn Learning as a CPD platform for staff.
+
+### Reflection
 <details open>
   <summary>Expand or collapse this section</summary>
+This project sharpened my understanding of what “fit for purpose” really means in educational technology. The most effective tools are not those with the most features, but those that integrate well into existing systems and workflows. Integration alone can fundamentally alter how a tool is perceived – transforming LinkedIn Learning from an optional resource to a valued part of the course delivery toolkit.
 
-<img
-class="align-right"
-src="{{ "/assets/media/PGCert-Portfolio-john-barkiple-l090uFWoPaI-unsplash.jpg" | prepend: site.baseurl }}"
-alt="Decorative image"
-width="300"
-loading="lazy"
-/>
+Initially, I underestimated how much of a barrier even small user experience issues could be. Once integration removed the friction of switching platforms, tutors became more open to engaging with LinkedIn Learning as a core teaching tool. It was a lesson in how technology decisions are only as effective as their adoption – and adoption depends on context and clarity.
 
-<p>A core part of my practice involves teaching students how to utilise tools like Copilot and other digital technologies to support their everyday learning. Generative Artificial Intelligence (Gen AI) is rapidly becoming a widely adopted tool in everyday life. It is in line with PSF K2 to help students learn how to use this tool appropriately to support their studies and as a subject in its own right. This reflects my own practice. For example, when I was running an Excel tutorial and discovered that key learning materials had been deprecated, I used Copilot in real time to generate a new learning activity based on prompts that students helped craft. This turned what could’ve been a failure into a moment of digital empowerment. Students saw that a lack of knowledge wasn’t a dead end—it was an opportunity for collaboration, experimentation, and co-creation.</p>
+This project also strengthened my skills in cross-functional collaboration. Implementing SCIM required not only technical understanding, but also communication between teams with very different priorities and vocabularies. I learned to frame technical decisions in terms of pedagogical and operational benefit, making the case for scalable, long-term solutions that are sustainable and inclusive.
 
-<p>Copilot excels in many areas, particularly as a personal tutor or coach. Its ability to understand natural language, propose ideas, and reframe problems makes it very useful for students with lower confidence or those from non-traditional learning backgrounds. This reflects PSF V2, helping ensure equity of access to opportunity. But it’s not without constraints. Enterprise-level censorship, hallucinations, and limited philosophical depth can frustrate more advanced users. In particular, Microsoft has implemented filters in Copilot that block certain terms—such as those associated with violence, politics, or elections—which can hinder academic inquiry in higher education (Field, 2024). In terms of ethical use, Copilot’s cheery tone sometimes masks a lack of clarity about its boundaries, and it can become evasive when questioned about deeper topics.</p>
+Looking ahead, I am interested in exploring more advanced features of LTI and SCIM integration, including trigger-based recommendations and pathways based on learner progression. This work represents my commitment to digital systems that enable autonomy, reduce barriers, and align with wider institutional strategies for inclusive and accessible education.
 
-<p>Additionally, I am implementing SCIM (System for Cross-domain Identity Management) and LTI (Learning Tools Interoperability) integrations to ensure improved access to LinkedIn Learning across Moodle. This technical foundation is helping embed digital learning more meaningfully within the student experience. While a technical activity, the integration into Moodle is supportive of PSF A2: students and tutors already use Moodle, so it is appropriate to use this familiar environment as a bridge to new learning. Students and tutors will have fewer steps to access the learning materials of LinkedIn Learning by having it embedded in Moodle. As Moodle is the preferred learning environment at the institution, it makes sense to remove barriers to resource uptake by simplifying access. SCIM will mean that students have smoother access to LinkedIn Learning materials and, additionally, tutors will be able to track learning in the Moodle system alongside their own teaching materials.</p>
+---
 
-<p>In the development of the Digital Backpack, I have been working cross-institutionally to address a critical gap in student skills assessment (Jisc, 2019). The project reflects my ability to manage complex TEL initiatives aligned with both pedagogical goals and institutional strategy. Through iterative consultation, I ensured the design was both pedagogically robust and operationally feasible. The assessment is an important starting point in making sure that learners receive the right support and guidance (PSF A4) to develop their digital skills. Confidence building is a key part of my work in teaching digital skills. The Digital Backpack is an extension of the confidence measures that I use in my workshops. One of my teaching observers remarked, “Starting the session with an individual confidence-level test is a great way to encourage people to think about their prior knowledge.” The Digital Backpack will encourage further, more detailed reflection to help students recognize the areas they need to address.</p>
+### Evidence to be Attached
 
-<p>I have learned that it is very difficult to combat subjectivity in the development of assessment tools such as these. We all have biases, but I feel that by engaging with students and colleagues in the development process, I have the best chance of reducing their impact. The Digital Backpack is in its first iteration, and I am keen to emphasise that there is much to be learned; gathering and acting on the lessons will ensure that the tool becomes more finished and more useful.</p>
-
-<p>Increasingly, I champion Markdown as a core TEL production tool. Markdown is one of the oldest and most robust text formats available and has particular value in education because of its accessibility, structure, and long-term archival viability. As Oelen and Auer (2019) note, <q>“it is possible to create presentation slides without the need for visual interaction, making it suitable for non-sighted users,”</q> highlighting Markdown’s compatibility with screen readers and keyboard-only navigation. Unfortunately, Microsoft’s broader ecosystem isn’t Markdown-friendly. Word and Teams, for instance, don’t offer clean Markdown workflows, which can present real limitations when working with screen readers or preparing structured content for future reuse.</p>
-
+* Screenshot of LinkedIn Learning embedded within Moodle
+* Diagram or summary of the SCIM provisioning workflow
+* Anecdotal tutor comments or internal pilot notes
+* Project documentation or planning emails
+* Summary of early adoption metrics (if available)
 </details>
-[↑ Back to top](#sections)
 
 ## Reflective Area 2 – Learning, Teaching and Assessment
 <details open>
