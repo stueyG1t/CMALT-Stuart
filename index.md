@@ -48,48 +48,54 @@ This portfolio represents the next step in my professional development – from 
 
 ## Core Area 1a: Understanding the Constraints and Benefits of Different Technologies
 
-### Description
+As the institutional lead for LinkedIn Learning at the University of Greenwich, one of my primary responsibilities has been to ensure we derive maximum value from our investment in the platform. LinkedIn Learning offers wide-ranging skills development opportunities for both students and staff, particularly in areas such as digital literacy, employability, and personal development. However, it is a third-party platform and not natively integrated with the university’s core systems.
 
-As the institutional lead for LinkedIn Learning at the University of Greenwich, one of my primary responsibilities has been to ensure we derive maximum value from our investment in the platform. LinkedIn Learning offers wide-ranging skills development opportunities for both students and staff, particularly in areas such as digital literacy, employability, and personal development. However, it is a third-party platform and not directly integrated with the university’s core systems.
+A key challenge we encountered was the fragmentation between LinkedIn Learning and Moodle, our primary Virtual Learning Environment (VLE). Tutors were required to manage content and learners across two systems, leading to duplicated effort, difficulties in tracking student progress, and inconsistent user experiences. Despite this, there was clear interest from tutors in making better use of LinkedIn Learning.
 
-A key challenge we encountered was the fragmentation between LinkedIn Learning and Moodle, our primary Virtual Learning Environment (VLE). Tutors were required to manage content and learners across two systems. This led to duplicated effort, difficulties tracking student progress, and inconsistent user experiences.
+> "It would be great to make a brief [LinkedIn Learning] pathway... So both students and staff could have quick way of learning more about it..." – Tutor query about LinkedIn Learning
 
-To address these issues, I led the integration of LinkedIn Learning into Moodle using Learning Tools Interoperability (LTI) 1.3, enabling tutors to embed learning resources directly into their course areas [Appendix A - Step-by-Step Guide: Embedding a LinkedIn Learning Course in Moodle](#a--step-by-step-guide-embedding-a-linkedin-learning-course-in-moodle). This provides a more seamless experience for students, where progress could be monitored centrally within Moodle.
+This quote reflects some of the confusion that exists among tutors about LinkedIn Learning. Because Moodle is the university’s established VLE, introducing LinkedIn Learning as a standalone service required additional training, which could be mitigated through integration.
 
-This solution was evaluated against several key criteria:
+Tutor interest became a vital lever in securing resources and institutional support for the project. Email correspondence regularly included phrases such as:
 
-- Interoperability – using an established standard that enables secure, role-aware data exchange
-- Sustainability – reducing duplicate account management and making the solution scalable
-- Tutor workload – simplifying access to curated content and freeing time for teaching and support
-- User engagement – embedding content directly into courses encourages more consistent uptake
+> "Getting a lot of interest from tutors in the ability to start importing LinkedIn Learning modules." – Email extract from Stuart Smith to Moodle team, 25 November 2024
 
-<img alt="SCIM working with SSO" src="./assets/media/scimFlow.png" class="img.align-left imgSize"/> In parallel, I supported the adoption of the System for Cross-domain Identity Management (SCIM) protocol to automate the provisioning and de-provisioning of user accounts. SCIM allows synchronisation of role-based access using data from HR and student records systems. While Single Sign-On (SSO) supports authentication, SCIM adds granular access control and supports segmentation by audience, enabling tailored communications and learning pathways.
+To address these issues, I led the integration of LinkedIn Learning into Moodle using Learning Tools Interoperability (LTI) 1.3. This enabled tutors to embed learning resources directly into their course areas, creating a more seamless experience for students, with progress monitored centrally via Moodle.  
+[Appendix A – Step-by-Step Guide: Embedding a LinkedIn Learning Course in Moodle](#a--step-by-step-guide-embedding-a-linkedin-learning-course-in-moodle)
 
-These choices were not without constraints. Moodle's limited support for deep linking in LTI 1.3 required significant workaround planning and the creation of support guides for tutors. The SCIM rollout required coordination across IT, HR, and third-party vendors, as well as careful alignment with internal data governance processes.
+In selecting and implementing this solution, I evaluated it against several key criteria:
 
-The integration has so far been piloted with a small group of tutors. While formal evaluation is still underway, initial anecdotal feedback has been positive. Tutors noted the simplicity of embedding resources and the benefit of being able to track student engagement within Moodle. Interest from professional services colleagues has also grown, particularly from HR, who are exploring LinkedIn Learning as a CPD platform for staff.
+- **Interoperability** – using an established standard that enables secure, role-aware data exchange  
+- **Sustainability** – reducing duplicate account management and ensuring the solution could scale  
+- **Tutor workload** – simplifying access to curated content and freeing time for teaching and support  
+- **User engagement** – embedding content directly into courses to encourage consistent uptake
 
-### Reflection
+However, the Moodle team raised valid concerns around data protection, particularly regarding the exchange of information between Moodle and LinkedIn Learning. This was escalated to the University’s Data Protection Office. Following a review, we received confirmation that existing contracts and policies adequately covered this use case. Although I had assumed this to be the case, I welcomed the scrutiny—it served as a critical reminder to surface data protection considerations at the outset of any integration project.
 
-This project sharpened my understanding of what “fit for purpose” really means in educational technology. The most effective tools are not those with the most features, but those that integrate well into existing systems and workflows. Integration alone can fundamentally alter how a tool is perceived – transforming LinkedIn Learning from an optional resource to a valued part of the course delivery toolkit.
+> "That’s great news that the data protection side is all ok..." – Moodle team email confirmation, 27 November 2024
 
-Initially, I underestimated how much of a barrier even small user experience issues could be. Once integration removed the friction of switching platforms, tutors became more open to engaging with LinkedIn Learning as a core teaching tool. It was a lesson in how technology decisions are only as effective as their adoption – and adoption depends on context and clarity.
+![Diagram showing how SCIM complements SSO by automating user provisioning, with arrows connecting HR systems, student records, SCIM, and LinkedIn Learning to show synchronisation and segmentation](./assets/media/scimFlow.png)
 
-This project also strengthened my skills in cross-functional collaboration. Implementing SCIM required not only technical understanding, but also communication between teams with very different priorities and vocabularies. I learned to frame technical decisions in terms of pedagogical and operational benefit, making the case for scalable, long-term solutions that are sustainable and inclusive.
+In parallel, I supported the adoption of the **System for Cross-domain Identity Management (SCIM)** protocol to automate user account provisioning. SCIM enables synchronisation of role-based access using data from HR and student record systems. While Single Sign-On (SSO) supports authentication, SCIM adds granular control, audience segmentation, and more tailored communications and learning pathways.
 
-Looking ahead, I am interested in exploring more advanced features of LTI and SCIM integration, including trigger-based recommendations and pathways based on learner progression. This work represents my commitment to digital systems that enable autonomy, reduce barriers, and align with wider institutional strategies for inclusive and accessible education.
+These choices came with constraints. Moodle’s limited support for deep linking via LTI 1.3 required significant workaround development and tutor support documentation. The SCIM rollout involved coordination across IT, HR, and third-party vendors, as well as alignment with institutional data governance processes.
 
----
+The integration has been piloted with a small group of tutors. While formal evaluation is ongoing, initial anecdotal feedback has been positive. Tutors have noted the simplicity of embedding resources and the benefit of being able to track student engagement within Moodle. Interest has also grown among professional services colleagues, particularly from HR, who now view LinkedIn Learning as a cost-effective CPD platform.
 
-### Evidence to be Attached
+## Reflection
 
-- Screenshot of LinkedIn Learning embedded within Moodle
-- Diagram or summary of the SCIM provisioning workflow
-- Anecdotal tutor comments or internal pilot notes
-- Project documentation or planning emails
-- Summary of early adoption metrics (if available)
+This project sharpened my understanding of what *fit for purpose* means in learning technology. The most effective tools are not necessarily the most feature-rich—but those that integrate cleanly into existing systems and workflows. Integration can fundamentally change how a tool is perceived—transforming LinkedIn Learning from an optional add-on into a valued part of course delivery.
 
-[↑ Back to top](#sections)
+I initially underestimated how even small usability barriers could inhibit adoption. Once we removed the friction of switching platforms, tutors were far more willing to engage with LinkedIn Learning. This affirmed that technology decisions are only as successful as their uptake—and adoption depends on context, usability, and clarity.
+
+Gaining strategic support required me to communicate long-term benefits in a language aligned with institutional priorities such as our **“digital-first by 2030” strategy** [see Contextual Statement](#contextual-statement) and workload reduction goals. It strengthened my cross-functional collaboration skills and reminded me of the importance of framing technical developments in pedagogical and operational terms.
+
+With improved data availability, the next phase will involve analysing how usage of the platform evolves among students and tutors. These insights will guide and justify further development, including the potential for advanced SCIM/LTI features such as trigger-based recommendations and adaptive learning pathways.
+
+This work also ties into the technical reflections presented in [Core Area 1b](#core-area-1b-technical-knowledge-and-ability-in-the-use-of-learning-technology), the deployment context in [Core Area 1c](#core-area-1c-supporting-the-deployment-of-learning-technologies), and the wider institutional strategy explored in [Core Area 2b](#core-area-2b-an-understanding-of-your-target-learners).
+
+It exemplifies my commitment to learning technologies that empower autonomy, reduce barriers, and align with strategic goals for inclusive, accessible digital education.
+
 
 ## Core Area 1b: Technical Knowledge and Ability in the Use of Learning Technology
 
