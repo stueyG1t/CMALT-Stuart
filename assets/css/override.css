@@ -22,5 +22,12 @@ summary {
     background-color: #eaeaea;
   }
   
+  .imgSize {
+    width: 100%;
+    height: auto;
+    max-width: 300px;
+    margin: 0 auto;
+    display: block;
+  }
 
   
