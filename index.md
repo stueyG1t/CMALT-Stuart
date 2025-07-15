@@ -82,7 +82,7 @@ These choices came with constraints. Moodle’s limited support for deep linking
 
 The integration has been piloted with a small group of tutors. While formal evaluation is ongoing, initial anecdotal feedback has been positive. Tutors have noted the simplicity of embedding resources and the benefit of being able to track student engagement within Moodle. Interest has also grown among professional services colleagues, particularly from HR, who now view LinkedIn Learning as a cost-effective CPD platform.
 
-## Reflection
+### Reflection
 
 This project sharpened my understanding of what *fit for purpose* means in learning technology. The most effective tools are not necessarily the most feature-rich—but those that integrate cleanly into existing systems and workflows. Integration can fundamentally change how a tool is perceived—transforming LinkedIn Learning from an optional add-on into a valued part of course delivery.
 
@@ -96,23 +96,25 @@ This work also ties into the technical reflections presented in [Core Area 1b](#
 
 It exemplifies my commitment to learning technologies that empower autonomy, reduce barriers, and align with strategic goals for inclusive, accessible digital education.
 
-
 ## Core Area 1b: Technical Knowledge and Ability in the Use of Learning Technology
 
 ### Description
 
-As a digital skills developer at the University of Greenwich, I apply a wide-ranging technical skill set across institutional platforms, open web technologies, and emerging AI tools. My core responsibilities include developing and embedding learning technologies that are scalable, inclusive, and strategically aligned with the university’s ambition to become a digital-first institution by 2030.
+In my role as the Digital Skills Developer at the University of Greenwich, I apply a wide-ranging technical skill set across institutional platforms, open web technologies, and emerging AI tools. My core responsibilities include developing and embedding learning technologies that are scalable, inclusive, and strategically aligned with the university’s ambition to become a digital-first institution by 2030.
 
 I support the creation, delivery, and integration of learning content using:
 
-- Moodle (including Sharable Content Object Reference Model. (SCORM) packaging and plugin integration)
-- Microsoft 365 (Teams, OneNote, Word, Excel, PowerPoint, OneDrive, Outlook, and Copilot)
-- LinkedIn Learning, including LTI 1.3 integration for Moodle
-- Custom tools for diagnostic and formative assessment – most notably the Digital Backpack
+- **Moodle** (including Sharable Content Object Reference Model (SCORM) packaging and plugin integration)  
+  ![SCORM wrapped content in Moodle](./assets/media/LinkedInLearningInMoodle.png)
+- **Microsoft 365** (Teams, OneNote, Word, Excel, PowerPoint, OneDrive, Outlook, and Copilot)
+- **LinkedIn Learning**, including LTI 1.3 integration for Moodle  
+  LTI 1.3 integration between Moodle and LinkedIn Learning allows secure, standards-based single sign-on and content launch with user-level tracking. To configure it, an admin must register LinkedIn Learning as an external tool provider in Moodle using client credentials from LinkedIn Learning’s admin portal and enable LTI 1.3 services in both systems (Microsoft, 2023)
+- **Custom tools for diagnostic and formative assessment**, most notably the Digital Backpack  
+  ![Bespoke Digital Capabilities Diagnostic Assessment Tool shown embedded, using SCORM, into Moodle](./assets/media/digitalCapabilitesToolInMoodle.png)
 
-I hold a Master’s degree in Computing Science, where my dissertation focused on accessibility and Human–Computer Interaction (HCI). Earlier in my career, I contributed to Jisc-published research on accessibility in education – work that continues to influence my values-led approach to inclusive technology adoption.
+I hold a Master’s degree in Computing Science, where my dissertation focused on accessibility and Human–Computer Interaction (HCI). Earlier in my career, I contributed to Jisc-published research on accessibility (Smith, 2002) in education – work that continues to influence my values-led approach to inclusive technology adoption.
 
-As part of my ongoing professional development, I completed the ACAD-1441-M02-2024-25 Digital Teaching and Technology Enhanced Learning in Higher Education module at the University of Greenwich ([Moodle course link](https://moodlecurrent.gre.ac.uk/course/view.php?id=107625)). This course forms part of my PGCert and deepened my understanding of how learning technologies interact with pedagogical design. It also helped me stay current with sector practices, particularly in relation to accessibility, feedback, and student engagement.
+As part of my ongoing professional development, I completed the **Digital Teaching and Technology Enhanced Learning in Higher Education** module (ACAD-1441-M02-2024-25) at the University of Greenwich ([course link](https://moodlecurrent.gre.ac.uk/course/view.php?id=107625))(University of Greenwich, 2025). This module, part of my PGCert, deepened my understanding of how learning technologies interact with pedagogical design. It also helped me stay current with sector practices, particularly in relation to accessibility, feedback, and student engagement.
 
 ### Reflection
 
@@ -120,23 +122,25 @@ My technical practice is rooted in the principle that accessibility is not a fea
 
 In a sector increasingly dependent on multimedia and automation, I continue to champion open, portable, and inclusive design. However, I have also learned to balance idealism with pragmatism. SCORM, for example, is not the most modern standard, but its compatibility with Moodle allows me to deploy tools quickly and at scale while the institution upgrades its infrastructure.
 
-A key example of impact is the development of the Digital Backpack capabilities assessment tool. Originally conceived as a judgement-based quiz, the tool was redesigned as a confidence-based diagnostic in direct response to feedback from colleagues across the Academic Learning Enhancement team, accessibility specialists, and digital skills practitioners. Their insight highlighted the potential for judgemental assessment models to alienate students – particularly those who lacked confidence or came from non-traditional learning backgrounds. I led the technical and pedagogical redesign to ensure the new tool was aligned with the Jisc Digital Capabilities Framework and the UK Government’s Essential Digital Skills Framework. The resulting confidence-based diagnostic now forms the basis of the university’s approach to digital skills assessment for incoming students.
+A key example of impact is the development of the Digital Backpack capabilities assessment tool. Originally conceived as a judgement-based quiz, the tool was redesigned as a confidence-based diagnostic in direct response to feedback from colleagues across the Academic Learning Enhancement (ALE) team, accessibility specialists, and digital skills practitioners. Their insight highlighted the potential for judgemental assessment models to alienate students – particularly those who lacked confidence or came from non-traditional learning backgrounds.
+
+I led the technical and pedagogical redesign to ensure the new tool was aligned with the **Jisc Digital Capabilities Framework** and the **UK Government’s Essential Digital Skills Framework**. The resulting confidence-based diagnostic now forms the basis of the university’s approach to digital skills assessment for incoming students. This work is described further in [Core Area 3](#core-area-3-specialist-area-of-practice).
 
 This development is significant because there was previously no mechanism for diagnosing digital capability gaps at the point of entry. Given that all students are expected to engage with core digital tools from day one, the absence of diagnostic data created a serious equity issue. Without it, there was no effective way to allocate support, design inclusive interventions, or prioritise resources. By implementing the Digital Backpack as a formative, scalable tool, I have helped position it as a key institutional asset – providing a foundation for targeted upskilling, improved onboarding, and longer-term student success.
 
-This work embodies several of the core CMALT principles: understanding the interplay between technology and learning, advocating for sustainable and inclusive practice, staying current with evolving tools, and working across professional boundaries to communicate and embed effective solutions.
+This work also complements the LTI and SCIM integration efforts described in [Core Area 1a](#core-area-1a-understanding-the-constraints-and-benefits-of-different-technologies), and the deployment support explored in [Core Area 1c](#core-area-1c-supporting-the-deployment-of-learning-technologies).
+
+It embodies several of the core CMALT principles: understanding the interplay between technology and learning, advocating for sustainable and inclusive practice, staying current with evolving tools, and working across professional boundaries to communicate and embed effective solutions.
 
 ---
 
-### Evidence to be Attached
+### References 
 
-- Screenshot of SCORM content deployed in Moodle
-- Description of LTI 1.3 integration and configuration
-- Screenshot or annotated interface from the Digital Backpack
-- Evidence of Digital Backpack usage in student induction/onboarding
-- Citation or excerpt from Jisc-published accessibility research
-- Confirmation or certificate of Master’s in Computing Science
+Microsoft (2023) *LTI 1.3 Implementation Guide for LinkedIn Learning*. Available at: https://learn.microsoft.com/en-us/linkedin/learning/sso-auth/sso-docs/lti-13-implementation (Accessed: 15 July 2025).
 
+Smith, S. (2002) ‘Dyslexia and virtual learning environment interfaces’, *Access All Areas: Disability, Technology and Learning*, pp. 50–53. Oxford and York: ALT and TechDis.
+
+University of Greenwich (2025) *Digital Teaching and Technology Enhanced Learning in Higher Education (ACAD-1441-M02-2024-25)*. Available at: https://moodlecurrent.gre.ac.uk/course/view.php?id=107625 (Accessed: 15 July 2025).
 
 [↑ Back to top](#sections)
 
@@ -144,41 +148,80 @@ This work embodies several of the core CMALT principles: understanding the inter
 
 ### Description
 
+## Core Area 1c: Supporting the Deployment of Learning Technologies
+
 At the University of Greenwich, I play a central role in supporting the deployment of learning technologies for both students and staff. This includes not only implementing tools such as SCORM packages, LinkedIn Learning, and Microsoft Copilot, but also designing and refining systems that address institutional gaps – most notably the Digital Backpack.
 
 The Digital Backpack was developed in response to a significant shortfall in how digital skills were assessed and supported for students entering the university. While Greenwich had previously subscribed to the Jisc Digital Capabilities Tool, its use was not embedded in a strategic or inclusive way. It also carried assumptions about user competence that made it difficult for students with limited digital experience to engage effectively.
 
+![Digital Backpack Capabilities assessment tool interface](./assets/media/capabilitiesTool.png)
+
 In contrast, my approach has been to develop a tool that assumes minimal digital fluency on entry. I aligned the Digital Backpack’s capabilities assessment with both the Jisc Digital Capabilities Framework and the UK Government’s Essential Digital Skills Framework. Rather than relying on off-the-shelf solutions – which were prohibitively expensive and misaligned with our needs – I created a bespoke, confidence-based diagnostic through low-cost prototyping. This allowed me to demonstrate proof of concept and secure institutional buy-in for a tool that better meets the needs of our student population.
 
-A significant barrier to deployment was the university’s digital strategy, which prioritises the use of existing systems. While this policy makes sense in many contexts, it did not accommodate the need for a tailored diagnostic tool that could bridge systemic gaps in digital support. By working within this constraint and proving both demand and feasibility, I was able to progress from prototype to live pilot while remaining consistent with institutional values.
+I wanted widespread colleague involvement from the start of the project and was particularly grateful for support from the AI SIG at the University of Greenwich, who suggested that I develop generative AI prompts for the question creation. The following example prompt, contributed by Assoc. Prof. Gerhard Kristandl (15 January 2025), was used in early prototyping:
+
+```markdown
+> ### Prompt Template
+> **Introduction**  
+> You are an EDUCATIONAL PSYCHOLOGIST skilled in creating engaging and unbiased self-assessment tools that measure practical digital literacy.
+>
+> **Context:** This framework helps individuals accurately assess their digital capabilities without oversimplifying or gaming the system.
+>
+> **Task Description**  
+> Create a simple, informative Q&A framework using a 1–2–3 rating system:  
+> 1: Awareness level (basic familiarity with digital tools, limited cross-application of knowledge)  
+> 2: Moderate capability (proficient within one platform, struggles with unfamiliar tools or transitions)  
+> 3: Proficiency (able to adapt, transfer skills across platforms, learn new tools independently)
+>
+> **Framework Development**  
+> - Design 10–15 real-world scenarios that reflect tasks like file management, collaboration, and troubleshooting.  
+> - Include questions requiring reflection on past experiences and decision-making.
+>
+> **Rating System**  
+> - Define clear, meaningful distinctions between levels. Avoid binary or leading questions.  
+> - Include situational complexity to assess deeper fluency.
+>
+> **Anti-Gaming Measures**  
+> - Use problem-solving prompts that reduce the chance of easily guessing the "highest" response.  
+> - Include rationale fields for users to explain their answers.
+>
+> **Outcome Expectations**  
+> - Provide 10–15 Q&As, 1–2–3 rating definitions, and interpretation guidance.
+>
+> **Example Scenario**  
+> _"You receive a file in a format incompatible with your current software. What do you do?"_  
+> 1: Ask a colleague for help or guidance.  
+> 2: Try built-in conversion tools or search for an easy workaround.  
+> 3: Independently research external solutions and verify the converted file.
+```
+
+This prompt approach saved time and reduced bias in question generation by creating consistency that could be applied programmatically. However, while generative AI was used for prototyping, academic review and validation were essential. Feedback from colleagues ultimately led to a shift from open scenarios to a Likert-based confidence scale.
+
+A potential barrier to deployment was the university’s Digital Strategy (University of Greenwich, 2024), which prioritises the use of existing systems. While this policy is practical in many contexts, it did not accommodate the need for a tailored diagnostic tool to bridge systemic gaps. By working within these constraints and demonstrating both demand and feasibility, I progressed from prototype to live pilot without conflicting with institutional values.
 
 ### Collaboration and Impact
 
-One of the most impactful elements of this work has been its collaborative development. I worked closely with colleagues across the Academic Learning Enhancement (ALE) team – who support academic staff development – to align our efforts. Through regular meetings and informal knowledge exchange, we identified shared goals and were able to accelerate the development of both our tools.
+One of the most impactful aspects of this work has been its collaborative development. I worked closely with colleagues across the Academic Learning Enhancement (ALE) team – who support academic staff development – to align efforts. Through regular meetings and informal knowledge exchange, we identified shared goals and accelerated tool development.
 
-This collaboration led to a shared GitHub architecture, where different versions of the Digital Backpack assessment tool could be branched and adapted to suit distinct audiences. One branch now serves the ALE team’s tutor-facing needs, another supports the digital skills offer for students, and a third is under consideration for the Professional Services team to support staff induction. This branching approach supports sustainability and makes the tool flexible enough to grow with evolving institutional needs.
+![Shared Digital Backpack Capabilities assessment tool codebase using Git](./assets/media/digitalCapabilitesToolInMoodle.png)
 
-Beyond technical implementation, this work has started to shift how digital skills are framed at the university. By embedding the Digital Backpack in the upcoming curriculum framework, it will become a structured expectation rather than an optional add-on. Students will complete the diagnostic on arrival, enabling targeted support, early interventions, and a clearer sense of digital expectations. This cultural change – from vague digital literacy notions to clearly scaffolded digital citizenship – is one of the most significant outcomes of this deployment.
+This collaboration led to a shared GitHub architecture, where different versions of the Digital Backpack assessment tool could be branched and adapted to suit distinct audiences. One branch now serves the ALE team’s tutor-facing needs, another supports the student-facing digital skills offer, and a third is under development for Professional Services to support staff induction. This branching supports sustainability and ensures the tool evolves with institutional needs.
+
+Beyond technical implementation, this work is helping to shift the university’s cultural framing of digital skills. By embedding the Digital Backpack in the upcoming curriculum framework, digital assessment becomes a structured expectation rather than an optional extra. Students will complete the diagnostic on arrival, enabling targeted support, early intervention, and a clearer sense of digital expectations. This marks a shift from vague literacy concepts to scaffolded digital citizenship.
 
 ### Reflection
 
-This experience has reaffirmed the value of open collaboration, low-cost prototyping, and values-driven development. While policy constraints initially limited solution options, I learned to work creatively within them, using institutional dialogue and pilot data to advocate for a more suitable tool.
+This experience reaffirmed the value of open collaboration, low-cost prototyping, and values-driven development. While policy constraints limited off-the-shelf options, I worked creatively within them by advocating for a fit-for-purpose tool backed by data and dialogue.
 
-I also gained a deeper appreciation for the diversity of learners and staff. Our student body includes individuals with little exposure to digital tools beyond passive smartphone use. Likewise, new staff arrive with highly variable digital confidence. Recognising this helped me frame digital skills not as assumed background knowledge, but as a necessary entitlement. That framing informed both the design of the tool and how I supported its rollout.
+I also deepened my appreciation for the diversity of learners and staff. Some students arrive with limited exposure to digital tools beyond passive smartphone use; some staff begin with low confidence. Recognising this helped me frame digital skills as an entitlement, not assumed knowledge. That framing informed both design and deployment.
 
-This deployment work aligns with the CMALT principles of collaboration, critical reflection, and sustainable practice. By embedding a flexible, inclusive assessment tool across departments and user groups, I have contributed to a more coherent and equitable digital experience at Greenwich – one that begins at induction and continues throughout a student’s academic journey.
+This deployment work aligns with the CMALT principles of collaboration, critical reflection, and sustainable practice. By embedding a flexible, inclusive assessment tool across departments and user groups, I have contributed to a more coherent and equitable digital experience at Greenwich – one that begins at induction and grows throughout a student’s academic journey. The work complements [Core Area 1a](#core-area-1a-understanding-the-constraints-and-benefits-of-different-technologies) and [Core Area 1b](#core-area-1b-technical-knowledge-and-ability-in-the-use-of-learning-technology), and is expanded on in [Core Area 3](#core-area-3-specialist-area-of-practice).
 
 ---
 
-### Evidence to be Attached
+### References
 
-- GitHub architecture diagram showing tool branching for ALE, students, and staff
-- Screenshots of Digital Backpack interface and pilot documentation
-- Curriculum framework proposal referencing the Digital Backpack
-- Internal correspondence with ALE and HR teams
-- Institutional Digital Strategy reference (re: preference for existing systems)
-- Feedback or data from pilot rollout and user testing
-
+University of Greenwich (2024) *Digital Strategy 2022–2030: March 2024 update*. University of Greenwich. Available at: https://www.gre.ac.uk/__data/assets/pdf_file/0020/134570/digital-strategy-2022-2030-march-2024-update-4.pdf (Accessed: 15 July 2025).
 
 [↑ Back to top](#sections)
 
