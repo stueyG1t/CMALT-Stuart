@@ -30,4 +30,68 @@ summary {
     display: block;
   }
 
-  
+  /* Responsive table styles */
+  .table-responsive {
+  overflow-x: auto;
+  margin-bottom: 2rem;
+}
+
+.backpack-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: 'system-ui', sans-serif;
+  font-size: 1rem;
+  line-height: 1.5;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  border: 1px solid #ccc;
+}
+
+.backpack-table th,
+.backpack-table td {
+  padding: 1rem;
+  border: 1px solid #ccc; // Adds both vertical and horizontal borders
+  text-align: left;
+  vertical-align: top;
+}
+
+.backpack-table thead th {
+  background-color: #f8f9fa;
+  font-weight: 700;
+  color: #111;
+}
+
+.backpack-table tbody tr:hover {
+  background-color: #f1f5f9;
+}
+
+.backp
+@media (prefers-color-scheme: dark) {
+  .backpack-table {
+    background-color: #1e1e1e;
+    color: #e0e0e0;
+    border-color: #444;
+  }
+
+  .backpack-table th,
+  .backpack-table td {
+    border: 1px solid #444;
+  }
+
+  .backpack-table thead th {
+    background-color: #2a2a2a;
+    color: #ffffff;
+  }
+
+  .backpack-table tbody tr:hover {
+    background-color: #2f2f2f;
+  }
+
+  .backpack-table strong {
+    color: #5aaaff; // Muted blue highlight
+  }
+
+  .backpack-table em {
+    color: #d0d0ff; // Soft highlight for italics
+  }
+}
