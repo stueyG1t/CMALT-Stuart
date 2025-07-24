@@ -1,0 +1,9 @@
+{
+  "markdown.styles": [
+    "./markdown-preview-style.css"
+  ],
+  "markdown.preview.security.level": "allow-insecure-content",
+  "markdown.preview.fontFamily": "Merriweather, Georgia, serif",
+  "markdown.preview.fontSize": 18,
+  "markdown.preview.lineHeight": 1.6
+}

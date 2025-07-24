@@ -1,0 +1,69 @@
+/* === Typography and Layout for Markdown Preview === */
+
+body {
+  font-family: "Work Sans", "Georgia", serif;
+  font-size: 18px;
+  line-height: 1.6;
+  max-width: 800px;
+  margin: auto;
+  padding: 2rem;
+  color: #333;
+  background-color: #fafafa;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Merriweather", "Georgia", serif;
+  font-weight: 700;
+  color: #00033d;
+  margin-top: 2em;
+  margin-bottom: 0.5em;
+  line-height: 1.25;
+}
+
+/* Paragraphs */
+p {
+  margin-bottom: 1.2em;
+}
+
+/* Lists */
+ul, ol {
+  margin-left: 2em;
+  margin-bottom: 1em;
+}
+
+/* Code blocks */
+code, pre {
+  background-color: #f4f4f4;
+  font-family: "JetBrains Mono", monospace;
+  padding: 2px 4px;
+  border-radius: 4px;
+  font-size: 0.95em;
+}
+
+pre {
+  padding: 1em;
+  overflow-x: auto;
+}
+
+/* Blockquotes */
+blockquote {
+  border-left: 4px solid #ccc;
+  padding-left: 1em;
+  margin: 1em 0;
+  color: #666;
+  font-style: italic;
+}
+
+/* Tables */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 1.5em;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 0.5em;
+  text-align: left;
+}
