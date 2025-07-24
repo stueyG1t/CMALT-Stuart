@@ -4,29 +4,25 @@ title: Stuart Smith CMALT Portfolio
 ---
 ## Sections
 - [Contextual Statement](#contextual-statement)
-- Core Area 1: Operational Issues
+- [Core Area 1: Operational Issues](#core-area-1-operational-issues)
   - [Core Area 1a: Understanding the Constraints and Benefits of Different Technologies](#core-area-1a-understanding-the-constraints-and-benefits-of-different-technologies)
   - [Core Area 1b: Technical Knowledge and Ability in the Use of Learning Technology](#core-area-1b-technical-knowledge-and-ability-in-the-use-of-learning-technology)
   - [Core Area 1c: Supporting the Deployment of Learning Technologies](#core-area-1c-supporting-the-deployment-of-learning-technologies)
-- Core Area 2: Teaching, learning and/or assessment processes
+- [Core Area 2: Teaching, learning and/or assessment processes](#core-area-2-teaching-learning-andor-assessment-processes)
   - [Core Area 2b: An Understanding of Your Target Learners](#core-area-2b-an-understanding-of-your-target-learners)
-- Core Area 3: The Wider Context
+- [Core Area 3: The Wider Context](#core-area-3-the-wider-context)
   - [Core Area 3: Understanding and Engaging with Legislation, Policies, and Standards](#core-area-3a-understanding-and-engaging-with-legislation)
   - [Core Area 3b: Understanding and Engaging with Policies and Standards](#core-area-3b-understanding-and-engaging-with-policies-and-standards)
 - [Core Area 4: Communication](#core-area-4-communication)
 - [Section D: Wider Context](#section-d-wider-context)
-- Specialist Areas
-  - Specialist Area 1
-  - Specilaist Area 2
-- Advanced Areas
+- [Specialist Areas](#specialist-areas)
+  - [Specialist Area 1](#specialist-area-1---linkedin-learning-and-moodle-integration)
+  - [Specilaist Area 2](#specialist-area-2-the-digital-backpack--confidence-based-skills-assessment)
+- [Advanced Areas]()
 - [Section C: Future Plans](#section-c-future-plans)
-- [References]
-- Confirmation
-- [Section B: Specialist Option - Digital Capability and Confidence-Based Assessment](#section-b-specialist-option---digital-capability-and-confidence-based-assessment)
-- [Reflective Statement](#reflective-statement)
-- [Bibliography](#bibliography)
-- [AI Usage Declaration](#ai-usage-declaration)
+- [References](#references)
 - [Credits](#credits)
+- [Confirmation](#confirmation)
 
 ## Contextual Statement
 
@@ -413,71 +409,84 @@ UK Government (2018) *The Public Sector Bodies (Websites and Mobile Applications
 University of Greenwich (no date) *AI Guidance for Research*. Available at: https://www.gre.ac.uk/ai-guidance/research (Accessed: 14 July 2025).
 
 ---
-
 ## Core Area 3: The Wider Context
 
-### Core Area 3a: Understanding and Engaging with Legislation
+### 3a: Understanding and Engaging with Legislation
 
-#### Description
+My work in digital education is deeply informed by legal and policy frameworks. From the outset of the Digital Backpack project, I have ensured that our practices align with key legislative requirements such as the General Data Protection Regulation (GDPR), the Equality Act 2010, and the Public Sector Bodies (Websites and Mobile Applications) Accessibility Regulations 2018.
 
-My work in digital education requires a strong awareness of both legal and policy contexts. I regularly navigate legislative frameworks such as the General Data Protection Regulation (GDPR), accessibility requirements under the Equality Act 2010, and the UK’s copyright and licensing laws. These shape not only how I develop and deliver digital content, but also how I advise colleagues and guide institutional decisions. In addition to legal compliance, I engage with internal policies and national frameworks that influence practice in digital learning, inclusion, and AI ethics.
+The Digital Backpack’s SCORM-based diagnostic tool was designed to operate within Moodle — a university-approved and secure system. We collect no unnecessary data, and learner responses are deleted after download. This "privacy by design" approach emerged from my careful reading of institutional data protection policies, even though I was not directly involved with the Data Protection Office. We avoided any external data processing, giving learners full ownership of their diagnostic outcomes via PDF downloads.
 
-A key legislative consideration in my role is the handling of student data and analytics, particularly as it relates to personalised learning and diagnostic tools. For example, the Digital Backpack project collects learner confidence data through a SCORM-based diagnostic, which is stored only in a university-approved system (Moodle). While we did not liaise directly with the Data Protection Office, we followed the university’s published data protection guidance closely and applied best practice under GDPR. One of our key principles is that we do not collect or retain any data that is not needed. All diagnostic data remains within Moodle, which has already been assessed and approved by the university. Students are invited to download a PDF of their results for personal use, but this is not retained on our systems, and the data disappears after download.
+My early involvement in the LinkedIn Learning rollout also raised important GDPR concerns. I noticed ambiguity in internal messaging about whether users had to link personal LinkedIn profiles to access university content. I advocated for clearer guidance, which was later endorsed by the Data Protection Officer. This improved student and staff confidence in the tool’s use.
 
-Although the data collected is low-risk, we recognise the sensitivity of confidence scores and have been careful to ensure that the platform and associated processes align with policy frameworks. This approach reflects our belief in privacy by design and data minimisation.
+Accessibility is another area where I have played an informal but persistent role. I often remind colleagues that accessibility goes beyond automated tools — that it involves inclusive design and meaningful content choices. This advocacy aligns with the UK’s 2018 accessibility regulations and reflects my background in Human–Computer Interaction and earlier Jisc-funded research.
 
-My experience with GDPR also extends to my early work on the LinkedIn Learning rollout. There was confusion at the university regarding whether users were required to link their personal LinkedIn profiles to their university accounts. I identified this issue and worked to revise internal documentation to clarify that linking is optional. This interpretation was later endorsed by the Data Protection Officer, reinforcing the importance of clarity and transparency in GDPR compliance.
+With the rise of AI tools like Copilot and ChatGPT, legal considerations have expanded into licensing and censorship. Microsoft’s enterprise-level implementation of Copilot includes content filtering that can block controversial or sensitive topics. I have raised concerns about this within institutional SIGs, especially as it may restrict research in areas such as politics, health, or gender. These limitations are not always visible to users, and I believe more transparent and education-specific licensing models are needed.
 
-Over time, my thinking on compliance has evolved, particularly in response to the rise of generative AI. The rapid adoption of tools like Copilot has made it clear that AI policies need to be carefully worded. I advocated early on for precision in university policy language to ensure we don’t apply blanket terms to a highly complex and diverse set of technologies. As a result, I contributed to internal policy documents that distinguish between types of AI and the contexts in which they may or may not be used.
+### 3b: Understanding and Engaging with Policies and Standards
 
-I have become increasingly concerned about the limitations of current licensing models, particularly with Copilot. For instance, the university’s current implementation uses a corporate version of Microsoft 365 Copilot, which has notable content censorship and filtering that could limit academic research or open inquiry. While suitable in some contexts, such restrictions are problematic in a university setting, where academic freedom and open access to controversial or sensitive topics are essential.
+I contribute actively to institutional policy discussions, particularly in the areas of digital equity, AI integration, and learner inclusion. My leadership on the Digital Backpack required close alignment with the university’s curriculum frameworks and graduate attributes. I collaborated with the Academic Learning Enhancement (ALE) team to ensure that our approach matched both pedagogical and strategic goals.
 
-I have used my role within the university’s AI Special Interest Group (SIG) to reflect on and share these concerns, particularly around the disparity this might create between departments. For example, an AI tool acceptable in business or marketing courses may be completely unworkable in research exploring health, politics, or gender studies. These unresolved tensions inform my view that higher education institutions must push for purpose-built AI tools that respect both legal boundaries and academic needs.
+To support our confidence-based approach, I authored guidance aligning our content with the Jisc and Essential Digital Skills Frameworks. These documents helped legitimise the Backpack within internal working groups and influenced wider digital skills development planning.
 
-I have also raised concerns about the digital divide created when AI tools that level the playing field for disadvantaged students are restricted. Private tuition and access to cultural capital are rarely challenged, yet tools like GPT and Copilot are often viewed with suspicion. I have contributed to ongoing internal work on generative AI guidance to ensure that equity, access, and ethical use are all embedded in our institutional response.
+I have also played a role in shaping technical practice. For example, my work embedding LinkedIn Learning into Moodle via LTI and SCORM has influenced how the university approaches tool integration. While I don’t set policy, my efforts simplify student access to external content and enable scalable, inclusive practices — key priorities in the university’s 2030 "digital first" vision.
 
-While I have no final resolution to the tensions raised by AI licensing and censorship, I believe ongoing dialogue and policy clarity are critical. I continue to advocate for a higher education-specific licensing model that supports safe, inclusive, and critical engagement with generative AI technologies.
+Similarly, my documentation for Copilot and LinkedIn Learning — while pragmatic — helps tutors use these tools confidently. This contributes to institutional enablement by allowing wider uptake without overburdening staff.
 
-My understanding of the legal landscape has also informed the responsible adoption of Microsoft Copilot and LinkedIn Learning. For example, I have raised concerns about platform data use, the terms of service, and the lack of institutional control over some AI outputs. In doing so, I contributed to our internal AI guidance, which stresses transparency, learner consent, and alignment with UK GDPR principles.
+I am a contributing member of the University’s AI Special Interest Group, where I contributed to the official research guidance on generative AI. I championed the adoption of IBM’s definition of generative AI and advocated for precise, non-restrictive language. These efforts helped avoid blanket policies that would unfairly limit student and staff use of embedded AI features.
 
-I also consider accessibility legislation—particularly the Public Sector Bodies (Websites and Mobile Applications) Accessibility Regulations 2018—in every tool or learning resource I design. My background in Human–Computer Interaction and accessibility, including postgraduate work and Jisc-published research, has embedded this deeply in my practice.
+My engagement with interoperability standards (SCORM, LTI 1.3) and accessibility (WCAG 2.1 AA) is consistent. During platform rollouts like Teams Premium and LinkedIn Learning, I contributed to documentation that ensured alignment with technical, pedagogical, and legal expectations.
 
----
+I also advocate for equity in tool access. Commercial AI restrictions disproportionately affect students who might otherwise benefit most. I argue that AI tools must be evaluated not only on technical merit but also on their ability to support inclusive, critical, and diverse academic inquiry.
 
-### Core Area 3b: Understanding and Engaging with Policies and Standards
+This institutional engagement is visualised in the infographic below:
 
-#### Description
+![Legal and Policy Considerations in Digital Education](./assets/media/legal_policy_infographic.png)
+*Alt text: Circular infographic showing legal and policy considerations including GDPR, accessibility, licensing, AI policy, and sector standards. Used in internal AI SIG presentations.*
 
-I have played an active role in shaping institutional strategy and policy, particularly in the areas of digital capability and generative AI. One significant example is the integration of the Digital Backpack into the university’s curriculum framework. This required working closely with the Academic Learning Enhancement (ALE) team and aligning the tool with institutional graduate attributes. I authored documentation mapping Backpack content to both the Jisc and Essential Digital Skills frameworks to support this integration.
+### Reflection
 
-I also engage regularly with technical standards and procurement processes. When rolling out platforms such as LinkedIn Learning and piloting Teams Premium, I assessed compliance with WCAG 2.1 AA accessibility guidelines and ensured the solutions met our institutional interoperability standards, including SCORM and LTI 1.3. I contributed to procurement and onboarding documentation to ensure alignment with technical, pedagogical, and ethical priorities.
+My approach to the wider context is grounded in the four core CMALT principles:
 
-In the area of generative AI, I am a member of the University’s AI Special Interest Group (SIG), where I actively contribute to discussions and documentation. Notably, I directly contributed to the official university AI guidance for research by helping define 'generative AI' and advocating the adoption of IBM’s definition, which has since been published as part of the university’s policy (University of Greenwich, no date). My advocacy in this space has consistently focused on precision in language to ensure AI guidance reflects the wide range of tools and use cases, rather than applying restrictive blanket terms.
+**1. A commitment to exploring and understanding the interplay between technology and learning:**
+Through the Digital Backpack and other institutional projects, I continuously consider how digital tools influence learner experience. I have prioritised inclusive, confidence-based approaches that promote engagement over surveillance. My aim is to ensure technology facilitates equitable access and self-directed learning.
 
-These experiences have deepened my understanding of the challenge in translating abstract values like inclusivity, transparency, and equity into practice. As an example, my work has helped shape how university policies address the limitations of commercial AI licenses, particularly the content filtering built into corporate versions of Copilot. I have raised concerns through the AI SIG that these constraints may disproportionately affect research areas that explore sensitive or marginalised topics. This reflection continues to shape how I engage with policy – advocating for clarity, nuance, and above all, equitable implementation.
+**2. A commitment to keeping up to date with new technologies:**
+I regularly undertake short courses and learning pathways, particularly using LinkedIn Learning, to stay current with new technologies. I follow ALT and Jisc communities, participate in SIGs, and also engage with industry trade shows and conferences to understand the broader technology landscape. Prior to my current role, I ran my own company that developed learning technology solutions, and this experience has helped foster a habit of continual learning and innovation.
 
-Overall, I see policy not as a constraint but as a living tool that can support responsible innovation when approached with care and critical thought.
+**3. An empathy with and willingness to learn from colleagues from different backgrounds and specialist areas:**
+My work regularly involves collaborating with a wide range of stakeholders including academic staff, HR, IT, ALE colleagues, and students. I’ve found great value in listening to the challenges colleagues face — particularly during the pandemic — and this has helped inform my inclusive approach to digital education and assessment. For me, innovation often comes from solving real-world problems collaboratively, not necessarily inventing new tools.
 
-I also work within and promote adherence to standards of interoperability (e.g. SCORM and LTI 1.3) and accessibility (e.g. WCAG 2.1 AA). These standards guide my decisions when selecting tools or proposing integrations—ensuring both student access and sustainability. For example, during the rollout of LinkedIn Learning and the Teams Premium pilot, I assessed their compliance with technical and ethical standards and contributed documentation to support procurement and staff onboarding.
+**4. A commitment to communicating and disseminating effective practice:**
+I have shared my work through presentations at the SHIFT conference, through internal SIG participation, and by producing tutor-facing documentation that enables wider adoption of enterprise tools. My contributions to institutional AI guidance and informal consultations around procurement and accessibility have also helped steer strategic direction.
 
-Finally, I participate in university working groups and Special Interest Groups (SIGs) where policies on generative AI, accessibility, and digital equity are discussed. My input often centres on how to translate high-level policies into implementable, inclusive practices. I aim to ensure that policies do not just exist in principle but actually support meaningful change in practice.
-![Legal and Policy Considerations in Digital Education: GDPR, Accessibility, Licensing and AI, and Institutional Policy Engagement](./assets/media/legal_policy_infographic.png)
+The wider context of my work is full of tensions — innovation vs regulation, capability vs confidence, open inquiry vs institutional control. Rather than seeing these as barriers, I see them as interpretive challenges. My role is to make these tensions visible and navigable for others.
+
+While I don’t write university policy, I help shape how it is understood and implemented. Through informal advocacy, collaborative documentation, and consistent communication, I have supported a more equitable and responsible approach to digital education at scale.
+
+My goal remains to ensure that policy is not just something we comply with — but something we use, critically and ethically, to enable better futures for all learners.
 
 ---
 
 ### References
 
-Equality Act 2010. (2010) *legislation.gov.uk*. Available at: <https://www.legislation.gov.uk/ukpga/2010/15/contents> (Accessed: 14 July 2025).
+Bandura, A. (1997) *Self-efficacy: The exercise of control*. New York: W. H. Freeman.
 
-European Union (2016) *Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 (General Data Protection Regulation)*. Available at: <https://gdpr.eu/> (Accessed: 14 July 2025).
+Equality Act 2010. (2010) *legislation.gov.uk*. Available at: [https://www.legislation.gov.uk/ukpga/2010/15/contents](https://www.legislation.gov.uk/ukpga/2010/15/contents) (Accessed: 14 July 2025).
 
-UK Government (2018) *The Public Sector Bodies (Websites and Mobile Applications) Accessibility Regulations 2018*. Available at: <https://www.legislation.gov.uk/uksi/2018/952/contents/made> (Accessed: 14 July 2025).
+European Union (2016) *Regulation (EU) 2016/679 (GDPR)*. Available at: [https://gdpr.eu/](https://gdpr.eu/) (Accessed: 14 July 2025).
 
-UK Department for Education (2019) *Essential digital skills framework*. Available at: <https://www.gov.uk/government/publications/essential-digital-skills-framework> (Accessed: 14 July 2025).
+IBM (no date) *What is generative AI?* Available at: [https://www.ibm.com/topics/generative-ai](https://www.ibm.com/topics/generative-ai) (Accessed: 14 July 2025).
 
-Jisc (no date) *Digital capabilities framework*. Available at: <https://www.jisc.ac.uk/rd/projects/building-digital-capability> (Accessed: 14 July 2025).
+Jisc (no date) *Digital capabilities framework*. Available at: [https://www.jisc.ac.uk/rd/projects/building-digital-capability](https://www.jisc.ac.uk/rd/projects/building-digital-capability) (Accessed: 14 July 2025).
 
-University of Greenwich (no date) *AI Guidance for Research*. Available at: <https://www.gre.ac.uk/ai-guidance/research> (Accessed: 14 July 2025).
+UK Department for Education (2019) *Essential digital skills framework*. Available at: [https://www.gov.uk/government/publications/essential-digital-skills-framework](https://www.gov.uk/government/publications/essential-digital-skills-framework) (Accessed: 14 July 2025).
+
+UK Government (2018) *Accessibility Regulations*. Available at: [https://www.legislation.gov.uk/uksi/2018/952/contents/made](https://www.legislation.gov.uk/uksi/2018/952/contents/made) (Accessed: 14 July 2025).
+
+University of Greenwich (no date) *AI Guidance for Research*. Available at: [https://www.gre.ac.uk/ai-guidance/research](https://www.gre.ac.uk/ai-guidance/research) (Accessed: 14 July 2025).
+
+W3C (2018) *Web Content Accessibility Guidelines (WCAG) 2.1*. Available at: [https://www.w3.org/TR/WCAG21/](https://www.w3.org/TR/WCAG21/) (Accessed: 24 July 2025).
 
 ## Core Area 4: Communication
 
@@ -538,7 +547,41 @@ LinkedIn Learning (2025) *How to Say No Without Guilt*. Available at: https://ww
 ## Specialist Areas
 
 ### Specialist Area 1 - LinkedIn Learning and Moodle Integration
-<h4>Alignment of Specialist Area 1 (LinkedIn Learning and Moodle Integration) with CMALT Themes</h4>
+
+#### Interpretation of Usage Trends and Strategic Implications
+Analysis of LinkedIn Learning usage data between February 2024 and January 2025 reveals a familiar academic rhythm: sharp spikes in engagement during term time, followed by notable declines during university breaks, particularly over summer and Christmas.
+
+That said, January and February 2025 show a sharp and encouraging increase in usage across the board. While the improved login process and SCIM provisioning had not yet been implemented, this uptick likely reflects the early impact of heightened internal communications and the development of a more coordinated institutional approach to LinkedIn Learning.
+
+At that point, we were already laying the groundwork for what has now become our strategic plan — focused on shifting LinkedIn Learning from an occasional-use resource to a more deeply integrated part of students’ academic experience.
+
+This strategic integration work aims to:
+- Embed LinkedIn Learning directly within Moodle using LTI 1.3
+- Encourage tutors to curate and embed resources rather than simply signpost them
+- Elevate the platform from a siloed tool to a more consistent support for digital capability
+
+While seasonal dips in usage are expected, the sharp rises and falls also suggest a lack of consistent engagement mechanisms. By embedding content into courses, streamlining access, and normalising LinkedIn Learning in day-to-day teaching, we aim to raise baseline usage throughout the academic year and smooth out volatility in engagement patterns.
+
+#### Reflective Analysis
+
+Looking at the usage data over time, it’s clear that LinkedIn Learning has always generated some interest at the University of Greenwich. Even without structured promotion or integration, there were pockets of consistent usage from both staff and students. Given the platform’s external reputation and the value of its offer, awareness alone tends to generate uptake.
+
+However, what this work has brought into sharper focus is the inefficiency created by digital silos. We currently have:
+
+- Horizon — primarily used for staff learning  
+- Moodle — for student learning (and occasionally staff)  
+- LinkedIn Learning — available to all, but not embedded within the educational process  
+
+These systems are functionally and pedagogically disconnected. While there may be valid reasons to keep staff-focused CPD systems separate, the lack of integration between Moodle and LinkedIn Learning — despite their mutual relevance to teaching — represents a missed opportunity for seamless learning experiences.
+
+A particularly disappointing barrier has been LinkedIn Learning’s limited implementation of the LTI 1.3 specification. As an institutional learning technologist, it’s frustrating that the available integration does not support even basic features like reliable completion tracking. A student might fully complete a learning pathway, including watching every video and completing embedded quizzes, but Moodle can only register that content was viewed in some form. This undermines the platform’s pedagogical value within a formal learning context.
+
+As a workaround, we’ve begun pairing embedded content with formative assessments in Moodle to gauge learner progress. This is manageable at small scale — and can be accelerated using tools like generative AI to draft suitable quizzes — but it still feels like a workaround for functionality that should be native to the integration.
+
+Despite this, I remain optimistic. There is clear and growing interest in using LinkedIn Learning more effectively across the institution. Our students will graduate into a workforce where digital fluency is expected. Given the university's strong employment focus, helping students build not only academic knowledge but also transferable digital skills is a strategic imperative. LinkedIn Learning — if used well — can support this dual aim, both enriching the student experience and providing demonstrable employability outcomes.
+
+In that context, the commercial limitations placed on LTI functionality by LinkedIn feel short-sighted. A fully realised integration would enhance not just the academic experience, but also LinkedIn Learning’s own reputation as a platform committed to genuine educational value.
+#### Alignment of Specialist Area 1 (LinkedIn Learning and Moodle Integration) with CMALT Themes 
 
 <table>
   <thead>
@@ -586,44 +629,57 @@ LinkedIn Learning (2025) *How to Say No Without Guilt*. Available at: https://ww
     </tr>
   </tbody>
 </table>
-### Interpretation of Usage Trends and Strategic Implications
 
-Analysis of LinkedIn Learning usage data between February 2024 and January 2025 reveals a familiar academic rhythm: sharp spikes in engagement during term time, followed by notable declines during university breaks, particularly over summer and Christmas.
 
-That said, January and February 2025 show a sharp and encouraging increase in usage across the board. While the improved login process and SCIM provisioning had not yet been implemented, this uptick likely reflects the early impact of heightened internal communications and the development of a more coordinated institutional approach to LinkedIn Learning.
+### Specialist Area 2: The Digital Backpack – Confidence-Based Skills Assessment
 
-At that point, we were already laying the groundwork for what has now become our strategic plan — focused on shifting LinkedIn Learning from an occasional-use resource to a more deeply integrated part of students’ academic experience.
+#### Description
 
-This strategic integration work aims to:
-- Embed LinkedIn Learning directly within Moodle using LTI 1.3
-- Encourage tutors to curate and embed resources rather than simply signpost them
-- Elevate the platform from a siloed tool to a more consistent support for digital capability
+This specialist area focuses on the development of the **Digital Backpack**, an inclusive digital capabilities initiative designed to empower students through confidence-based assessment. My role in leading the development of this tool has involved strategic design, institutional influence, and deep reflection on learner experience.
 
-While seasonal dips in usage are expected, the sharp rises and falls also suggest a lack of consistent engagement mechanisms. By embedding content into courses, streamlining access, and normalising LinkedIn Learning in day-to-day teaching, we aim to raise baseline usage throughout the academic year and smooth out volatility in engagement patterns.
+While digital capability frameworks like those from Jisc and the UK Government are widely adopted, they often manifest as static matrices or competence checklists. These approaches can alienate learners who already feel underconfident. I sought to design an experience that would invite honest self-reflection and meet students where they are — especially those from widening participation, mature, or international backgrounds. The result was a tool built on growth mindset principles, supporting students in developing not only digital knowledge but also a belief in their ability to engage with digital systems confidently.
 
-### Reflective Analysis
+#### Development and Implementation
 
-Looking at the usage data over time, it’s clear that LinkedIn Learning has always generated some interest at the University of Greenwich. Even without structured promotion or integration, there were pockets of consistent usage from both staff and students. Given the platform’s external reputation and the value of its offer, awareness alone tends to generate uptake.
+I led the design and iterative development of the **Digital Capabilities Diagnostic Tool**, the first phase of the Digital Backpack. It maps learner confidence against both the **Jisc Digital Capabilities Framework** and the **Essential Digital Skills Framework**. Each multiple-choice question reflects increasing levels of confidence rather than correctness, using scenario-based responses aligned to key digital skill areas. This approach helps surface self-perception and readiness rather than only technical competence.
 
-However, what this work has brought into sharper focus is the inefficiency created by digital silos. We currently have:
+The diagnostic tool is SCORM-compliant and hosted securely in Moodle. It avoids the need to store results externally by offering downloadable personalised PDFs with radar diagrams. These diagrams help learners visualise their strengths and development areas across digital domains. An example of this PDF output is included in [Appendix C](#appendix-c---digital-backpack-sample-pdf-output).
 
-- Horizon — primarily used for staff learning  
-- Moodle — for student learning (and occasionally staff)  
-- LinkedIn Learning — available to all, but not embedded within the educational process  
+Accessibility and inclusivity were core priorities throughout the tool’s design. Questions were reviewed in consultation with academic colleagues to refine language and reduce potential for judgment. In one instance, feedback from a colleague around terminology in the accessibility section highlighted a crucial insight: a user’s inability to confidently interpret sector-standard language revealed a hidden skills gap. Such insights would not emerge in traditional checklists. This led us to adapt our phrasing and design approach to ensure we created space for understanding rather than assumed expertise.
 
-These systems are functionally and pedagogically disconnected. While there may be valid reasons to keep staff-focused CPD systems separate, the lack of integration between Moodle and LinkedIn Learning — despite their mutual relevance to teaching — represents a missed opportunity for seamless learning experiences.
+Students are placed into one of three levels — **Explorer**, **Navigator**, or **Pioneer** — but these are not fixed labels. Instead, they serve as developmental invitations to complete scaffolded learning pathways. These pathways draw from resources such as **LinkedIn Learning**, **Microsoft Learn**, and institutional guidance — all surfaced through Moodle to maintain integration with core university systems.
 
-A particularly disappointing barrier has been LinkedIn Learning’s limited implementation of the LTI 1.3 specification. As an institutional learning technologist, it’s frustrating that the available integration does not support even basic features like reliable completion tracking. A student might fully complete a learning pathway, including watching every video and completing embedded quizzes, but Moodle can only register that content was viewed in some form. This undermines the platform’s pedagogical value within a formal learning context.
+#### Strategic and Institutional Influence
 
-As a workaround, we’ve begun pairing embedded content with formative assessments in Moodle to gauge learner progress. This is manageable at small scale — and can be accelerated using tools like generative AI to draft suitable quizzes — but it still feels like a workaround for functionality that should be native to the integration.
+The Digital Backpack aligns with the University of Greenwich’s 2030 strategy to become a **digital-first institution**. In that context, my work addressed a key gap: no current mechanism existed to understand students' digital preparedness upon entry. I evaluated existing tools (including the Jisc Digital Capabilities Tool) and recommended divestment in favour of a simpler, more contextualised solution.
 
-Despite this, I remain optimistic. There is clear and growing interest in using LinkedIn Learning more effectively across the institution. Our students will graduate into a workforce where digital fluency is expected. Given the university's strong employment focus, helping students build not only academic knowledge but also transferable digital skills is a strategic imperative. LinkedIn Learning — if used well — can support this dual aim, both enriching the student experience and providing demonstrable employability outcomes.
+This decision — though initially counter to a product-first policy — was accepted after presenting a working prototype and demonstrating its alignment with institutional goals. I collaborated with colleagues in the Academic Learning Enhancement (ALE) team to develop shared infrastructure and iterated on the diagnostic with direct user testing and staff feedback. The Backpack now features in university induction programmes, graduate attribute alignment, and internal conversations around equity and student success.
 
-In that context, the commercial limitations placed on LTI functionality by LinkedIn feel short-sighted. A fully realised integration would enhance not just the academic experience, but also LinkedIn Learning’s own reputation as a platform committed to genuine educational value.
+I presented this work at the **2024 SHIFT Conference**, where it was praised for balancing technical clarity and pedagogical compassion.
 
-### Specialist Area 2
-<h3>Alignment of Specialist Area 2 (Digital Backpack & Diagnostic Tool) with CMALT Themes</h3>
+![SHIFT Conference slide showing diagnostic stages leading to curriculum-embedded learning pathways](/assets/media/shift_slide_diagnostics_learning_pathways.png)
 
+*Alt text: Circular infographic with arrows showing the journey from digital diagnostics (Explorer, Navigator, Pioneer) to curriculum-embedded learning pathways (Self-directed, Career, Certificates). Presented at the University of Greenwich SHIFT conference 2024.*
+
+#### Roadmap and Next Steps
+
+The project is now expanding. A set of **workbooks** to accompany each level of the Backpack is in active development and will launch in the next term. These will help learners consolidate knowledge and translate confidence into demonstrable capability. Following this, **Version 2** of the Diagnostic Tool is planned, featuring more granular questioning, tighter UX on mobile, and greater Moodle integration.
+
+There has also been informal interest from colleagues in business-facing roles in adapting or commercialising the model. While I remain cautious about this, it suggests that the simplicity and relevance of the Backpack resonates beyond our institution.
+
+#### Reflection
+
+This project has challenged me to think differently about how we measure and support digital growth. It has required me to balance frameworks with empathy, systems with sensitivity, and institutional goals with individual journeys. Perhaps most importantly, it has shown me that effective assessment isn’t just about skills — it’s about how people feel when they’re asked to reflect.
+
+The most rewarding feedback I’ve received is that the Backpack *“feels safe.”* That single phrase represents everything I set out to achieve.
+
+#### References
+
+- Bandura, A. (1997) *Self-efficacy: The exercise of control*. New York: W. H. Freeman.
+- Jisc (n.d.) *Digital capabilities framework*. Available at: [https://www.jisc.ac.uk/rd/projects/building-digital-capability](https://www.jisc.ac.uk/rd/projects/building-digital-capability) (Accessed: 14 July 2025).
+- UK Department for Education (2019) *Essential digital skills framework*. Available at: [https://www.gov.uk/government/publications/essential-digital-skills-framework](https://www.gov.uk/government/publications/essential-digital-skills-framework) (Accessed: 14 July 2025).
+- 
+#### Alignment of Specialist Area 2 (The Digital Backpack – Confidence-Based Skills Assessment) with CMALT Themes
 <table>
   <thead>
     <tr>
@@ -657,67 +713,19 @@ In that context, the commercial limitations placed on LTI functionality by Linke
       <td>Designed the diagnostic tool to be inclusive, plain-language, low-barrier, and culturally responsive for a diverse student cohort.</td>
     </tr>
     <tr>
-      <td><strong>Training, Mentoring and Developing Others<
-
-## Section B: Specialist Option – Digital Capability and Confidence-Based Skills Assessment
-
-### Description
-
-My specialist area is the design and development of digital capability assessment, with a particular focus on building confidence rather than testing competence. This work centres on the creation, rollout, and continuous refinement of the **Digital Backpack**, a diagnostic and development tool tailored for a diverse higher education student population.
-
-While digital capability frameworks are widely adopted across the sector, they often present as static matrices or self-assessment forms. I aimed to challenge that norm by creating an engaging, adaptive, and visually accessible experience rooted in growth mindset principles and confidence-based reflection.
-
-### Development and Implementation
-
-I led the design of the Digital Backpack’s diagnostic tool, which maps learner capability against both the **Jisc Digital Capabilities Framework** and the **Essential Digital Skills Framework**. Each question was written to surface not only a learner’s functional knowledge of a digital task but also their confidence in navigating it. This dual emphasis helps identify gaps in self-efficacy that might not be captured by skills testing alone.
-
-![Digital Backpack Capabilities assessment tool interface](./assets/media/capabilitiesTool.png)
-
-The diagnostic is SCORM-compliant and hosted in Moodle. Results are never stored on external servers; students download their outcomes as a personal PDF This approach maintains GDPR compliance while reinforcing self-ownership of learning. The language and format were refined iteratively in consultation with academic colleagues and tested for accessibility and inclusivity.
-
-The output of the diagnostic is a personalised PDF, including a radar diagram showing confidence levels across multiple digital domains. An example of this output is included in [Appendix C](#appendix-c---digital-backpack-sample-pdf-output), demonstrating how learners receive targeted developmental feedback in a private, student-owned format.
-
-### Pedagogical Rationale
-
-This tool emerged from a recognition that many learners – particularly mature students, international students, and those from widening participation backgrounds – experience shame or disengagement when confronted with digital tasks they feel they “should” already know. Traditional diagnostics often exacerbate this. By focusing on confidence-based scales, we created a space for honest self-reflection and dialogue.
-
-Students are placed into one of three levels: Explorer, Navigator, or Pioneer. These levels serve not as rankings but as developmental pathways, and learners are directed to curated, scaffolded resources aligned to their needs. These resources are primarily drawn from LinkedIn Learning and Microsoft Learn, integrated through our Moodle environment.
-
-### Strategic and Institutional Influence
-
-The Digital Backpack is being incorporated into the university’s curriculum framework and is increasingly promoted through induction and support services. I have worked closely with the Academic Learning Enhancement (ALE) team to align the Backpack to graduate attributes and employability themes.
-
-The tool has influenced internal policy discussions around inclusive learning, digital equity, and the role of diagnostics in student success. In 2025, I presented this work at the university’s SHIFT conference, highlighting its potental to impact on learner engagement and confidence.
-
-![SHIFT Conference slide showing diagnostic stages leading to curriculum-embedded learning pathways](./assets/media/shift_slide_diagnostics_learning_pathways.png)
-
-*Alt text: Circular infographic with arrows showing the journey from digital diagnostics (Explorer, Navigator, Pioneer) to curriculum-embedded learning pathways (Self-directed, Career, Certificates). Presented at the University of Greenwich SHIFT conference 2024.*
-
-We are now exploring ways to evaluate and iterate the Backpack through both workshop testing and diagnostic data. Students are asked to complete confidence scores before and after a session, and we have seen consistent upward shifts in self-reported confidence. These results are also corroborated by observable changes in learner participation as sessions progress. While the Backpack focuses on confidence, we recognise that confidence and capability are not the same. A person may feel confident but lack actual proficiency—or conversely, have capability but low self-assurance. This distinction is fundamental to the Backpack’s pedagogical value.
-
-One memorable instance involved a colleague testing the Backpack who felt discomfort with some of the terminology used in the accessibility questions. This revealed a deeper tension between perceived confidence and actual familiarity with sector-standard language. Their inability to confidently interpret the terms suggested a skills gap that would not have surfaced in a simple checklist or self-rating tool. This underscores how confidence-led diagnostics can open space for productive reflection—while also highlighting the importance of careful phrasing to avoid triggering judgment or disengagement.
-
-Looking ahead, we are developing a version two of the Backpack. This will offer more granular diagnostics, improved guidance for learners on what to prioritise next, and stronger integration with institutional systems. While the tool is already mobile-compatible, improvements to mobile UX and tighter linking with university platforms are on the roadmap.
-
-There has also been informal interest in commercialising the Backpack, particularly from colleagues in business-facing roles. While I remain cautious about this, it does reinforce the perception of the Backpack as a lightweight, innovative approach to digital skills development. Unlike many frameworks, it is simple enough to embed into a single tutor-led session while still offering deep pedagogical value. This blend of flexibility and insight is, I believe, a key strength of the project.
-
-### Reflection
-
-This project has allowed me to deepen my understanding of learner psychology, accessibility, and digital pedagogies. I’ve had to balance technical implementation with emotional resonance, sector frameworks with human needs. It’s reinforced my belief that assessment tools are not just about measurement – they are moments of communication, identity, and trust.
-
-The most rewarding feedback I’ve received is that the Backpack “feels safe.” For many students, that’s the starting point they need to progress.
-
----
-
-### References
-
-Jisc (no date) *Digital capabilities framework*. Available at: [https://www.jisc.ac.uk/rd/projects/building-digital-capability](https://www.jisc.ac.uk/rd/projects/building-digital-capability) (Accessed: 14 July 2025).
-
-UK Department for Education (2019) *Essential digital skills framework*. Available at: [https://www.gov.uk/government/publications/essential-digital-skills-framework](https://www.gov.uk/government/publications/essential-digital-skills-framework) (Accessed: 14 July 2025).
-
-Bandura, A. (1997) *Self-efficacy: The exercise of control*. New York: W. H. Freeman.
-
----
+      <td><strong>Training, Mentoring and Developing Others</strong></td>
+      <td>Collaborated with ALE colleagues; supported shared understanding of digital frameworks and co-created a reusable code base.</td>
+    </tr>
+    <tr>
+      <td><strong>The Scholarship of Technology Enhanced Learning</strong></td>
+      <td>Presented project approach and conceptual model at SHIFT conference; contributed to institutional discourse on digital confidence.</td>
+    </tr>
+    <tr>
+      <td><strong>Innovative and Digital Assessment</strong></td>
+      <td>Redesigned the diagnostic tool from skills testing to confidence measurement, with personalised learning pathway feedback.</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Section C: Future Plans
 
@@ -770,58 +778,8 @@ To support these goals, I intend to:
 
 My future plans reflect my commitment to the values of CMALT – fostering inclusive innovation, supporting sector dialogue, and embedding ethical, learner-centred approaches across my practice.
 
-## Section D: Wider Context
 
-### Description
-
-My work as a Digital Skills Developer is grounded in an understanding of the broader challenges and opportunities facing higher education. These include digital equity, inclusive design, data ethics, and the rapidly evolving role of generative AI. I engage with these issues through institutional projects, cross-sector dialogue, and a pedagogical commitment to learner empowerment.
-
-### Sector Awareness and Framework Alignment
-
-In designing the Digital Backpack diagnostic and support materials, I aligned our capabilities framework with the Jisc Digital Capabilities Framework and the UK Government’s Essential Digital Skills Framework. This dual alignment ensures our interventions are grounded in both sector-recognised standards and the specific expectations of employability, accessibility, and lifelong learning.
-
-These frameworks also shaped our confidence-based assessment approach, reflecting a shift from deficit-focused testing toward growth-focused diagnostics. I see this as essential for engaging students who may lack traditional academic confidence, including first-generation learners and those from widening participation backgrounds.
-
-### Digital Equity and the Hidden Curriculum
-
-A core part of my practice is making the “hidden curriculum” of digital participation visible. I’ve worked with students who lacked confidence not just in specific tools, but in the legitimacy of their own digital experience. In this context, access to Copilot and other AI tools can become empowering – not because they replace thinking, but because they provide a safer space to experiment, translate, and reflect.
-
-One concern I often raise in sector conversations is the inequity of informal support. Students with stronger social capital or prior exposure to AI and digital tools can navigate challenges more easily. Those without such access are less likely to ask for help – and more likely to feel excluded. This motivates my commitment to plain-language guidance, anonymous feedback tools, and confidence-first design.
-
-### AI Ethics and Institutional Voice
-
-Through my work with the University’s AI Special Interest Group, I contribute to discussions on generative AI, particularly its ethical, pedagogical, and strategic implications that will go on to influence policy. I was an early advocate for nuanced definitions of AI use, pushing for precision in language to avoid blanket bans that ignore the diverse and embedded nature of AI in everyday tools.
-
-I also contributed to the university’s official AI guidance, including the adoption of IBM’s definition of generative AI. This kind of strategic communication ensures policies support open, critical inquiry rather than inadvertently excluding marginalised topics or disciplines.
-
-My concern about platform censorship – especially within Microsoft’s enterprise-level Copilot – has led me to argue for higher education-specific licensing models that preserve academic freedom and inclusive research practice. I have raised these points in internal consultation processes and continue to monitor emerging platform policies as they evolve.
-
-I also engage in ongoing dialogue with colleagues at other institutions, particularly around the intersection of AI and accessibility. I’m an active member of the Jisc AI mailing list and my local ALT (Association for Learning Technology) regional group. At the University of Greenwich SHIFT conference, I presented my work on the Digital Backpack, which has been influential in framing institutional conversations around confidence, accessibility, and digital inclusion.
-
-My contributions within the AI SIG are helping shape the way AI is understood institutionally. The conversation has shifted from treating AI as a monolith to recognising the specific implications of generative AI – a distinction I’ve championed in university policy and guidance. My emphasis on precision and purpose in language has already informed published institutional guidance and staff development conversations.
-
-### Reflection
-
-The wider context of my work is a landscape of tension – between innovation and regulation, access and control, empowerment and protection. While I may not be positioned to resolve these tensions directly, I play a critical role in interpreting them for others. I increasingly see myself as a facilitator and bridge – someone who translates the complexity of digital technologies into practical, ethical, and human-centred conversations.
-
-There is considerable mythology around AI – especially among students who sometimes attribute sentience to generative AI models. I help counter this through accessible, reality-based explanation. I strive to be what might be described as a “technical ambassador” – not in the sense of promoting any given tool, but in helping staff and students navigate the digital world with more clarity, agency, and informed curiosity.
-
-By staying connected to sector frameworks, peer networks, and the lived experiences of students, I aim to ensure that my practice contributes not just to local success, but to a more inclusive, transparent, and equitable digital future in higher education.
-
----
-
-### References
-
-IBM (no date) *What is generative AI?* Available at: [https://www.ibm.com/topics/generative-ai](https://www.ibm.com/topics/generative-ai) (Accessed: 14 July 2025).
-
-University of Greenwich (no date) *AI Guidance for Research*. Available at: [https://www.gre.ac.uk/ai-guidance/research](https://www.gre.ac.uk/ai-guidance/research) (Accessed: 14 July 2025).
-
-Jisc (no date) *Digital capabilities framework*. Available at: [https://www.jisc.ac.uk/rd/projects/building-digital-capability](https://www.jisc.ac.uk/rd/projects/building-digital-capability) (Accessed: 14 July 2025).
-
-UK Department for Education (2019) *Essential digital skills framework*. Available at: [https://www.gov.uk/government/publications/essential-digital-skills-framework](https://www.gov.uk/government/publications/essential-digital-skills-framework) (Accessed: 14 July 2025).
-
-
-## Reflective Statement
+### Reflective Statement
 
 My professional practice has evolved from being primarily focused on digital tools and delivery mechanisms to encompassing a much broader and more human-centred understanding of learning technology. While I entered this field through a technical and creative background – developing accessible platforms and award-winning mobile learning environments – I now see my role as that of a translator, facilitator, and enabler within a complex educational ecosystem.
 
@@ -858,11 +816,10 @@ Looking ahead, I hope to continue supporting learners and colleagues through per
 ### D. [Current Draft Conference Proposal](./assets/media/Conference_Proposal_Smith_CMALT.pdf)
 [↑ Back to top](#sections)
 
-## AI Usage Declaration
 
 [↑ Back to top](#sections)
 
 ## Credits
-
+## Confirmation
 
 [↑ Back to top](#sections)
