@@ -3,6 +3,7 @@ layout: home
 title: Stuart Smith CMALT Portfolio
 ---
 ## Sections
+
 - [Contextual Statement](#contextual-statement)
 - [Core Area 1: Operational Issues](#core-area-1-operational-issues)
   - [Core Area 1a: Understanding the Constraints and Benefits of Different Technologies](#core-area-1a-understanding-the-constraints-and-benefits-of-different-technologies)
@@ -11,17 +12,16 @@ title: Stuart Smith CMALT Portfolio
 - [Core Area 2: Teaching, learning and/or assessment processes](#core-area-2-teaching-learning-andor-assessment-processes)
   - [Core Area 2b: An Understanding of Your Target Learners](#core-area-2b-an-understanding-of-your-target-learners)
 - [Core Area 3: The Wider Context](#core-area-3-the-wider-context)
-  - [Core Area 3: Understanding and Engaging with Legislation, Policies, and Standards](#core-area-3a-understanding-and-engaging-with-legislation)
-  - [Core Area 3b: Understanding and Engaging with Policies and Standards](#core-area-3b-understanding-and-engaging-with-policies-and-standards)
+  - [Core Area 3a: Understanding and Engaging with Legislation, Policies, and Standards](#3a-understanding-and-engaging-with-legislation)
+  - [Core Area 3b: Understanding and Engaging with Policies and Standards](#3b-understanding-and-engaging-with-policies-and-standards)
 - [Core Area 4: Communication](#core-area-4-communication)
-- [Section D: Wider Context](#section-d-wider-context)
 - [Specialist Areas](#specialist-areas)
   - [Specialist Area 1](#specialist-area-1---linkedin-learning-and-moodle-integration)
   - [Specilaist Area 2](#specialist-area-2-the-digital-backpack--confidence-based-skills-assessment)
-- [Advanced Areas]()
-- [Section C: Future Plans](#section-c-future-plans)
-- [References](#references)
-- [Credits](#credits)
+- [Advanced Areas: Strategic Leadership in Digital Capability, AI Policy, and Institutional Change](#advanced-areas-strategic-leadership-in-digital-capability-ai-policy-and-institutional-change)
+- [Future Plans](#future-plans)
+- [Biblography](#biblography)
+- [Thanks](#thanks)
 - [Confirmation](#confirmation)
 
 ## Contextual Statement
@@ -44,14 +44,8 @@ This portfolio represents the next step in my professional development – from 
 
 ---
 
-### References
-
-- Department for Education (2019) *Essential digital skills framework*. Available at: [https://www.gov.uk/government/publications/essential-digital-skills-framework](https://www.gov.uk/government/publications/essential-digital-skills-framework) (Accessed: 14 July 2025).
-- Jisc (2022) *Digital Capabilities Framework: the six elements defined*. Available at: [https://digitalcapability.jisc.ac.uk/what-is-digital-capability/](https://digitalcapability.jisc.ac.uk/what-is-digital-capability/) (Accessed: 14 July 2025).
-- University of Greenwich (2022) *Digital Strategy 2030: Becoming a digital-first university*. Internal document.
-[↑ Back to top](#sections)
-
 ## Core Area 1: Operational Issues
+
 ### Core Area 1a: Understanding the Constraints and Benefits of Different Technologies
 
 As the institutional lead for LinkedIn Learning at the University of Greenwich, one of my primary responsibilities has been to ensure we derive maximum value from our investment in the platform. LinkedIn Learning offers wide-ranging skills development opportunities for both students and staff, particularly in areas such as digital literacy, employability, and personal development. However, it is a third-party platform and not natively integrated with the university’s core systems.
@@ -104,7 +98,7 @@ It exemplifies my commitment to learning technologies that empower autonomy, red
 
 ### Core Area 1b: Technical Knowledge and Ability in the Use of Learning Technology
 
-#### Description
+#### Description Core Area 1b
 
 In my role as the Digital Skills Developer at the University of Greenwich, I apply a wide-ranging technical skill set across institutional platforms, open web technologies, and emerging AI tools. My core responsibilities include developing and embedding learning technologies that are scalable, inclusive, and strategically aligned with the university’s ambition to become a digital-first institution by 2030.
 
@@ -122,7 +116,7 @@ I hold a Master’s degree in Computing Science, where my dissertation focused o
 
 As part of my ongoing professional development, I completed the **Digital Teaching and Technology Enhanced Learning in Higher Education** module (ACAD-1441-M02-2024-25) at the University of Greenwich ([course link](https://moodlecurrent.gre.ac.uk/course/view.php?id=107625))(University of Greenwich, 2025). This module, part of my PGCert, deepened my understanding of how learning technologies interact with pedagogical design. It also helped me stay current with sector practices, particularly in relation to accessibility, feedback, and student engagement.
 
-#### Reflection
+#### Reflection Core Area 1b
 
 My technical practice is rooted in the principle that accessibility is not a feature – it is a foundation. This philosophy informs both the tools I build and the formats I advocate. Structured textual formats like Markdown, semantically formatted Word documents, and HTML are not only accessible across devices and assistive technologies – they are also highly compatible with AI-powered tools like Copilot. Where learning content is structured well, tools such as Copilot are more likely to enhance clarity and engagement; where it is poorly structured, AI often compounds confusion.
 
@@ -130,7 +124,7 @@ In a sector increasingly dependent on multimedia and automation, I continue to c
 
 A key example of impact is the development of the Digital Backpack capabilities assessment tool. Originally conceived as a judgement-based quiz, the tool was redesigned as a confidence-based diagnostic in direct response to feedback from colleagues across the Academic Learning Enhancement (ALE) team, accessibility specialists, and digital skills practitioners. Their insight highlighted the potential for judgemental assessment models to alienate students – particularly those who lacked confidence or came from non-traditional learning backgrounds.
 
-I led the technical and pedagogical redesign to ensure the new tool was aligned with the **Jisc Digital Capabilities Framework** and the **UK Government’s Essential Digital Skills Framework**. The resulting confidence-based diagnostic now forms the basis of the university’s approach to digital skills assessment for incoming students. This work is described further in [Core Area 3](#core-area-3-specialist-area-of-practice).
+I led the technical and pedagogical redesign to ensure the new tool was aligned with the **Jisc Digital Capabilities Framework** and the **UK Government’s Essential Digital Skills Framework**. The resulting confidence-based diagnostic now forms the basis of the university’s approach to digital skills assessment for incoming students. This work is described further in [Specialist Area 2](#specialist-area-2-the-digital-backpack--confidence-based-skills-assessment).
 
 This development is significant because there was previously no mechanism for diagnosing digital capability gaps at the point of entry. Given that all students are expected to engage with core digital tools from day one, the absence of diagnostic data created a serious equity issue. Without it, there was no effective way to allocate support, design inclusive interventions, or prioritise resources. By implementing the Digital Backpack as a formative, scalable tool, I have helped position it as a key institutional asset – providing a foundation for targeted upskilling, improved onboarding, and longer-term student success.
 
@@ -139,16 +133,6 @@ This work also complements the LTI and SCIM integration efforts described in [Co
 It embodies several of the core CMALT principles: understanding the interplay between technology and learning, advocating for sustainable and inclusive practice, staying current with evolving tools, and working across professional boundaries to communicate and embed effective solutions.
 
 ---
-
-### References 
-
-Microsoft (2023) *LTI 1.3 Implementation Guide for LinkedIn Learning*. Available at: https://learn.microsoft.com/en-us/linkedin/learning/sso-auth/sso-docs/lti-13-implementation (Accessed: 15 July 2025).
-
-Smith, S. (2002) ‘Dyslexia and virtual learning environment interfaces’, *Access All Areas: Disability, Technology and Learning*, pp. 50–53. Oxford and York: ALT and TechDis.
-
-University of Greenwich (2025) *Digital Teaching and Technology Enhanced Learning in Higher Education (ACAD-1441-M02-2024-25)*. Available at: https://moodlecurrent.gre.ac.uk/course/view.php?id=107625 (Accessed: 15 July 2025).
-
-[↑ Back to top](#sections)
 
 ### Core Area 1c: Supporting the Deployment of Learning Technologies
 
@@ -213,26 +197,21 @@ This collaboration led to a shared GitHub architecture, where different versions
 
 Beyond technical implementation, this work is helping to shift the university’s cultural framing of digital skills. By embedding the Digital Backpack in the upcoming curriculum framework, digital assessment becomes a structured expectation rather than an optional extra. Students will complete the diagnostic on arrival, enabling targeted support, early intervention, and a clearer sense of digital expectations. This marks a shift from vague literacy concepts to scaffolded digital citizenship.
 
-#### Reflection
+#### Reflection Core Area 1c
 
 This experience reaffirmed the value of open collaboration, low-cost prototyping, and values-driven development. While policy constraints limited off-the-shelf options, I worked creatively within them by advocating for a fit-for-purpose tool backed by data and dialogue.
 
 I also deepened my appreciation for the diversity of learners and staff. Some students arrive with limited exposure to digital tools beyond passive smartphone use; some staff begin with low confidence. Recognising this helped me frame digital skills as an entitlement, not assumed knowledge. That framing informed both design and deployment.
 
-This deployment work aligns with the CMALT principles of collaboration, critical reflection, and sustainable practice. By embedding a flexible, inclusive assessment tool across departments and user groups, I have contributed to a more coherent and equitable digital experience at Greenwich – one that begins at induction and grows throughout a student’s academic journey. The work complements [Core Area 1a](#core-area-1a-understanding-the-constraints-and-benefits-of-different-technologies) and [Core Area 1b](#core-area-1b-technical-knowledge-and-ability-in-the-use-of-learning-technology), and is expanded on in [Core Area 3](#core-area-3-specialist-area-of-practice).
+This deployment work aligns with the CMALT principles of collaboration, critical reflection, and sustainable practice. By embedding a flexible, inclusive assessment tool across departments and user groups, I have contributed to a more coherent and equitable digital experience at Greenwich – one that begins at induction and grows throughout a student’s academic journey. The work complements [Core Area 1a](#core-area-1a-understanding-the-constraints-and-benefits-of-different-technologies) and [Core Area 1b](#core-area-1b-technical-knowledge-and-ability-in-the-use-of-learning-technology), and is expanded on in [Specialist Area 2](#specialist-area-2-the-digital-backpack--confidence-based-skills-assessment).
 
 ---
 
-### References
-
-University of Greenwich (2024) *Digital Strategy 2022–2030: March 2024 update*. University of Greenwich. Available at: https://www.gre.ac.uk/__data/assets/pdf_file/0020/134570/digital-strategy-2022-2030-march-2024-update-4.pdf (Accessed: 15 July 2025).
-
-[↑ Back to top](#sections)
 ## Core Area 2: Teaching, learning and/or assessment processes
+
 ### Core Area 2a: An Understanding of Teaching, Learning, and/or Assessment Processes
 
-#### Description
-
+#### Description Core Area 2a
 
 As a Digital Skills Developer at the University of Greenwich, I design and deliver inclusive, scaffolded digital skills sessions that support both students and staff in developing practical capabilities. My teaching approach is grounded in constructivist, humanist, and progressivist principles. Through my PGCert in Teaching in Higher Education, I have deepened my theoretical understanding and evolved my practice to emphasise co-creation, confidence-building, and critical engagement.
 
@@ -242,7 +221,7 @@ I have created a developing programme of digital skills workshops, delivered onl
 
 Each session is carefully scaffolded: beginning with a brief introduction, followed by practical tasks based on realistic, curriculum-relevant scenarios. These tasks are chunked into manageable steps, especially in sessions that target essential digital skills. Jargon is minimised. I often describe AI interactions in natural terms – for example, replacing the word "prompt" with "question" to reduce barriers to understanding.
 
-A notable moment came when a mature student, often bullied for their lack of digital skills, began crying during a Copilot session – not out of distress, but because they felt empowered for the first time to understand complex university systems using a tool that spoke their language. This experience reflects my core goal: to support learners not only in acquiring digital skills, but in regaining agency and confidence.
+A notable moment came when a mature student, often bullied for their lack of digital skills, began crying during a Copilot session – not out of distress, but because they felt empowered for the first time to understand complex university systems using a tool that spoke their language. This experience reflects my core goal: to support learners not only in acquiring digital skills, but in regaining agency and confidence.  This aligns with Bandura’s (1997) theory of self-efficacy, which highlights that confidence in one’s abilities is critical to motivation and engagement.
 
 #### Formative Use of AI in Learning
 
@@ -252,7 +231,7 @@ In one session, when students were given a structured task using Copilot's image
 
 #### The Digital Backpack Diagnostic
 
-The Digital Backpack confidence diagnostic tool complements this work by enabling students and staff to self-assess their digital capabilities. It draws on both the Jisc Digital Capabilities Framework and the UK Government's Essential Digital Skills Framework, offering a formative, non-judgemental entry point for digital development. Originally developed as a judgement-based skills test, we redesigned it, following feedback, as a confidence-based Likert model to avoid negative assessment experiences and better support inclusion.
+The Digital Backpack confidence diagnostic tool complements this work by enabling students and staff to self-assess their digital capabilities. It draws on both the Jisc Digital Capabilities Framework and the UK Government's Essential Digital Skills Framework, offering a formative, non-judgemental entry point for digital development. Originally developed as a judgement-based skills test, we redesigned it, following feedback, as a confidence-based Likert model to avoid negative assessment experiences and better support inclusion. This shift reflects the principle that confidence is a foundation for successful learning (Bandura, 1997).
 
 It is designed for diverse users: screen-reader friendly, keyboard-navigable, and SCORM-packaged to work across platforms. It operates with a bias toward under-reporting confidence to ensure self-assessments err on the cautious side. Students receive personalised recommendations but are never explicitly told whether they are beginner, intermediate, or advanced. The goal is to promote self-efficacy and reflection, not competition or grading.
 
@@ -266,21 +245,15 @@ I draw on principles of formative and diagnostic assessment (Black and Wiliam, 1
 
 ---
 
-### References (Harvard style)
-
-Black, P. and Wiliam, D. (1998) 'Assessment and classroom learning', *Assessment in Education: Principles, Policy & Practice*, 5(1), pp. 7–74. Available at: https://doi.org/10.1080/0969595980050102 (Accessed: 15 July 2025).
-
-Sadler, D.R. (1989) 'Formative assessment and the design of instructional systems', *Instructional Science*, 18(2), pp. 119–144. Available at: https://doi.org/10.1007/BF00117714 (Accessed: 15 July 2025).
-
 ### Core Area 2b: An Understanding of Your Target Learners
 
-#### Description
+#### Description Core Area 2b
 
 My work as a Digital Skills Developer at the University of Greenwich is framed by the institution’s strategic aim to become a digital-first university by 2030. This ambition places digital capability development at the heart of teaching and learning across all disciplines. Within this wider context, my work on the Digital Backpack initiative and associated AI workshops is designed to align not only with institutional priorities but also with key national frameworks and sector-wide conversations on digital equity, confidence, and inclusion.
 
 #### Digital Backpack as a Strategic and Sector-Aligned Tool
 
-The Digital Backpack serves as a formative confidence-based diagnostic tool, mapping to both the Jisc Digital Capabilities Framework and the UK Government’s Essential Digital Skills Framework. It enables students and staff to reflect on their own digital competencies, receive personalised feedback, and engage in scaffolded learning journeys.
+The Digital Backpack serves as a formative confidence-based diagnostic tool, mapping to both the Jisc Digital Capabilities Framework and the UK Government’s Essential Digital Skills Framework. It enables students and staff to reflect on their own digital competencies, receive personalised feedback, and engage in scaffolded learning journeys. The shift towards a confidence-first approach aligns with Bandura’s (1997) concept of self-efficacy, which emphasises that belief in one’s ability to succeed is critical to motivation and behaviour.
 
 ##### Mapping to Jisc Digital Capabilities Framework and the UK Government’s Essential Digital Skills Framework
 
@@ -351,7 +324,7 @@ This tool supports the university’s commitment to inclusive access and life-wi
 
 The tool and workshops are built with a strong commitment to inclusion. Students from diverse linguistic, cultural, and socio-economic backgrounds regularly attend our sessions with vastly different digital starting points. Some may be confident consumers of social media but lack productive or academic digital skills.
 
-By focusing on non-judgemental self-assessment, plain language, and tool-agnostic tasks, the Backpack encourages a sense of agency and confidence. My reflection on delivering these sessions is that digital skills equity is not simply about access to tools, but about pedagogy and approach – how we frame digital development so it feels empowering rather than remedial.
+By focusing on non-judgemental self-assessment, plain language, and tool-agnostic tasks, the Backpack encourages a sense of agency and confidence. My reflection on delivering these sessions is that digital skills equity is not simply about access to tools, but about pedagogy and approach – how we frame digital development so it feels empowering rather than remedial. Bandura’s (1997) work on self-efficacy reinforces the importance of confidence as a prerequisite to successful learning.
 
 This is reflected in feedback from learners. One student said:
 
@@ -388,27 +361,10 @@ The wider context is changing rapidly, and while tools like Copilot offer powerf
 
 Through the Digital Backpack and AI teaching, I advocate for infrastructure and practice that acknowledges difference, prioritises confidence, and respects autonomy. My future goals include continued refinement of the diagnostic approach, further involvement in AI policy, and sharing of practice across the sector to support inclusive digital transformation.
 
-This work builds upon the practical delivery in [Core Area 2a](#core-area-2a-understanding-of-teaching-learning-andor-assessment-processes) and complements the implementation focus of [Core Area 1c](#core-area-1c-supporting-the-deployment-of-learning-technologies).
+This work builds upon the practical delivery in [Core Area 2a](#core-area-2a-an-understanding-of-teaching-learning-andor-assessment-processes) and complements the implementation focus of [Core Area 1c](#core-area-1c-supporting-the-deployment-of-learning-technologies).
 
 ---
 
-### References 
-
-Equality Act 2010. (2010) *legislation.gov.uk*. Available at: https://www.legislation.gov.uk/ukpga/2010/15/contents (Accessed: 14 July 2025).
-
-European Union (2016) *Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 (General Data Protection Regulation)*. Available at: https://gdpr.eu/ (Accessed: 14 July 2025).
-
-Intelligent.com (2024) *Survey: 92% of college students use AI tools like ChatGPT*. Available at: https://www.intelligent.com/ (Accessed: 14 July 2025).
-
-Jisc (no date) *Digital capabilities framework*. Available at: https://www.jisc.ac.uk/rd/projects/building-digital-capability (Accessed: 14 July 2025).
-
-UK Department for Education (2019) *Essential digital skills framework*. Available at: https://www.gov.uk/government/publications/essential-digital-skills-framework (Accessed: 14 July 2025).
-
-UK Government (2018) *The Public Sector Bodies (Websites and Mobile Applications) Accessibility Regulations 2018*. Available at: https://www.legislation.gov.uk/uksi/2018/952/contents/made (Accessed: 14 July 2025).
-
-University of Greenwich (no date) *AI Guidance for Research*. Available at: https://www.gre.ac.uk/ai-guidance/research (Accessed: 14 July 2025).
-
----
 ## Core Area 3: The Wider Context
 
 ### 3a: Understanding and Engaging with Legislation
@@ -444,7 +400,7 @@ This institutional engagement is visualised in the infographic below:
 ![Legal and Policy Considerations in Digital Education](./assets/media/legal_policy_infographic.png)
 *Alt text: Circular infographic showing legal and policy considerations including GDPR, accessibility, licensing, AI policy, and sector standards. Used in internal AI SIG presentations.*
 
-### Reflection
+### Reflection Core Area 3b
 
 My approach to the wider context is grounded in the four core CMALT principles:
 
@@ -468,29 +424,9 @@ My goal remains to ensure that policy is not just something we comply with — b
 
 ---
 
-### References
-
-Bandura, A. (1997) *Self-efficacy: The exercise of control*. New York: W. H. Freeman.
-
-Equality Act 2010. (2010) *legislation.gov.uk*. Available at: [https://www.legislation.gov.uk/ukpga/2010/15/contents](https://www.legislation.gov.uk/ukpga/2010/15/contents) (Accessed: 14 July 2025).
-
-European Union (2016) *Regulation (EU) 2016/679 (GDPR)*. Available at: [https://gdpr.eu/](https://gdpr.eu/) (Accessed: 14 July 2025).
-
-IBM (no date) *What is generative AI?* Available at: [https://www.ibm.com/topics/generative-ai](https://www.ibm.com/topics/generative-ai) (Accessed: 14 July 2025).
-
-Jisc (no date) *Digital capabilities framework*. Available at: [https://www.jisc.ac.uk/rd/projects/building-digital-capability](https://www.jisc.ac.uk/rd/projects/building-digital-capability) (Accessed: 14 July 2025).
-
-UK Department for Education (2019) *Essential digital skills framework*. Available at: [https://www.gov.uk/government/publications/essential-digital-skills-framework](https://www.gov.uk/government/publications/essential-digital-skills-framework) (Accessed: 14 July 2025).
-
-UK Government (2018) *Accessibility Regulations*. Available at: [https://www.legislation.gov.uk/uksi/2018/952/contents/made](https://www.legislation.gov.uk/uksi/2018/952/contents/made) (Accessed: 14 July 2025).
-
-University of Greenwich (no date) *AI Guidance for Research*. Available at: [https://www.gre.ac.uk/ai-guidance/research](https://www.gre.ac.uk/ai-guidance/research) (Accessed: 14 July 2025).
-
-W3C (2018) *Web Content Accessibility Guidelines (WCAG) 2.1*. Available at: [https://www.w3.org/TR/WCAG21/](https://www.w3.org/TR/WCAG21/) (Accessed: 24 July 2025).
-
 ## Core Area 4: Communication
 
-### Description
+### Description Core Area 4
 
 My communication practice spans formal and informal contexts, both digital and face-to-face. As a Digital Skills Developer, I operate across professional services and academic teams, requiring tailored approaches depending on audience, format, and purpose. My teaching and policy work involves communicating complex or sensitive information in accessible and supportive ways.
 
@@ -527,7 +463,7 @@ Similarly, I worked with the ALE team to position the Digital Backpack within th
 
 In both the Teams Premium and Backpack projects, I have drawn on a personal communication approach I describe using the **VANDR** principles – making communication *Visible, Accessible, Navigable, Descriptive, and Relatable*. These principles help me translate technical insight into usable, meaningful guidance that builds confidence and encourages inclusive collaboration.
 
-### Reflection
+### Reflection Core Area 4
 
 Through my communication practice, I have learned that clarity and empathy are just as important as technical accuracy. My focus on plain language, tool-agnostic terminology, and human-centred framing has helped reduce barriers for learners and colleagues alike. The VANDR model I’ve developed continues to shape my approach – ensuring communication remains inclusive, accessible, and effective across diverse audiences.
 
@@ -535,20 +471,14 @@ I actively review and develop my communication skills as part of my CPD. For exa
 
 ---
 
-### References
-
-LinkedIn Learning (2025) *Communicating with Civility and Respect at Work*. Available at: https://www.linkedin.com/learning/communicating-with-civility-and-respect-at-work (Accessed: 15 July 2025).
-
-LinkedIn Learning (2025) *How to Say No Without Guilt*. Available at: https://www.linkedin.com/learning/how-to-say-no-without-guilt (Accessed: 15 July 2025).
-
 [↑ Back to top](#sections)
-
 
 ## Specialist Areas
 
 ### Specialist Area 1 - LinkedIn Learning and Moodle Integration
 
 #### Interpretation of Usage Trends and Strategic Implications
+
 Analysis of LinkedIn Learning usage data between February 2024 and January 2025 reveals a familiar academic rhythm: sharp spikes in engagement during term time, followed by notable declines during university breaks, particularly over summer and Christmas.
 
 That said, January and February 2025 show a sharp and encouraging increase in usage across the board. While the improved login process and SCIM provisioning had not yet been implemented, this uptick likely reflects the early impact of heightened internal communications and the development of a more coordinated institutional approach to LinkedIn Learning.
@@ -556,6 +486,7 @@ That said, January and February 2025 show a sharp and encouraging increase in us
 At that point, we were already laying the groundwork for what has now become our strategic plan — focused on shifting LinkedIn Learning from an occasional-use resource to a more deeply integrated part of students’ academic experience.
 
 This strategic integration work aims to:
+
 - Embed LinkedIn Learning directly within Moodle using LTI 1.3
 - Encourage tutors to curate and embed resources rather than simply signpost them
 - Elevate the platform from a siloed tool to a more consistent support for digital capability
@@ -581,7 +512,8 @@ As a workaround, we’ve begun pairing embedded content with formative assessmen
 Despite this, I remain optimistic. There is clear and growing interest in using LinkedIn Learning more effectively across the institution. Our students will graduate into a workforce where digital fluency is expected. Given the university's strong employment focus, helping students build not only academic knowledge but also transferable digital skills is a strategic imperative. LinkedIn Learning — if used well — can support this dual aim, both enriching the student experience and providing demonstrable employability outcomes.
 
 In that context, the commercial limitations placed on LTI functionality by LinkedIn feel short-sighted. A fully realised integration would enhance not just the academic experience, but also LinkedIn Learning’s own reputation as a platform committed to genuine educational value.
-#### Alignment of Specialist Area 1 (LinkedIn Learning and Moodle Integration) with CMALT Themes 
+
+#### Alignment of Specialist Area 1 (LinkedIn Learning and Moodle Integration) with CMALT Themes
 
 <table>
   <thead>
@@ -630,20 +562,19 @@ In that context, the commercial limitations placed on LTI functionality by Linke
   </tbody>
 </table>
 
-
 ### Specialist Area 2: The Digital Backpack – Confidence-Based Skills Assessment
 
-#### Description
+#### Description Specialist Area 2
 
 This specialist area focuses on the development of the **Digital Backpack**, an inclusive digital capabilities initiative designed to empower students through confidence-based assessment. My role in leading the development of this tool has involved strategic design, institutional influence, and deep reflection on learner experience.
 
-While digital capability frameworks like those from Jisc and the UK Government are widely adopted, they often manifest as static matrices or competence checklists. These approaches can alienate learners who already feel underconfident. I sought to design an experience that would invite honest self-reflection and meet students where they are — especially those from widening participation, mature, or international backgrounds. The result was a tool built on growth mindset principles, supporting students in developing not only digital knowledge but also a belief in their ability to engage with digital systems confidently.
+While digital capability frameworks like those from Jisc and the UK Government are widely adopted, they often manifest as static matrices or competence checklists. These approaches can alienate learners who already feel underconfident. I sought to design an experience that would invite honest self-reflection and meet students where they are — especially those from widening participation, mature, or international backgrounds. The result was a tool built on growth mindset principles, supporting students in developing not only digital knowledge but also a belief in their ability to engage with digital systems confidently. Its confidence-first approach is informed by Bandura’s (1997) theory of self-efficacy, which highlights that belief in one’s ability to succeed strongly influences motivation and persistence.
 
 #### Development and Implementation
 
 I led the design and iterative development of the **Digital Capabilities Diagnostic Tool**, the first phase of the Digital Backpack. It maps learner confidence against both the **Jisc Digital Capabilities Framework** and the **Essential Digital Skills Framework**. Each multiple-choice question reflects increasing levels of confidence rather than correctness, using scenario-based responses aligned to key digital skill areas. This approach helps surface self-perception and readiness rather than only technical competence.
 
-The diagnostic tool is SCORM-compliant and hosted securely in Moodle. It avoids the need to store results externally by offering downloadable personalised PDFs with radar diagrams. These diagrams help learners visualise their strengths and development areas across digital domains. An example of this PDF output is included in [Appendix C](#appendix-c---digital-backpack-sample-pdf-output).
+The diagnostic tool is SCORM-compliant and hosted securely in Moodle. It avoids the need to store results externally by offering downloadable personalised PDFs with radar diagrams. These diagrams help learners visualise their strengths and development areas across digital domains. An example of this PDF output is included in [Appendix C](#c-digital-backpack-sample-pdf-output).
 
 Accessibility and inclusivity were core priorities throughout the tool’s design. Questions were reviewed in consultation with academic colleagues to refine language and reduce potential for judgment. In one instance, feedback from a colleague around terminology in the accessibility section highlighted a crucial insight: a user’s inability to confidently interpret sector-standard language revealed a hidden skills gap. Such insights would not emerge in traditional checklists. This led us to adapt our phrasing and design approach to ensure we created space for understanding rather than assumed expertise.
 
@@ -667,19 +598,14 @@ The project is now expanding. A set of **workbooks** to accompany each level of 
 
 There has also been informal interest from colleagues in business-facing roles in adapting or commercialising the model. While I remain cautious about this, it suggests that the simplicity and relevance of the Backpack resonates beyond our institution.
 
-#### Reflection
+#### Reflection Specialist Area 2
 
 This project has challenged me to think differently about how we measure and support digital growth. It has required me to balance frameworks with empathy, systems with sensitivity, and institutional goals with individual journeys. Perhaps most importantly, it has shown me that effective assessment isn’t just about skills — it’s about how people feel when they’re asked to reflect.
 
 The most rewarding feedback I’ve received is that the Backpack *“feels safe.”* That single phrase represents everything I set out to achieve.
 
-#### References
-
-- Bandura, A. (1997) *Self-efficacy: The exercise of control*. New York: W. H. Freeman.
-- Jisc (n.d.) *Digital capabilities framework*. Available at: [https://www.jisc.ac.uk/rd/projects/building-digital-capability](https://www.jisc.ac.uk/rd/projects/building-digital-capability) (Accessed: 14 July 2025).
-- UK Department for Education (2019) *Essential digital skills framework*. Available at: [https://www.gov.uk/government/publications/essential-digital-skills-framework](https://www.gov.uk/government/publications/essential-digital-skills-framework) (Accessed: 14 July 2025).
-- 
 #### Alignment of Specialist Area 2 (The Digital Backpack – Confidence-Based Skills Assessment) with CMALT Themes
+
 <table>
   <thead>
     <tr>
@@ -727,9 +653,72 @@ The most rewarding feedback I’ve received is that the Backpack *“feels safe.
   </tbody>
 </table>
 
-## Section C: Future Plans
+## Advanced Areas: Strategic Leadership in Digital Capability, AI Policy, and Institutional Change
 
-### Description
+### Description Advanced Areas
+
+As Digital Skills Developer at the University of Greenwich, I have led multiple strategic initiatives that collectively demonstrate sustained leadership, sector influence and institutional impact. My most significant contribution has been the creation and rollout of the Digital Backpack programme, which includes a formative, confidence‑based diagnostic tool aligned to the Jisc Digital Capabilities Framework (Jisc 2022) and the UK Government’s Essential Digital Skills Framework (Department for Education 2019). The Backpack provides students with personalised pathways to improve their digital skills and has become a key part of the university’s ambition to be digital‑first by 2030 (University of Greenwich 2022).
+
+Alongside this, I led the SCIM integration of LinkedIn Learning, a technical and strategic enhancement that streamlined account provisioning and enabled granular data analytics. This work directly influenced engagement strategies and improved the institution’s return on investment in enterprise learning technologies.
+
+I have also contributed to institutional AI policy and ethical guidance, developing workshops and contributing to guidance documents on the use of generative AI in learning and teaching. My involvement in the internal AI Special Interest Group (SIG) and sector events such as the SHIFT Conference positioned me as a voice in national discussions on AI, ethics and digital equity.
+
+Across these initiatives, my responsibilities included:
+
+- Project leadership and cross‑team coordination (Moodle, Academic Learning Enhancement (ALE), branding, HR, IT)
+- Negotiating institutional support and resourcing
+- Designing inclusive, confidence‑focused pedagogical approaches
+- Representing the university at sector‑level events
+
+These activities required strategic decision‑making, influencing senior stakeholders and embedding cultural change around digital capability and AI use.
+
+---
+
+### Reflection Advanced Areas
+
+#### **Commitment to Exploring the Interplay Between Technology and Learning**
+
+The Digital Backpack and AI workshops exemplify how technology can enhance learning when framed as supportive and formative rather than judgmental. By designing the Backpack as a confidence‑first diagnostic, I shifted institutional thinking towards learner empowerment and self‑reflection. My AI workshops similarly reposition AI as a tool for critical engagement and formative learning, countering uncritical, unguided AI use reported by 92% of students (Intelligent.com 2024).
+
+### **Commitment to Staying Up to Date with New Technologies**
+
+I actively explore emerging tools, including generative AI, Teams Premium and data‑driven analytics in LinkedIn Learning. My CPD includes use of LinkedIn Learning courses and engagement with ALT and Jisc mailing lists. These networks ensure that my practice remains aligned with sector trends and emerging best practice.
+
+#### **Empathy and Learning from Colleagues**
+
+Much of my work has been collaborative. The Backpack was co‑designed with staff and students through iterative feedback cycles. Input from students – particularly those with low digital confidence – directly shaped the tone, structure and accessibility of the tool. Similarly, my LinkedIn Learning integration project required sustained dialogue with academic staff, HR and IT colleagues to meet diverse user needs.
+
+#### **Commitment to Communicating and Disseminating Effective Practice**
+
+I regularly share my work internally (through workshops, guidance and strategic meetings) and externally (SHIFT Conference, Jisc mailing lists). My contributions to the university’s AI policy guidance (University of Greenwich 2024) and CPD sessions have provided models for safe, inclusive AI adoption. Future plans include publishing reflections on confidence‑based digital diagnostics and their sector implications.
+
+---
+
+### Impact
+
+- **Institutional:** The Digital Backpack is being embedded in the university’s curriculum framework and supports widening participation by levelling digital access.
+- **Operational:** LinkedIn Learning SCIM integration improved provisioning, analytics and staff engagement, aligning enterprise tools with teaching and learning goals.
+- **Sector:** Presentations at SHIFT and contributions to the AI SIG have influenced sector‑wide conversations around digital equity, confidence and AI ethics.
+
+---
+
+### Evidence (Expanded)
+
+- **Appendix E – SHIFT 2024 Presentation:** Overview of the Digital Backpack diagnostic tool, its framework mapping and how Explorer/Navigator/Pioneer recommendations link to the curriculum framework.
+- **Appendix C – Diagnostic Report Example:** Sample confidence report highlighting areas of higher and lower confidence with suggested learning pathways.
+- **Appendix F – Context and Mapping Document:** Demonstrates how the Digital Backpack aligns with the Jisc and UK Government frameworks and the Greenwich 2030 Digital Strategy.
+- **Appendix G – AI as a Constant Learning Companion Workshop:** Conference session exploring opportunities and concerns around generative AI in higher education.
+- **Appendix H – LinkedIn Learning SCIM Integration Summary:** Executive summary outlining the institutional benefits of SCIM and LTI 1.3 integration.
+- **AI Policy Guidance Excerpt:** Early in my role at Greenwich, I identified that the university’s AI guidance lacked clarity about generative AI. I proposed adding the IBM (2024) definition – “Generative AI, sometimes called gen AI, can create original content such as text, images, video, audio or software code in response to your prompt or request” – to ensure students and staff had a clear, authoritative explanation at the start of the document (University of Greenwich 2024).
+- **Staff and Student Feedback Quotes:** “Life‑changing” – emotional comment from a student introduced to Microsoft Copilot in a workshop. “That does mean for Disabled Staff Community usage that we will need Prem in order to use it at all” – feedback from a colleague during the Teams Premium AI pilot.
+
+---
+
+This advanced area represents my transition from practitioner to **institutional influencer and sector contributor**. It evidences not only technical and pedagogical innovation, but also strategic thinking, ethical reflection and the ability to lead inclusive digital change.
+
+## Future Plans
+
+### Description Future Plans
 
 As I continue to grow in my role as a Digital Skills Developer, I am focused on strengthening the intersection between pedagogy, policy, and practice. I want to ensure that digital learning tools not only function well but also reflect the values of inclusivity, equity, and learner empowerment.
 
@@ -740,7 +729,7 @@ As I continue to grow in my role as a Digital Skills Developer, I am focused on 
 Building on the development of the Digital Backpack, I plan to expand our evaluation framework to better track student progression over time. This includes refining confidence measures, exploring appropriate metrics for growth in digital self-efficacy, and collaborating with academic colleagues to triangulate this data with learner outcomes and feedback.
 
 ![Digital Backpack Diagnostic development timeline](./assets/media/digital_backpack_timeline.png)
-*Figure C.1 Digital Backpack Diagnostic development timeline* 
+*Figure C.1 Digital Backpack Diagnostic development timeline*
 
 Over the beta period, running from September - December 2025 (Fig. C.1) there will be the collation of evidence from students about how they feel about the diagnostic tool and the resulting recommendations. This will be a combination of short questionnaires and some more detailed interviews. The results will be used to make urgent updates for version 1 and inform the development of version 2 from March 2026.
 
@@ -778,7 +767,6 @@ To support these goals, I intend to:
 
 My future plans reflect my commitment to the values of CMALT – fostering inclusive innovation, supporting sector dialogue, and embedding ethical, learner-centred approaches across my practice.
 
-
 ### Reflective Statement
 
 My professional practice has evolved from being primarily focused on digital tools and delivery mechanisms to encompassing a much broader and more human-centred understanding of learning technology. While I entered this field through a technical and creative background – developing accessible platforms and award-winning mobile learning environments – I now see my role as that of a translator, facilitator, and enabler within a complex educational ecosystem.
@@ -805,21 +793,78 @@ Looking ahead, I hope to continue supporting learners and colleagues through per
 
 [↑ Back to top](#sections)
 
-## References
+## Biblography
+
+Bandura, A. (1997) *Self-efficacy: The exercise of control.* New York: W. H. Freeman.
+
+Black, P. and Wiliam, D. (1998) 'Assessment and classroom learning', *Assessment in Education: Principles, Policy & Practice*, 5(1), pp. 7–74. Available at: [https://doi.org/10.1080/0969595980050102](https://doi.org/10.1080/0969595980050102) (Accessed: 15 July 2025).
+
+Department for Education (2019) *Essential digital skills framework.* Available at: [https://www.gov.uk/government/publications/essential-digital-skills-framework](https://www.gov.uk/government/publications/essential-digital-skills-framework) (Accessed: 14 July 2025).
+
+Equality Act 2010. (2010) *legislation.gov.uk*. Available at: [https://www.legislation.gov.uk/ukpga/2010/15/contents](https://www.legislation.gov.uk/ukpga/2010/15/contents) (Accessed: 14 July 2025).
+
+European Union (2016) *Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 (General Data Protection Regulation).* Available at: [https://gdpr.eu/](https://gdpr.eu/) (Accessed: 14 July 2025).
+
+IBM (no date) *What is generative AI?* Available at: [https://www.ibm.com/topics/generative-ai](https://www.ibm.com/topics/generative-ai) (Accessed: 14 July 2025).
+
+Intelligent.com (2024) *Survey: 92% of college students use AI tools like ChatGPT.* Available at: [https://www.intelligent.com/](https://www.intelligent.com/) (Accessed: 14 July 2025).
+
+Jisc (2018) *Digital Capabilities Framework.* Available at: [https://www.jisc.ac.uk/rd/projects/building-digital-capability](https://www.jisc.ac.uk/rd/projects/building-digital-capability) (Accessed: 28 July 2025).
+
+LinkedIn Learning (2025) *Communicating with Civility and Respect at Work.* Available at: [https://www.linkedin.com/learning/communicating-with-civility-and-respect-at-work](https://www.linkedin.com/learning/communicating-with-civility-and-respect-at-work) (Accessed: 15 July 2025).
+
+LinkedIn Learning (2025) *How to Say No Without Guilt.* Available at: [https://www.linkedin.com/learning/how-to-say-no-without-guilt](https://www.linkedin.com/learning/how-to-say-no-without-guilt) (Accessed: 15 July 2025).
+
+Microsoft (2023) *LTI 1.3 Implementation Guide for LinkedIn Learning.* Available at: [https://learn.microsoft.com/en-us/linkedin/learning/sso-auth/sso-docs/lti-13-implementation](https://learn.microsoft.com/en-us/linkedin/learning/sso-auth/sso-docs/lti-13-implementation) (Accessed: 15 July 2025).
+
+Sadler, D.R. (1989) 'Formative assessment and the design of instructional systems', *Instructional Science*, 18(2), pp. 119–144. Available at: [https://doi.org/10.1007/BF00117714](https://doi.org/10.1007/BF00117714) (Accessed: 15 July 2025).
+
+Smith, S. (2002) ‘Dyslexia and virtual learning environment interfaces’, *Access All Areas: Disability, Technology and Learning,* pp. 50–53. Oxford and York: ALT and TechDis.
+
+UK Government (2018) *The Public Sector Bodies (Websites and Mobile Applications) Accessibility Regulations 2018.* Available at: [https://www.legislation.gov.uk/uksi/2018/952/contents/made](https://www.legislation.gov.uk/uksi/2018/952/contents/made) (Accessed: 14 July 2025).
+
+University of Greenwich (2022) *Digital Strategy 2030: Becoming a digital-first university.* Internal document.
+
+University of Greenwich (2024) *Digital Strategy 2022–2030: March 2024 update.* Available at: [https://www.gre.ac.uk/\_\_data/assets/pdf\_file/0020/134570/digital-strategy-2022-2030-march-2024-update-4.pdf](https://www.gre.ac.uk/__data/assets/pdf_file/0020/134570/digital-strategy-2022-2030-march-2024-update-4.pdf) (Accessed: 15 July 2025).
+
+University of Greenwich (2025) *Digital Teaching and Technology Enhanced Learning in Higher Education (ACAD-1441-M02-2024-25).* Available at: [https://moodlecurrent.gre.ac.uk/course/view.php?id=107625](https://moodlecurrent.gre.ac.uk/course/view.php?id=107625) (Accessed: 15 July 2025).
+
+University of Greenwich (no date) *AI Guidance for Research.* Available at: [https://www.gre.ac.uk/ai-guidance/research](https://www.gre.ac.uk/ai-guidance/research) (Accessed: 14 July 2025).
+
+W3C (2018) *Web Content Accessibility Guidelines (WCAG) 2.1.* Available at: [https://www.w3.org/TR/WCAG21/](https://www.w3.org/TR/WCAG21/) (Accessed: 24 July 2025).
+
 [↑ Back to top](#sections)
 
 ## Appendices
+
 ### A.  [Step-by-Step Guide: Embedding a LinkedIn Learning Course in Moodle](./assets/media/linkedinLearningMoodleEmbeddingCompressedForWeb.pdf)
+
 ### B. [Censorship in Copilot - Evidence Log](./assets/media/Censorship_in_Copilot_Evidence_Cleaned.pdf)
+
 ### C. [Digital Backpack Sample PDF Output](./assets/media/Developing%20your%20Digital%20Capabilities-NB0869_%20Discover%20Your%20Digital%20Skills%2009072025%20_%20Moodle%20Home.pdf)
+
 *Developing your Digital Capabilities – Discover Your Digital Skills* (2025). Sample personalised learner report generated through the Digital Backpack. This includes a radar-style breakdown of digital confidence across domains, generated via the Moodle-based SCORM diagnostic. The PDF is downloadable by the student only and is not retained by the system.
+
 ### D. [Current Draft Conference Proposal](./assets/media/Conference_Proposal_Smith_CMALT.pdf)
+
+### E. [Support students for success: four tools to enhance your students' learning](./assets/media/adst_shift_2025.pdf)
+
+### F. [University of Greenwich Digital Backpack: a personalised digital skills portfolio](./assets/media/Digital_Backpack_About_Rst.pdf) - password protected, available to Assessors only
+
+### G. [AI as a Constant Companion](./assets/media/AI_as_a_Constant_Companion_2024-07-01_16_44_30.pdf)
+
 [↑ Back to top](#sections)
 
+### H. [Streamling Digital Learning - Executive Summary](./assets/media/UoG-Streamlining-Digital-Learning-LinkedInLearning-Moodle.pdf)
 
 [↑ Back to top](#sections)
 
-## Credits
+[↑ Back to top](#sections)
+
 ## Confirmation
+
+[↑ Back to top](#sections)
+
+## Thanks
 
 [↑ Back to top](#sections)

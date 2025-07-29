@@ -1,0 +1,24 @@
+{
+  "MD033": {
+    "allowed_elements": [
+      "br",
+      "img",
+      "details",
+      "summary",
+      "table",
+      "thead",
+      "tbody",
+      "tr",
+      "th",
+      "td",
+      "div",
+    "strong",
+      "em"
+    ]
+  },
+  "MD013": {
+    "line_length": 820,
+    "heading_line_length": 150,
+    "code_block_line_length": 150
+  }
+}
