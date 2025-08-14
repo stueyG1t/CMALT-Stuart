@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: Stuart Smith CMALT Portfolio - Contextual Statement
 description: Certified Membership of the Association for Learning Technology (CMALT) portfolio of Stuart Smith, MSc, BA (Hons).
 permalink: /
