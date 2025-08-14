@@ -2,6 +2,7 @@
 layout: page
 title: Stuart Smith CMALT Portfolio - Core Area 3: The Wider Context – Understanding and engaging with legislation, policies and standards
 description: Certified Membership of the Association for Learning Technology (CMALT) portfolio of Stuart Smith, MSc, BA (Hons).
+permalink: /Core_Area_3/
 ---
 
 ## 3a – Understanding and engaging with legislation

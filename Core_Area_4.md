@@ -2,6 +2,7 @@
 layout: page
 title: Stuart Smith CMALT Portfolio - Core Area 4: Communication and working with others
 description: Certified Membership of the Association for Learning Technology (CMALT) portfolio of Stuart Smith, MSc, BA (Hons).
+permalink: /Core_Area_4/
 ---
 
 ## 4a – Communication and working with others

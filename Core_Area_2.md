@@ -2,6 +2,7 @@
 layout: page
 title: Stuart Smith CMALT Portfolio - Core Area 2: Learning, Teaching and Assessment Processes
 description: Certified Membership of the Association for Learning Technology (CMALT) portfolio of Stuart Smith, MSc, BA (Hons).
+permalink: /Core_Area_2/
 ---
 
 ## 2a – Understanding of teaching, learning and/or assessment processes

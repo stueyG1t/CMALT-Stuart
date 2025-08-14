@@ -2,6 +2,7 @@
 layout: page
 title: Stuart Smith CMALT Portfolio - Specialist Area: Institutional development / strategic work
 description: Certified Membership of the Association for Learning Technology (CMALT) portfolio of Stuart Smith, MSc, BA (Hons).
+permalink: /Specialist_Area/
 ---
 ## Specialist Area: Institutional development / strategic work
 

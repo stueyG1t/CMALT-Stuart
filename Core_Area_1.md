@@ -2,6 +2,7 @@
 layout: page
 title: Stuart Smith CMALT Portfolio - Core Area 1: Operational Issues
 description: Certified Membership of the Association for Learning Technology (CMALT) portfolio of Stuart Smith, MSc, BA (Hons).
+permalink: /Core_Area_1/
 ---
 
 ## 1a – Understanding the constraints and benefits of different technologies
