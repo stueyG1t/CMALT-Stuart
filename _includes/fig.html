@@ -1,8 +1,6 @@
 {% assign default_maxwidth = "600px" %}
 
-{% comment %}
-If an ID is provided, pull details from _data/figures.yml
-{% endcomment %}
+{% comment %} If an ID is provided, pull details from _data/figures.yml {% endcomment %}
 {% if include.id %}
   {% assign f = site.data.figures[include.id] %}
   {% assign img_url = f.url %}
@@ -14,23 +12,20 @@ If an ID is provided, pull details from _data/figures.yml
   {% assign img_caption = include.caption %}
 {% endif %}
 
-{% comment %}
-Map short alignment words to CSS class names
-{% endcomment %}
+{% comment %} Map short alignment words to CSS class names {% endcomment %}
 {% case include.align %}
-  {% when "left" %}
-    {% assign align_class = "align-left" %}
-  {% when "right" %}
-    {% assign align_class = "align-right" %}
-  {% when "center" %}
-    {% assign align_class = "align-center" %}
-  {% else %}
-    {% assign align_class = "" %}
+  {% when "left" %}{% assign align_class = "align-left" %}
+  {% when "right" %}{% assign align_class = "align-right" %}
+  {% when "center" %}{% assign align_class = "align-center" %}
+  {% else %}{% assign align_class = "" %}
 {% endcase %}
 
-{% include image.html 
-   url=img_url 
-   alt=img_alt 
-   caption=img_caption 
-   align=align_class 
-   maxwidth=include.maxwidth | default: default_maxwidth %}
+{% comment %} Compute maxwidth safely (no filters inside include params) {% endcomment %}
+{% assign mw = include.maxwidth | default: default_maxwidth %}
+
+{% include image.html
+   url=img_url
+   alt=img_alt
+   caption=img_caption
+   align=align_class
+   maxwidth=mw %}
