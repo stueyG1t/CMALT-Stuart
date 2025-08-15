@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Stuart Smith CMALT Portfolio - Biblography
+title: Stuart Smith CMALT Portfolio - Bibliography
 description: Certified Membership of the Association for Learning Technology (CMALT) portfolio of Stuart Smith, MSc, BA (Hons).
-permalink: /Biblography/
+permalink: /Bibliography/
 ---
 
 ## Bibliography
