@@ -7,7 +7,7 @@ permalink: /
 
 ## Description
 
-[IStuart Smith, MSc, BA (Hons)](/assets/media/Stuart_Smith_Digital_Skills_Developer.jpg) I am the Digital Skills Developer at the University of Greenwich, leading institutional initiatives to improve digital capability among students and staff. I view learning technology not simply as a collection of tools, but as a literacy essential for student empowerment, equity, and future-readiness.
+![IStuart Smith, MSc, BA (Hons)](/assets/media/Stuart_Smith_Digital_Skills_Developer.jpg) I am the Digital Skills Developer at the University of Greenwich, leading institutional initiatives to improve digital capability among students and staff. I view learning technology not simply as a collection of tools, but as a literacy essential for student empowerment, equity, and future-readiness.
 
 I design and lead innovative, high-impact digital initiatives that deliver sustained benefits, shaping practice both institutionally and within the wider sector. A prominent example is the Digital Backpack, a formative, confidence-based digital skills diagnostic and development framework aligned to the Jisc Digital Capabilities Framework (2022) and the UK Government’s Essential Digital Skills Framework (2019). Developed from inception and continually evolved under my leadership, it addresses widening participation, digital inclusion, and curriculum-embedded skills development. Delivery has involved cross-departmental collaboration (Moodle and Academic Learning Enhance (ALE) teams), system access negotiations, and direct student co-design work.
 
