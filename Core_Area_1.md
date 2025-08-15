@@ -27,7 +27,7 @@ One lesson learned is the importance of piloting technologies under realistic co
 ### 1a Evidence
 
 - [Appendix A](./Appendices.md#a--step-by-step-guide-embedding-a-linkedin-learning-course-in-moodle) – Step-by-Step Guide: Embedding LinkedIn Learning in Moodle
-- [Appendix C](./Appendices.md#c-digital-backpack-sample-pdf-output) 
+- [Appendix C](./Appendices.md#c-digital-backpack-sample-pdf-output) - Digital Backpack Sample PDF Output
 - [Appendix H](./Appendices.md#h-streamling-digital-learning---executive-summary) – Executive Summary: Streamlining Digital Learning
 
 ---
@@ -54,7 +54,7 @@ My Copilot evaluations have shown me how commercial AI integrations can be hinde
 
 ### 1b Evidence
 - [Appendix A](./Appendices.md#a--step-by-step-guide-embedding-a-linkedin-learning-course-in-moodle) – Step-by-Step Guide: Embedding LinkedIn Learning in Moodle
-- [Appendix C](./Appendices.md#c-digital-backpack-sample-pdf-output) 
+- [Appendix C](./Appendices.md#c-digital-backpack-sample-pdf-output) - Digital Backpack Sample PDF Output
 - [Appendix H](./Appendices.md#h-streamling-digital-learning---executive-summary) – Executive Summary: Streamlining Digital Learning
 
 ---
@@ -78,7 +78,7 @@ Effective deployment is as much about people as it is about systems. Early in my
 ### 1c Evidence
 
 - [Appendix A](./Appendices.md#a--step-by-step-guide-embedding-a-linkedin-learning-course-in-moodle) – Step-by-Step Guide: Embedding LinkedIn Learning in Moodle
-- [Appendix C](./Appendices.md#c-digital-backpack-sample-pdf-output)  - Digital Backpack Sample Output
+- [Appendix C](./Appendices.md#c-digital-backpack-sample-pdf-output)  - Digital Backpack Sample PDF Outputt
 - [Appendix H](./Appendices.md#h-streamling-digital-learning---executive-summary) – Executive Summary: Streamlining Digital Learning
 
 ---

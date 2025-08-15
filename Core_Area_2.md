@@ -42,7 +42,7 @@ Understanding learner diversity has shifted my approach from “designing for th
 
 ### 2b Evidence
 
-- [Appendix C](./Appendices.md#c-digital-backpack-sample-pdf-output) 
+- [Appendix C](./Appendices.md#c-digital-backpack-sample-pdf-output) - Digital Backpack Sample PDF Output
 - [Appendix D](./Appendices.md#d-current-draft-conference-proposal) – Current Draft Conference Proposal
 
 ---

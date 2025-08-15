@@ -36,6 +36,6 @@ Looking back, I would have involved students even earlier in certain project sta
 ### Evidence
 
 - [Appendix B](./Appendices.md#a--step-by-step-guide-embedding-a-linkedin-learning-course-in-moodle) - Embedding a LinkedIn Learning Course in Moodle.
-- [Appendix C](./Appendices.md#c-digital-backpack-sample-pdf-output)  - Digital Backpack Sample Output
+- [Appendix C](./Appendices.md#c-digital-backpack-sample-pdf-output)  - Digital Backpack Sample PDF Output
 - [Appendix E](./Appendices.md#e-support-students-for-success-four-tools-to-enhance-your-students-learning) - Support students for success: four tools to enhance your students' learning P48 - 54]
 - [Appendix F](./Appendices.md#f-policy-influence-internal-exec-briefing--digital-backpack-a-personalised-digital-skills-portfolio-appendix-e---password-protected-available-to-assessors-only) - Policy Influence: Internal Exec Briefing- Digital Backpack: a personalised digital skills portfolio

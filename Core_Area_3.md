@@ -24,7 +24,7 @@ Applying legislation in practice has shown me that compliance is not enough; eth
 ### 3a Evidence
 
 - [Appendix B](./Appendices.md#b-censorship-in-copilot---evidence-log) – Censorship in Copilot – Evidence Log
-- [Appendix C](./Appendices.md#c-digital-backpack-sample-pdf-output) – Digital Backpack sample learner output
+- [Appendix C](./Appendices.md#c-digital-backpack-sample-pdf-output) – Digital Backpack Sample PDF Output
 - [Appendix H](./Appendices.md#h-streamling-digital-learning---executive-summary) – Executive Summary: Streamlining Digital Learning
 
 ---
