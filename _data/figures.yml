@@ -2,11 +2,11 @@
 stuart-smith-portrait:
   url: /assets/media/Stuart_Smith_Digital_Skills_Developer.jpg
   alt: Stuart Smith, Digital Skills Developer
-  caption: Stuart Smith, MSc, BA (Hons) 
+  caption: Stuart Smith, MSc, BA (Hons)
 
-SCIM-Flow:
+scim-flow:
   url: /assets/media/scimFlow.png
-  alt: SCIM complements SSO by automating user provisioning, with arrows connecting HR systems, student records, SCIM, and LinkedIn Learning to show synchronisation and segmentation
+  alt: SCIM complements SSO for user provisioning
   caption: SCIM working SSO automating user provisioning
 
 scorm-in-moodle:
