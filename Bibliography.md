@@ -5,7 +5,7 @@ description: Certified Membership of the Association for Learning Technology (CM
 permalink: /Biblography/
 ---
 
-## Biblography
+## Bibliography
 
 - Bandura, A. (1997) *Self-efficacy: The exercise of control.* New York: W. H. Freeman.
 - Black, P. and Wiliam, D. (1998) 'Assessment and classroom learning', *Assessment in Education: Principles, Policy & Practice*, 5(1), pp. 7–74. Available at: [https://doi.org/10.1080/0969595980050102](https://doi.org/10.1080/0969595980050102) (Accessed: 15 July 2025).
