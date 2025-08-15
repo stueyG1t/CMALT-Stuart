@@ -35,7 +35,7 @@ One lesson learned is the importance of piloting technologies under realistic co
 
 My role demands hands-on technical proficiency across multiple platforms, particularly Microsoft 365, Moodle, and LinkedIn Learning. I have authored and distributed detailed tutor-facing resources, such as the “Embedding LinkedIn Learning in Moodle” step-by-step guide, enabling colleagues to confidently embed learning resources within their modules without additional technical support.
 
-{% include fig.html id="scorm-in-moodle" align:"center" %}
+{% include fig.html id="scorm-in-moodle" align="center" %}
 
 I am proficient in configuring SCORM-based learning objects, as evidenced by the Digital Backpack diagnostic tool, and in optimising accessibility settings within Moodle, Microsoft Teams, and LinkedIn Learning. 
 
