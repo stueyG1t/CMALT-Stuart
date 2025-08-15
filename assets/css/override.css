@@ -95,3 +95,38 @@ summary {
     color: #d0d0ff; // Soft highlight for italics
   }
 }
+/* Figure Caption Styling*/
+figure.image {
+  margin: 1em 0;
+  text-align: center;
+}
+
+figure.image img {
+  max-width: 100%;
+  height: auto;
+}
+
+figure.image figcaption {
+  font-size: 0.9em;
+  color: #666;
+  margin-top: 0.5em;
+}
+
+/* Alignment helpers */
+figure.image.align-left {
+  float: left;
+  margin: 0 1em 1em 0;
+  text-align: left;
+}
+
+figure.image.align-right {
+  float: right;
+  margin: 0 0 1em 1em;
+  text-align: right;
+}
+
+figure.image.align-center {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
