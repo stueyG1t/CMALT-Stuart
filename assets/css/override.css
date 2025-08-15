@@ -112,7 +112,7 @@ figure.image figcaption {
   margin-top: 0.5em;
 }
 
-/* Alignment helpers */
+/* Alignment helpers for larger screens */
 figure.image.align-left {
   float: left;
   margin: 0 1em 1em 0;
@@ -130,3 +130,15 @@ figure.image.align-center {
   margin-right: auto;
   text-align: center;
 }
+
+/* Mobile-friendly override */
+@media (max-width: 768px) {
+  figure.image.align-left,
+  figure.image.align-right {
+    float: none;
+    margin: 1em auto;
+    text-align: center;
+    display: block;
+  }
+}
+

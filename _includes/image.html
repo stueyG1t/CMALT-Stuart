@@ -1,6 +1,10 @@
-<figure class="image{% if include.align %} {{ include.align }}{% endif %}">
+{% assign default_maxwidth = "600px" %}
+
+<figure class="image{% if include.align %} {{ include.align }}{% endif %}"
+        style="max-width: {% if include.maxwidth %}{{ include.maxwidth }}{% else %}{{ default_maxwidth }}{% endif %};">
   <img src="{{ include.url }}" 
-       alt="{% if include.alt %}{{ include.alt }}{% else %}{{ include.caption }}{% endif %}">
+       alt="{% if include.alt %}{{ include.alt }}{% else %}{{ include.caption }}{% endif %}"
+       loading="lazy">
   {% if include.caption %}
     <figcaption>{{ include.caption }}</figcaption>
   {% endif %}

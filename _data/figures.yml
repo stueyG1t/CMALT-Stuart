@@ -1,0 +1,39 @@
+# _data/figures.yml
+stuart-smith-portrait:
+  url: /assets/media/Stuart_Smith_Digital_Skills_Developer.jpg
+  alt: Stuart Smith, Digital Skills Developer
+  caption: Stuart Smith, MSc, BA (Hons) 
+scorm-in-moodle:
+  url: /assets/media/LinkedInLearningInMoodle.png
+  alt: SCORM package shown in Moodle
+  caption: SCORM wrapped content in Moodle
+
+diagnostic-scorm-embedded:
+  url: /assets/media/digitalCapabilitesToolInMoodle.png
+  alt: Diagnostic tool embedded in Moodle via SCORM
+  caption: Bespoke Digital Capabilities Diagnostic Assessment Tool shown embedded, using SCORM, into Moodle
+
+capabilities-tool-ui:
+  url: /assets/media/capabilitiesTool.png
+  alt: Digital Backpack Capabilities tool interface
+  caption: Digital Backpack Capabilities assessment tool interface
+
+diagnostic-codebase-git:
+  url: /assets/media/MainBranchCapabilitiesToolMainCode.png
+  alt: Diagnostic tool codebase managed in Git
+  caption: Shared Digital Backpack Capabilities assessment tool codebase using Git
+
+legal-policy-infographic:
+  url: /assets/media/legal_policy_infographic.png
+  alt: Legal and policy considerations infographic
+  caption: Legal and Policy Considerations in Digital Education
+
+digital-backpack-timeline:
+  url: /assets/media/digital_backpack_timeline.png
+  alt: Timeline of Digital Backpack diagnostic development
+  caption: Digital Backpack Diagnostic development timeline
+
+shift-diagnostics-learning-pathways:
+  url: /assets/media/shift_slide_diagnostics_learning_pathways.png
+  alt: SHIFT slide showing diagnostics to learning pathways
+  caption: SHIFT Conference slide showing diagnostic stages leading to curriculum-embedded learning pathways
