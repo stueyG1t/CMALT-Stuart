@@ -21,7 +21,7 @@ If redesigning, I would incorporate more peer-to-peer demonstration within sessi
 
 ### 2a Evidence
 
-- [Appendix C](./Appendices.md#c-digital-backpack-sample-pdf-output) 
+- [Appendix C](./Appendices.md#c-digital-backpack-sample-pdf-output) - Digital Backpack Sample PDF Output
 - [Appendix D](./Appendices.md#d-current-draft-conference-proposal) – Current Draft Conference Proposal
 
 ---
