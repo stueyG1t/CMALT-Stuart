@@ -7,9 +7,7 @@ permalink: /
 
 ## Description
 
-{% include image.html url:"/assets/media/Stuart_Smith_Digital_Skills_Developer.jpg" alt:"Test" caption:"Test" %}
-
-{% include fig.html id:"stuart-smith-portrait" align:"left" %} 
+{% include fig.html id='stuart-smith-portrait' align='left' %}
 
 I am the Digital Skills Developer at the University of Greenwich, leading institutional initiatives to improve digital capability among students and staff. I view learning technology not simply as a collection of tools, but as a literacy essential for student empowerment, equity, and future-readiness.
 
