@@ -19,8 +19,7 @@ Looking ahead, I intend to build on the institutional and sector momentum of my 
 - Staff capacity building – developing a streamlined “AI in Teaching” micro-course for staff to address both technical and ethical aspects of generative AI use.
 - Evidence-led advocacy – continuing work in the AI-SIG and digital capability forums to influence policy on accessibility, privacy, and censorship in institutional tools.
 
-![Digital Backpack Diagnostic development timeline](./assets/media/digital_backpack_timeline.png)
-*Figure C.1 Digital Backpack Diagnostic development timeline*
+{% include fig.html id="digital-backpack-timeline" %}
 
 ### Reflection
 

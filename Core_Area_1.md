@@ -13,7 +13,7 @@ At the University of Greenwich, I have led the deployment of learning technologi
 
 Similarly, the Digital Backpack diagnostic was designed to run within Moodle as a SCORM package, aligning with existing institutional infrastructure to maximise accessibility, while avoiding reliance on proprietary external hosting that could introduce GDPR or data retention risks. These decisions were informed by both technical affordances and institutional policy requirements, as well as the need to support a diverse, widening participation student body.
 
-![Diagram showing how SCIM complements SSO by automating user provisioning, with arrows connecting HR systems, student records, SCIM, and LinkedIn Learning to show synchronisation and segmentation](./assets/media/scimFlow.png)
+{% include fig.html id="my-id" %}
 
 ### 1a Reflection
 
@@ -39,7 +39,7 @@ My role demands hands-on technical proficiency across multiple platforms, partic
 
 I am proficient in configuring SCORM-based learning objects, as evidenced by the Digital Backpack diagnostic tool, and in optimising accessibility settings within Moodle, Microsoft Teams, and LinkedIn Learning. 
 
-![Bespoke Digital Capabilities Diagnostic Assessment Tool shown embedded, using SCORM, into Moodle](./assets/media/digitalCapabilitesToolInMoodle.png)
+{% include fig.html id="diagnostic-scorm-embedded" %}
 
 My technical knowledge extends to evaluating the viability of AI-enabled tools (e.g., Microsoft Copilot), assessing their accessibility features, ethical implications, and impact on user experience.
 
@@ -65,9 +65,9 @@ I have led multiple deployments of learning technologies at Greenwich, notably t
 
 In both cases, I developed support resources (PDF guides, workshop slides) and delivered drop-in sessions for staff. For the Backpack, I also worked directly with students to test workflows, ensuring the output reports were clear and actionable for learners at all confidence levels.
 
-![Digital Backpack Capabilities assessment tool interface](./assets/media/capabilitiesTool.png)
+{% include fig.html id="capabilitie-tool-ui" %}
 
-![Shared Digital Backpack Capabilities assessment tool codebase using Git](./assets/media/digitalCapabilitesToolInMoodle.png)
+{% include fig.html id="diagnostic-scorm-embedded" %}
 
 ### 1c Reflection
 
