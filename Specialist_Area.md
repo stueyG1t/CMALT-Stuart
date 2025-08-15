@@ -18,6 +18,9 @@ Working at this strategic level has reinforced that technology projects succeed 
 
 If I were to repeat the process, I would build in formal evaluation from the start — particularly for measuring long-term impact on student digital confidence and employability outcomes.
 
+![SHIFT Conference slide showing diagnostic stages leading to curriculum-embedded learning pathways](/assets/media/shift_slide_diagnostics_learning_pathways.png)
+*Alt text: Circular infographic with arrows showing the journey from digital diagnostics (Explorer, Navigator, Pioneer) to curriculum-embedded learning pathways (Self-directed, Career, Certificates). Presented at the University of Greenwich SHIFT conference 2024.*
+
 ### Evidence
 
 - Appendix C – Digital Backpack sample learner output

@@ -13,6 +13,8 @@ At the University of Greenwich, I have led the deployment of learning technologi
 
 Similarly, the Digital Backpack diagnostic was designed to run within Moodle as a SCORM package, aligning with existing institutional infrastructure to maximise accessibility, while avoiding reliance on proprietary external hosting that could introduce GDPR or data retention risks. These decisions were informed by both technical affordances and institutional policy requirements, as well as the need to support a diverse, widening participation student body.
 
+![Diagram showing how SCIM complements SSO by automating user provisioning, with arrows connecting HR systems, student records, SCIM, and LinkedIn Learning to show synchronisation and segmentation](./assets/media/scimFlow.png)
+
 ### 1a Reflection
 
 Working with systems of this scale has reinforced that the “best” tool is not always the one with the most features, but the one most fit for the local technical and policy environment. In both the LinkedIn Learning integration and Digital Backpack implementation, the biggest wins came from aligning with institutional authentication systems and workflow — reducing friction for students and tutors.
@@ -33,7 +35,13 @@ One lesson learned is the importance of piloting technologies under realistic co
 
 My role demands hands-on technical proficiency across multiple platforms, particularly Microsoft 365, Moodle, and LinkedIn Learning. I have authored and distributed detailed tutor-facing resources, such as the “Embedding LinkedIn Learning in Moodle” step-by-step guide, enabling colleagues to confidently embed learning resources within their modules without additional technical support.
 
-I am proficient in configuring SCORM-based learning objects, as evidenced by the Digital Backpack diagnostic tool, and in optimising accessibility settings within Moodle, Microsoft Teams, and LinkedIn Learning. My technical knowledge extends to evaluating the viability of AI-enabled tools (e.g., Microsoft Copilot), assessing their accessibility features, ethical implications, and impact on user experience.
+![SCORM wrapped content in Moodle](./assets/media/LinkedInLearningInMoodle.png)
+
+I am proficient in configuring SCORM-based learning objects, as evidenced by the Digital Backpack diagnostic tool, and in optimising accessibility settings within Moodle, Microsoft Teams, and LinkedIn Learning. 
+
+![Bespoke Digital Capabilities Diagnostic Assessment Tool shown embedded, using SCORM, into Moodle](./assets/media/digitalCapabilitesToolInMoodle.png)
+
+My technical knowledge extends to evaluating the viability of AI-enabled tools (e.g., Microsoft Copilot), assessing their accessibility features, ethical implications, and impact on user experience.
 
 ### 1b Reflection
 
@@ -56,6 +64,10 @@ My Copilot evaluations have shown me how commercial AI integrations can be hinde
 I have led multiple deployments of learning technologies at Greenwich, notably the rollout of SCIM-linked LinkedIn Learning access and the Digital Backpack launch. My responsibilities included coordinating with technical teams to ensure secure data flows, working with the branding team to ensure student-facing materials were accessible and aligned with institutional style, and delivering tutor briefings on integration benefits and usage.
 
 In both cases, I developed support resources (PDF guides, workshop slides) and delivered drop-in sessions for staff. For the Backpack, I also worked directly with students to test workflows, ensuring the output reports were clear and actionable for learners at all confidence levels.
+
+![Digital Backpack Capabilities assessment tool interface](./assets/media/capabilitiesTool.png)
+
+![Shared Digital Backpack Capabilities assessment tool codebase using Git](./assets/media/digitalCapabilitesToolInMoodle.png)
 
 ### 1c Reflection
 

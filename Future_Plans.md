@@ -10,17 +10,17 @@ permalink: /Future_Plans/
 ### Description
 
 Looking ahead, I intend to build on the institutional and sector momentum of my current projects by expanding the Digital Backpack and deepening AI integration in a way that is ethical, inclusive, and evidence-based.
-Key priorities include:
 
-Enhanced Digital Backpack analytics – introducing longitudinal tracking (opt-in) to measure individual and cohort progress over time, enabling more personalised support.
+**Key priorities include:**
 
-AI for formative assessment – piloting AI-assisted feedback mechanisms within the Backpack so learners can receive tailored, confidence-building guidance alongside their diagnostic results.
+- Enhanced Digital Backpack analytics – introducing longitudinal tracking (opt-in) to measure individual and cohort progress over time, enabling more personalised support.
+- AI for formative assessment – piloting AI-assisted feedback mechanisms within the Backpack so learners can receive tailored, confidence-building guidance alongside their diagnostic results.
+- Expanded sector engagement – publishing and presenting on the Backpack model, LinkedIn Learning integration, and AI adoption strategies to contribute to national practice and policy discussions.
+- Staff capacity building – developing a streamlined “AI in Teaching” micro-course for staff to address both technical and ethical aspects of generative AI use.
+- Evidence-led advocacy – continuing work in the AI-SIG and digital capability forums to influence policy on accessibility, privacy, and censorship in institutional tools.
 
-Expanded sector engagement – publishing and presenting on the Backpack model, LinkedIn Learning integration, and AI adoption strategies to contribute to national practice and policy discussions.
-
-Staff capacity building – developing a streamlined “AI in Teaching” micro-course for staff to address both technical and ethical aspects of generative AI use.
-
-Evidence-led advocacy – continuing work in the AI-SIG and digital capability forums to influence policy on accessibility, privacy, and censorship in institutional tools.
+![Digital Backpack Diagnostic development timeline](./assets/media/digital_backpack_timeline.png)
+*Figure C.1 Digital Backpack Diagnostic development timeline*
 
 ### Reflection
 

@@ -31,6 +31,9 @@ Applying legislation in practice has shown me that compliance is not enough; eth
 
 I actively contribute to the University of Greenwich’s AI Special Interest Group (AI-SIG), influencing internal policy on ethical AI use in teaching and learning. My work also aligns with national frameworks such as the Jisc Digital Capabilities Framework and the UK Government’s Essential Digital Skills Framework, both embedded into the design of the Digital Backpack.
 
+![Legal and Policy Considerations in Digital Education](./assets/media/legal_policy_infographic.png)
+*Alt text: Circular infographic showing legal and policy considerations including GDPR, accessibility, licensing, AI policy, and sector standards. Used in internal AI SIG presentations.*
+
 I have advised on the adoption of Microsoft Copilot, flagging privacy, bias, and censorship issues, and contributed to draft guidance that frames AI as a support tool rather than a decision-maker.
 
 ### 3b Reflection
