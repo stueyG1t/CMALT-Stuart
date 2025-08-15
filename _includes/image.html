@@ -1,6 +1,7 @@
 <figure class="image{% if include.align %} {{ include.align }}{% endif %}">
-  <img src="{{ include.url }}" alt="{{ include.description }}">
-  {% if include.description %}
-    <figcaption>{{ include.description }}</figcaption>
+  <img src="{{ include.url }}" 
+       alt="{% if include.alt %}{{ include.alt }}{% else %}{{ include.caption }}{% endif %}">
+  {% if include.caption %}
+    <figcaption>{{ include.caption }}</figcaption>
   {% endif %}
 </figure>
