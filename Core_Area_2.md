@@ -21,8 +21,8 @@ If redesigning, I would incorporate more peer-to-peer demonstration within sessi
 
 ### 2a Evidence
 
-- Appendix C – Digital Backpack sample learner output
-- Appendix D – Current Draft Conference Proposal
+- [Appendix C](./Appendices.md#c-digital-backpack-sample-pdf-output) 
+- [Appendix D](./Appendices.md#d-current-draft-conference-proposal) – Current Draft Conference Proposal
 
 ---
 
@@ -34,13 +34,15 @@ The University of Greenwich has a diverse student population, including many fro
 
 Student co-design is embedded in my practice. For example, Backpack prototype testing included sessions with students who provided feedback on interface clarity, question framing, and inclusivity.
 
+> "That I didn't realise that the flagging of an e-mail actually automatically adds it to a To Do list, so I just wanted to thank you for flagging that because I hadn't realised that that was the case." – *Digital Workshop student attendee, 28 April 2025*
+
 ### 2b Reflection
 
 Understanding learner diversity has shifted my approach from “designing for the average user” to intentionally designing for the margins — ensuring that those with the greatest barriers still have equitable access. This approach benefits all users, but requires more extensive upfront testing and iteration.
 
 ### 2b Evidence
 
-- Appendix C – Digital Backpack sample learner output
-- Appendix D – Current Draft Conference Proposal
+- [Appendix C](./Appendices.md#c-digital-backpack-sample-pdf-output) 
+- [Appendix D](./Appendices.md#d-current-draft-conference-proposal) – Current Draft Conference Proposal
 
 ---

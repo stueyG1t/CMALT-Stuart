@@ -11,7 +11,11 @@ permalink: /Core_Area_3/
 
 My work is shaped by UK GDPR and the Equality Act 2010, both of which influence how I select, configure, and deploy learning technologies. For example, the Digital Backpack SCORM tool was designed so that individual results remain visible only to the student — meeting privacy requirements and supporting learner autonomy.
 
-Similarly, SCIM provisioning for LinkedIn Learning ensures account access is role-based and automatically removed when users leave the institution, reducing the risk of data breaches. Accessibility legislation also underpins my workshop design, ensuring that resources meet WCAG guidelines and are compatible with assistive technologies.
+Similarly, SCIM provisioning for LinkedIn Learning ensures account access is role-based and automatically removed when users leave the institution, reducing the risk of data breaches. 
+
+> "That’s great news that the data protection side is all ok..." – *Moodle team email confirmation, 27 November 2024*
+
+Accessibility legislation also underpins my workshop design, ensuring that resources meet WCAG guidelines and are compatible with assistive technologies.
 
 ### 3a Reflection
 
@@ -19,9 +23,9 @@ Applying legislation in practice has shown me that compliance is not enough; eth
 
 ### 3a Evidence
 
-- Appendix B – Censorship in Copilot – Evidence Log
-- Appendix C – Digital Backpack sample learner output
-- Appendix H – Executive Summary: Streamlining Digital Learning
+- [Appendix B](./Appendices.md#b-censorship-in-copilot---evidence-log) – Censorship in Copilot – Evidence Log
+- [Appendix C](./Appendices.md#c-digital-backpack-sample-pdf-output) – Digital Backpack sample learner output
+- [Appendix H](./Appendices.md#h-streamling-digital-learning---executive-summary) – Executive Summary: Streamlining Digital Learning
 
 ---
 
@@ -41,8 +45,8 @@ Engaging with policy at both institutional and sector levels has taught me the v
 
 ### 3b Evidence
 
-- Appendix B – Censorship in Copilot – Evidence Log
-- Appendix D – Current Draft Conference Proposal
-- Appendix G – AI as a Constant Companion (conference abstract)
+- [Appendix B](./Appendices.md#b-censorship-in-copilot---evidence-log) – Censorship in Copilot – Evidence Log
+- [Appendix D](./Appendices.md#d-current-draft-conference-proposal) – Current Draft Conference Proposal
+- [Appendix G](./Appendices.md#g-ai-as-a-constant-companion) – AI as a Constant Companion (conference abstract)
 
 ---

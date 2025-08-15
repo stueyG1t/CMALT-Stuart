@@ -9,7 +9,10 @@ permalink: /Core_Area_1/
 
 ### 1a Description
 
-At the University of Greenwich, I have led the deployment of learning technologies that balance pedagogic value, inclusivity, and technical sustainability. A notable example is the integration of LinkedIn Learning with Moodle via LTI 1.3, underpinned by SCIM provisioning for automated account management and role-based access. This solution was selected for its interoperability, reduced administrative overhead, and improved security compliance.
+At the University of Greenwich, I have led the deployment of learning technologies that balance pedagogic value, inclusivity, and technical sustainability. A notable example is the integration of LinkedIn Learning with Moodle via LTI 1.3, underpinned by SCIM provisioning for automated account management and role-based access. This solution was selected for its interoperability, reduced administrative overhead, and improved security compliance. This was in response to increasing tutor enquries about to get more from LinkedIn Learning.
+
+> "It would be great to make a brief [LinkedIn Learning] pathway... So both students and staff could have quick way of learning more about it..." – *Tutor query about LinkedIn Learning*
+> "Getting a lot of interest from tutors in the ability to start importing LinkedIn Learning modules." – *Email extract from Stuart Smith to Moodle team, 25 November 2024*
 
 Similarly, the Digital Backpack diagnostic was designed to run within Moodle as a SCORM package, aligning with existing institutional infrastructure to maximise accessibility, while avoiding reliance on proprietary external hosting that could introduce GDPR or data retention risks. These decisions were informed by both technical affordances and institutional policy requirements, as well as the need to support a diverse, widening participation student body.
 
@@ -23,9 +26,9 @@ One lesson learned is the importance of piloting technologies under realistic co
 
 ### 1a Evidence
 
-- Appendix A – Step-by-Step Guide: Embedding LinkedIn Learning in Moodle
-- Appendix C – Digital Backpack sample learner output
-- Appendix H – Executive Summary: Streamlining Digital Learning
+- [Appendix A](./Appendices.md#a--step-by-step-guide-embedding-a-linkedin-learning-course-in-moodle) – Step-by-Step Guide: Embedding LinkedIn Learning in Moodle
+- [Appendix C](./Appendices.md#c-digital-backpack-sample-pdf-output) 
+- [Appendix H](./Appendices.md#h-streamling-digital-learning---executive-summary) – Executive Summary: Streamlining Digital Learning
 
 ---
 
@@ -50,10 +53,9 @@ Producing technical documentation has taught me the importance of balancing accu
 My Copilot evaluations have shown me how commercial AI integrations can be hindered by opaque censorship rules, prompting advocacy for greater institutional transparency on tool limitations. This has influenced my ongoing work in the AI-SIG and in supporting evidence-led decisions on AI adoption.
 
 ### 1b Evidence
-
-- Appendix A – Step-by-Step Guide: Embedding LinkedIn Learning in Moodle
-- Appendix B – Censorship in Copilot – Evidence Log
-- Appendix H – Executive Summary: Streamlining Digital Learning
+- [Appendix A](./Appendices.md#a--step-by-step-guide-embedding-a-linkedin-learning-course-in-moodle) – Step-by-Step Guide: Embedding LinkedIn Learning in Moodle
+- [Appendix C](./Appendices.md#c-digital-backpack-sample-pdf-output) 
+- [Appendix H](./Appendices.md#h-streamling-digital-learning---executive-summary) – Executive Summary: Streamlining Digital Learning
 
 ---
 
@@ -75,8 +77,8 @@ Effective deployment is as much about people as it is about systems. Early in my
 
 ### 1c Evidence
 
-- Appendix A – Step-by-Step Guide: Embedding LinkedIn Learning in Moodle
-- Appendix C – Digital Backpack sample learner output
-- Appendix H – Executive Summary: Streamlining Digital Learning
+- [Appendix A](./Appendices.md#a--step-by-step-guide-embedding-a-linkedin-learning-course-in-moodle) – Step-by-Step Guide: Embedding LinkedIn Learning in Moodle
+- [Appendix C](./Appendices.md#c-digital-backpack-sample-pdf-output)  - Digital Backpack Sample Output
+- [Appendix H](./Appendices.md#h-streamling-digital-learning---executive-summary) – Executive Summary: Streamlining Digital Learning
 
 ---

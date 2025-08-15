@@ -22,8 +22,8 @@ If I were to repeat the process, I would build in formal evaluation from the sta
 
 ### Evidence
 
-- Appendix C – Digital Backpack sample learner output
-- Appendix F – University of Greenwich Digital Backpack: About resource
-- Appendix H – Executive Summary: Streamlining Digital Learning
+- [Appendix C](./Appendices.md#c-digital-backpack-sample-pdf-output) – Digital Backpack sample learner output
+- [Appendix F](./Appendices.md#f-university-of-greenwich-digital-backpack-a-personalised-digital-skills-portfolio---password-protected-available-to-assessors-only) – University of Greenwich Digital Backpack: About resource
+- [Appendix H](./Appendices.md#h-streamling-digital-learning---executive-summary) – Executive Summary: Streamlining Digital Learning
 
 ---

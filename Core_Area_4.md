@@ -19,7 +19,7 @@ The most effective collaborations have been those where communication was two-wa
 
 ### 4a Evidence
 
-- Appendix D – Current Draft Conference Proposal
-- Appendix E – SHIFT Conference 2025 materials
+- [Appendix D](./Appendices.md#d-current-draft-conference-proposal) – Current Draft Conference Proposal
+- [Appendix E](./Appendices.md#e-support-students-for-success-four-tools-to-enhance-your-students-learning) – SHIFT Conference 2025 materials
 
 ---

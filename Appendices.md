@@ -16,16 +16,10 @@ permalink: /Appendices/
 
 ### D. [Current Draft Conference Proposal](./assets/media/Conference_Proposal_Smith_CMALT.pdf)
 
-### E. [Support students for success: four tools to enhance your students' learning](./assets/media/adst_shift_2025.pdf)
+### E. [Support students for success: four tools to enhance your students' learning P48 - 54](./assets/media/adst_shift_2025.pdf)
 
-### F. [University of Greenwich Digital Backpack: a personalised digital skills portfolio](./assets/media/Digital_Backpack_About_Rst.pdf) - password protected, available to Assessors only
+### F. [Policy Influence: Internal Exec Briefing- Digital Backpack: a personalised digital skills portfolio (Appendix E)](./assets/media/Digital_Backpack_About_Rst.pdf) - password protected, available to Assessors only
 
 ### G. [AI as a Constant Companion](./assets/media/AI_as_a_Constant_Companion_2024-07-01_16_44_30.pdf)
 
-[↑ Back to top](#sections)
-
 ### H. [Streamling Digital Learning - Executive Summary](./assets/media/UoG-Streamlining-Digital-Learning-LinkedInLearning-Moodle.pdf)
-
-[↑ Back to top](#sections)
-
-[↑ Back to top](#sections)

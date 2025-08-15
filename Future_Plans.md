@@ -29,8 +29,8 @@ I also plan to be more intentional about disseminating lessons learned beyond Gr
 
 ### Evidence
 
-- Appendix D – Current Draft Conference Proposal
-- Appendix G – AI as a Constant Companion (conference abstract)
-- Appendix E – SHIFT Conference 2025 materials
+- [Appendix D](./Appendices.md#d-current-draft-conference-proposal) – Current Draft Conference Proposal
+- [Appendix E](./Appendices.md#e-support-students-for-success-four-tools-to-enhance-your-students-learning) – SHIFT Conference 2025 materials
+- [Appendix G](./Appendices.md#g-ai-as-a-constant-companion) – AI as a Constant Companion (conference abstract)
 
 ---

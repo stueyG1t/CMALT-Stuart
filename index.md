@@ -35,8 +35,7 @@ Looking back, I would have involved students even earlier in certain project sta
 
 ### Evidence
 
-- Digital Backpack: Screenshots of the diagnostic tool, framework mapping, and anonymised student feedback (Appendix A).
-- LinkedIn Learning SCIM Integration: Implementation plan extract and analytics dashboard examples (Appendix B).
-- Mentoring: Email excerpts (anonymised) from a Business School student reflecting on skills gained (Appendix C).
-- Sector Engagement: SHIFT 2024 conference programme listing my talk (Appendix D).
-- Policy Influence: Internal AI-SIG guidance document on ethical AI use in teaching (Appendix E).
+- [Appendix B](./Appendices.md#a--step-by-step-guide-embedding-a-linkedin-learning-course-in-moodle) - Embedding a LinkedIn Learning Course in Moodle.
+- [Appendix C](./Appendices.md#c-digital-backpack-sample-pdf-output)  - Digital Backpack Sample Output
+- [Appendix E](./Appendices.md#e-support-students-for-success-four-tools-to-enhance-your-students-learning) - Support students for success: four tools to enhance your students' learning P48 - 54]
+- [Appendix F](./Appendices.md#f-policy-influence-internal-exec-briefing--digital-backpack-a-personalised-digital-skills-portfolio-appendix-e---password-protected-available-to-assessors-only) - Policy Influence: Internal Exec Briefing- Digital Backpack: a personalised digital skills portfolio
