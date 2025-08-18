@@ -25,6 +25,8 @@ Legislation is essential—not only as a legal requirement but as a foundation f
 
 Applying legislation in practice has shown me that compliance is not enough; ethical considerations often go further. For instance, AI tools like Copilot meet legal requirements but may still censor content in ways that disadvantage certain subjects or research areas. This realisation has reinforced the importance of combining legal compliance with proactive advocacy for equitable access.
 
+GDPR was one of several factors that shaped our design decisions. For example, with LinkedIn Learning integration we opted against a full analytics feed. This was partly because of resource constraints, but also because I felt we could not yet do it in a way that was fully robust against GDPR requirements. This choice reinforced my view that legislation and technical capability must both be balanced when designing learning technology systems.
+
 ### 3a Evidence
 
 - [Appendix B](./Appendices.md#b-censorship-in-copilot---evidence-log) – Censorship in Copilot – Evidence Log

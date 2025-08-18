@@ -64,6 +64,8 @@ A difficult decision that had to be made on the first version of the Digital Bac
 
 My Copilot evaluations have shown me how commercial AI integrations can be hindered by opaque censorship rules, prompting advocacy for greater institutional transparency on tool limitations. This has influenced my ongoing work in the AI-SIG and in supporting evidence-led decisions on AI adoption.
 
+When planning LinkedIn Learning integration, we initially considered linking directly into analytics for richer reporting. In practice, we chose to err on the side of caution. Although GDPR compliance was achievable, doing it properly and confidently would have required resources and expertise we did not have at the time. By taking a staged approach, we prioritised reliability and timely delivery. The key lesson for me was recognising when to accept constraints and build for future iterations rather than force a solution that might compromise confidence in the system.
+
 ### 1b Evidence
 
 - [Appendix A](./Appendices.md#a--step-by-step-guide-embedding-a-linkedin-learning-course-in-moodle) – Step-by-Step Guide: Embedding LinkedIn Learning in Moodle
@@ -92,6 +94,8 @@ This aligns with Lewin’s Change Management Model, which emphasises the need to
 I am also placing greater emphasis on collecting data about system usage and learner engagement. While I have always understood the importance of data for justifying service development, I now prioritise data gathering earlier in the development lifecycle. This enables more responsive design decisions and supports evidence-led improvements.
 
 Student feedback during Backpack testing was particularly valuable in refining the interface and report clarity. Their insights helped ensure the tool was inclusive and usable across a range of confidence levels and devices.
+
+One tutor fed back: “Thanks to your [Stuart Smith's] guidance, I can now easily add LinkedIn Learning materials to Moodle.” This feedback, while simple, illustrates the practical impact of my support: making technical adoption straightforward for colleagues who had previously found it daunting.
 
 ### 1c Evidence
 

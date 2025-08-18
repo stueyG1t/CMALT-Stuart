@@ -23,6 +23,8 @@ This shift also reflects a move towards more inclusive and student-centred pedag
 
 In future iterations, I plan to further explore how appearance-related anxiety intersects with digital confidence and how adaptive workshop design can mitigate these effects. This will include evaluating the impact of self-view settings, peer interaction formats, and the role of asynchronous components in reducing cognitive load and anxiety.
 
+My approach aligns closely with Bandura’s (1997) concept of self-efficacy: I have seen repeatedly that students’ digital skills develop fastest when they believe they are capable of success. For example, when introducing Copilot, I scaffold activities so that students build from simple “warm-up” tasks to more complex academic uses. This reflects Vygotsky’s theory of the Zone of Proximal Development (Vygotsky, 1978), where carefully designed prompts enable learners to move beyond their current ability. These theoretical frames underpin my practice, giving me a language to explain why confidence and progression are central to my design.
+
 ### 2a Evidence
 
 - [Appendix C](./Appendices.md#c-digital-backpack-sample-pdf-output) - Digital Backpack Sample PDF Output
@@ -42,7 +44,11 @@ Student co-design is embedded in my practice. For example, Backpack prototype te
 
 ### 2b Reflection
 
-Understanding learner diversity has shifted my approach from “designing for the average user” to intentionally designing for the margins — ensuring that those with the greatest barriers still have equitable access. This approach benefits all users, but requires more extensive upfront testing and iteration.
+Understanding learner diversity has shifted my approach from “designing for the average user” to intentionally designing for the margins — ensuring that those with the greatest barriers still have equitable access.
+
+In one workshop, a student became tearful after I demonstrated how to use generative AI to research technical questions and receive answers tailored to their level of understanding. She had previously been too frightened to ask questions for fear of ridicule, but now felt empowered to explore and learn independently. This moment reinforced for me that digital confidence is not only a skills issue but also an emotional one, and highlighted the importance of creating safe, supportive environments for learners.
+
+Adopting this principle benefits all users, but it also requires more extensive upfront testing and iteration to ensure that no learner is left behind.
 
 ### 2b Evidence
 

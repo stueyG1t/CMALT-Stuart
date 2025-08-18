@@ -9,7 +9,7 @@ permalink: /Future_Plans/
 
 ### Description
 
-Looking ahead, I intend to build on the institutional and sector momentum of my current projects by expanding the Digital Backpack and deepening AI integration in a way that is ethical, inclusive, and evidence-based.
+Looking ahead, I plan to continue shaping institutional and sector practice in digital education. My immediate goals include presenting outcomes from the Digital Backpack at ALT-C and submitting a practice-based paper for publication. I am also exploring deeper engagement with AI in education, with a focus on ethical deployment, and intend to undertake CPD in this area (for example through ALT’s AI Special Interest Group and relevant Microsoft/HE training). Longer term, I aim to contribute to policy development around digital inclusion and assessment, ensuring that student equity remains central as technologies evolve.
 
 **Key priorities include:**
 
