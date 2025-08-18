@@ -9,6 +9,7 @@ permalink: /Bibliography/
 
 - Bandura, A. (1997) *Self-efficacy: The exercise of control.* New York: W. H. Freeman.
 - Black, P. and Wiliam, D. (1998) 'Assessment and classroom learning', *Assessment in Education: Principles, Policy & Practice*, 5(1), pp. 7–74. Available at: [https://doi.org/10.1080/0969595980050102](https://doi.org/10.1080/0969595980050102) (Accessed: 15 July 2025).
+- Association for Learning Technology (2019) *CMALT Guidelines for Candidates* Available at:[file:///C:/Users/ss6537b/Downloads/CMALT%20Guidelines%202019.pdf](file:///C:/Users/ss6537b/Downloads/CMALT%20Guidelines%202019.pdf) (Accessed: 19 November 2024).
 - Department for Education (2019) *Essential digital skills framework.* Available at: [https://www.gov.uk/government/publications/essential-digital-skills-framework](https://www.gov.uk/government/publications/essential-digital-skills-framework) (Accessed: 14 July 2025).
 - Equality Act 2010. (2010) *legislation.gov.uk*. Available at: [https://www.legislation.gov.uk/ukpga/2010/15/contents](https://www.legislation.gov.uk/ukpga/2010/15/contents) (Accessed: 14 July 2025).
 - European Union (2016) *Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 (General Data Protection Regulation).* Available at: [https://gdpr.eu/](https://gdpr.eu/) (Accessed: 14 July 2025).
@@ -19,7 +20,7 @@ permalink: /Bibliography/
 - Microsoft (2023) *LTI 1.3 Implementation Guide for LinkedIn Learning.* Available at: [https://learn.microsoft.com/en-us/linkedin/learning/sso-auth/sso-docs/lti-13-implementation](https://learn.microsoft.com/en-us/linkedin/learning/sso-auth/sso-docs/lti-13-implementation) (Accessed: 15 July 2025).
 - Sadler, D.R. (1989) 'Formative assessment and the design of instructional systems', *Instructional Science*, 18(2), pp. 119–144. Available at: [https://doi.org/10.1007/BF00117714](https://doi.org/10.1007/BF00117714) (Accessed: 15 July 2025).
 - Smith, S. (2002) ‘Dyslexia and virtual learning environment interfaces’, *Access All Areas: Disability, Technology and Learning,* pp. 50–53. Oxford and York: ALT and TechDis.
-- Stryker, C. and Scapicchio, M. (2024) What is Generative AI? *IBM.* Available at: https://www.ibm.com/think/topics/generative-ai (Accessed: 15 August 2025).
+- Stryker, C. and Scapicchio, M. (2024) What is Generative AI? *IBM.* Available at: [https://www.ibm.com/think/topics/generative-ai/](https://www.ibm.com/think/topics/generative-ai/) (Accessed: 15 August 2025).
 - UK Government (2018) *The Public Sector Bodies (Websites and Mobile Applications) Accessibility Regulations 2018.* Available at: [https://www.legislation.gov.uk/uksi/2018/952/contents/made](https://www.legislation.gov.uk/uksi/2018/952/contents/made) (Accessed: 14 July 2025).
 - University of Greenwich (2022) *Digital Strategy 2030: Becoming a digital-first university.* Internal document
 - University of Greenwich (2024) *Digital Strategy 2022–2030: March 2024 update.* Available at: [https://www.gre.ac.uk/\_\_data/assets/pdf\_file/0020/134570/digital-strategy-2022-2030-march-2024-update-4.pdf](https://www.gre.ac.uk/__data/assets/pdf_file/0020/134570/digital-strategy-2022-2030-march-2024-update-4.pdf) (Accessed: 15 July 2025).
