@@ -9,16 +9,22 @@ permalink: /Core_Area_1/
 
 ### 1a Description
 
-At the University of Greenwich, I have led the deployment of learning technologies that balance pedagogic value, inclusivity, and technical sustainability. A notable example is the integration of LinkedIn Learning with Moodle via LTI 1.3, underpinned by SCIM provisioning for automated account management and role-based access. This solution was selected for its interoperability, reduced administrative overhead, and improved security compliance. This was in response to increasing tutor enquries about to get more from LinkedIn Learning.
+At the University of Greenwich, I have led the deployment of learning technologies that balance pedagogic value, inclusivity, and technical sustainability. A notable example is the integration of LinkedIn Learning with Moodle via LTI 1.3, underpinned by SCIM provisioning for automated account management and role-based access. This solution was selected for its interoperability, reduced administrative overhead, and improved systems integration. This was in response to increasing tutor enquiries about how to get more from LinkedIn Learning.
 
-> "It would be great to make a brief [LinkedIn Learning] pathway... So both students and staff could have quick way of learning more about it..." – *Tutor query about LinkedIn Learning*
+> "It would be great to make a brief [LinkedIn Learning] pathway... So both students and staff could have a quick way of learning more about it..." – *Tutor query about LinkedIn Learning*  
 > "Getting a lot of interest from tutors in the ability to start importing LinkedIn Learning modules." – *Email extract from Stuart Smith to Moodle team, 25 November 2024*
 
-Similarly, the Digital Backpack diagnostic was designed to run within Moodle as a SCORM package, aligning with existing institutional infrastructure to maximise accessibility, while avoiding reliance on proprietary external hosting that could introduce GDPR or data retention risks. These decisions were informed by both technical affordances and institutional policy requirements, as well as the need to support a diverse, widening participation student body.
+Similarly, the Digital Backpack diagnostic using a Likert scale approach was designed to run within Moodle as a SCORM package, aligning with existing institutional infrastructure to maximise accessibility, while avoiding reliance on proprietary external hosting that could introduce GDPR or data retention risks. Other approaches were considered. Initially, the strong preference was to build the diagnostic either using Moodle's own inbuilt tools or Microsoft Forms, as these were already institutionally established. However, neither offered the nuance required for Likert scales.
+
+The HTML5 package technology (H5P) was high on the list of preferences, particularly as it uses current web technologies and is compatible with Moodle, whereas SCORM is a no longer developing standard (Advanced Digital Learning, unknown date). However, a combined challenge of a lack of Likert scale support in H5P and limited institutional expertise meant that it was not the right solution. Once it was decided that the solution, certainly at prototype and early release, needed to be produced in-house, SCORM became the only viable option due to its compatibility with Moodle and the flexibility to develop according to requirements. These decisions were informed by both technical affordances and institutional policy requirements, as well as the need to support a diverse, widening participation student body.
 
 {% include fig.html id="my-id" %}
 
 ### 1a Reflection
+
+This insight aligns with Bandura’s theory of self-efficacy, which emphasises the role of perceived ability in motivating behaviour and persistence (Bandura, 1997). The Backpack’s confidence-based approach reflects this, helping students build agency through formative, personalised feedback.
+
+Additionally, the Backpack’s design supports learners within their Zone of Proximal Development (Vygotsky, 1978), offering formative feedback that bridges the gap between current confidence and aspirational capability.
 
 Working with systems of this scale has reinforced that the “best” tool is not always the one with the most features, but the one most fit for the local technical and policy environment. In both the LinkedIn Learning integration and Digital Backpack implementation, the biggest wins came from aligning with institutional authentication systems and workflow — reducing friction for students and tutors.
 
@@ -40,7 +46,7 @@ My role demands hands-on technical proficiency across multiple platforms, partic
 
 {% include fig.html id="scorm-in-moodle" align="center" %}
 
-I am proficient in configuring SCORM-based learning objects, as evidenced by the Digital Backpack diagnostic tool, and in optimising accessibility settings within Moodle, Microsoft Teams, and LinkedIn Learning. 
+I am proficient in configuring SCORM-based learning objects, as evidenced by the Digital Backpack diagnostic tool, and in optimising accessibility settings within Moodle, Microsoft Teams, and LinkedIn Learning.
 
 {% include fig.html id="diagnostic-scorm-embedded" %}
 
@@ -48,11 +54,18 @@ My technical knowledge extends to evaluating the viability of AI-enabled tools (
 
 ### 1b Reflection
 
-Producing technical documentation has taught me the importance of balancing accuracy with accessibility of language. Overly technical instructions risk alienating tutors with limited digital confidence, while oversimplified guidance can lead to errors. The solution has been iterative: releasing early drafts, observing usage patterns, and refining based on feedback.
+This approach also reflects Bandura’s self-efficacy theory, reinforcing the importance of building confidence through clear, supportive guidance (Bandura, 1997).
+
+Furthermore, tutor uptake of LinkedIn Learning was shaped by factors described in the Technology Acceptance Model (Davis, 1989), particularly the perceived ease of embedding content and its relevance to module outcomes.
+
+Producing technical documentation has taught me the importance of balancing accuracy with accessibility of language. Overly technical instructions risk alienating tutors with limited digital confidence, while oversimplified guidance can lead to errors. The solution has been iterative: releasing early drafts, observing usage patterns, and refining based on feedback. Colleagues within my team and wider directorate have been invaluable as accessible sounding boards to test the language of documentation. Additionally, I have used generative AI as a useful tool to test the language of the documentation and to help focus on the requirements of the user rather than the author.
+
+A difficult decision that had to be made on the first version of the Digital Backpack was how much to record of the users’ interactions. The Backpack produces a breakdown report of the confidence diagnostic Appendix C according to confidence in different areas. However, only an overall confidence score is recorded in Moodle. This was because at this stage we were not sure how much data collection would be needed or tolerated by students, and there was not enough development resource to expand the functionality.
 
 My Copilot evaluations have shown me how commercial AI integrations can be hindered by opaque censorship rules, prompting advocacy for greater institutional transparency on tool limitations. This has influenced my ongoing work in the AI-SIG and in supporting evidence-led decisions on AI adoption.
 
 ### 1b Evidence
+
 - [Appendix A](./Appendices.md#a--step-by-step-guide-embedding-a-linkedin-learning-course-in-moodle) – Step-by-Step Guide: Embedding LinkedIn Learning in Moodle
 - [Appendix C](./Appendices.md#c-digital-backpack-sample-pdf-output) - Digital Backpack Sample PDF Output
 - [Appendix H](./Appendices.md#h-streamling-digital-learning---executive-summary) – Executive Summary: Streamlining Digital Learning
@@ -68,12 +81,17 @@ I have led multiple deployments of learning technologies at Greenwich, notably t
 In both cases, I developed support resources (PDF guides, workshop slides) and delivered drop-in sessions for staff. For the Backpack, I also worked directly with students to test workflows, ensuring the output reports were clear and actionable for learners at all confidence levels.
 
 {% include fig.html id="capabilitie-tool-ui" %}
-
 {% include fig.html id="diagnostic-scorm-embedded" %}
 
 ### 1c Reflection
 
 Effective deployment is as much about people as it is about systems. Early in my career, I underestimated the importance of change management — assuming that a technically sound rollout would naturally result in adoption. Experience has shown me the need for staged communication, targeted training, and active feedback loops to support both cultural and technical adoption.
+
+This aligns with Lewin’s Change Management Model, which emphasises the need to “unfreeze” existing behaviours, introduce change, and “refreeze” new practices to ensure sustainability. My approach now includes early stakeholder engagement and iterative feedback to support adoption.
+
+I am also placing greater emphasis on collecting data about system usage and learner engagement. While I have always understood the importance of data for justifying service development, I now prioritise data gathering earlier in the development lifecycle. This enables more responsive design decisions and supports evidence-led improvements.
+
+Student feedback during Backpack testing was particularly valuable in refining the interface and report clarity. Their insights helped ensure the tool was inclusive and usable across a range of confidence levels and devices.
 
 ### 1c Evidence
 

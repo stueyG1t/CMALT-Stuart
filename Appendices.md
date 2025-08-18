@@ -20,6 +20,8 @@ permalink: /Appendices/
 
 ### F. [Policy Influence: Internal Exec Briefing- Digital Backpack: a personalised digital skills portfolio (Appendix E)](./assets/media/Digital_Backpack_About_Rst.pdf) - password protected, available to Assessors only
 
+This internal briefing outlines the strategic rationale for the Digital Backpack initiative, aligning with the University of Greenwich’s digital sub-strategy to equip students with life-ready digital skills. It highlights the urgency of preparing learners for a rapidly evolving workforce shaped by automation and AI, referencing World Economic Forum projections. The Digital Backpack is positioned as a personalised, curriculum-embedded portfolio that supports employability and digital confidence across the student journey.
+
 ### G. [AI as a Constant Companion](./assets/media/AI_as_a_Constant_Companion_2024-07-01_16_44_30.pdf)
 
 ### H. [Streamling Digital Learning - Executive Summary](./assets/media/UoG-Streamlining-Digital-Learning-LinkedInLearning-Moodle.pdf)

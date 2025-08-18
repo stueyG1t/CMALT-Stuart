@@ -25,5 +25,7 @@ If I were to repeat the process, I would build in formal evaluation from the sta
 - [Appendix C](./Appendices.md#c-digital-backpack-sample-pdf-output) – Digital Backpack Sample PDF Output
 - [Appendix F](./Appendices.md#f-university-of-greenwich-digital-backpack-a-personalised-digital-skills-portfolio---password-protected-available-to-assessors-only) – University of Greenwich Digital Backpack: About resource
 - [Appendix H](./Appendices.md#h-streamling-digital-learning---executive-summary) – Executive Summary: Streamlining Digital Learning
+- **Endorsement from Head of Department:**
+>“Shout out to Stuart Smith and Jingyang Ai for their sterling work on creating the Digital Backpack — a digital skills portfolio and self-assessment tool to help students identify digital skills they will need for their learning and future roles. This project has been a true collaboration across teams and engenders the ethos of ILS. Really well done to the project leads and all who have supported it.” — Head of Department, University of Greenwich
 
 ---

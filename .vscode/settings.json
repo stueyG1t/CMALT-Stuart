@@ -5,5 +5,8 @@
   "markdown.preview.security.level": "allow-insecure-content",
   "markdown.preview.fontFamily": "Merriweather, Georgia, serif",
   "markdown.preview.fontSize": 18,
-  "markdown.preview.lineHeight": 1.6
+  "markdown.preview.lineHeight": 1.6,
+  "cSpell.words": [
+    "SCORM"
+  ]
 }

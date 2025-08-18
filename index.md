@@ -5,6 +5,13 @@ description: Certified Membership of the Association for Learning Technology (CM
 permalink: /
 ---
 
+## Confirmation Statement
+I declare that, to the best of my knowledge, the statements and evidence included in this submission accurately describe my practice and are drawn from my own work, with the input and support of others duly and clearly recognised.
+
+**Signed:** Stuart Smith
+
+**Date:** 19 August 2025
+
 ## Description
 
 {% include fig.html id='stuart-smith-portrait' align='left' %}
