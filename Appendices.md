@@ -25,3 +25,9 @@ This internal briefing outlines the strategic rationale for the Digital Backpack
 ### G. [AI as a Constant Companion](./assets/media/AI_as_a_Constant_Companion_2024-07-01_16_44_30.pdf)
 
 ### H. [Streamling Digital Learning - Executive Summary](./assets/media/UoG-Streamlining-Digital-Learning-LinkedInLearning-Moodle.pdf)
+
+### I. Digital Champions user-testing activity
+
+### J. Local Accessibility testing 
+
+### K. Moodle usage data
