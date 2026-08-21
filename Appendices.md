@@ -18,7 +18,7 @@ permalink: /Appendices/
 
 ### E. [Support students for success: four tools to enhance your students' learning P48 - 54](./assets/media/adst_shift_2025.pdf)
 
-### F. [Policy Influence: Internal Exec Briefing- Digital Backpack: a personalised digital skills portfolio (Appendix E)](./assets/media/Digital_Backpack_About_Rst.pdf) - password protected, available to Assessors only
+### F. [Policy Influence: Internal Exec Briefing- Digital Backpack: a personalised digital skills portfolio (Appendix E)](./assets/media/Digital_Backpack_About_Rst.pdf) - password protected, available to Assessors only.
 
 This internal briefing outlines the strategic rationale for the Digital Backpack initiative, aligning with the University of Greenwich’s digital sub-strategy to equip students with life-ready digital skills. It highlights the urgency of preparing learners for a rapidly evolving workforce shaped by automation and AI, referencing World Economic Forum projections. The Digital Backpack is positioned as a personalised, curriculum-embedded portfolio that supports employability and digital confidence across the student journey.
 
@@ -26,8 +26,11 @@ This internal briefing outlines the strategic rationale for the Digital Backpack
 
 ### H. [Streamling Digital Learning - Executive Summary](./assets/media/UoG-Streamlining-Digital-Learning-LinkedInLearning-Moodle.pdf)
 
-### I. Digital Champions user-testing activity
+### I.  [User-testing activity and findings](./assets/media/Digital_Backpack_Testing_Pack.pdf) - password protected, available to Assessors only.
 
-### J. Local Accessibility testing 
+### J. [Digital Capabilities Assessment accessibility testing record](./assets/media/Digital_Capabilities_Assessment_accessibility_testing_record.md)
 
-### K. Moodle usage data
+### K. [Sample processed Moodle engagement data showing completion of the Digital Capabilities Assessment](./assets/media/Digital-Backpack_Autumn-2025-Summer-2026_2026-07-21.pdf)
+ - password protected, available to Assessors only.
+
+### L. [Cylix Data Protection Briefing completion record](./assets/media/dpb-certificate.pdf)
