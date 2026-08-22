@@ -84,7 +84,7 @@ I do not regard myself as a data-protection specialist. My responsibility is to 
 
 - _[Appendix L](./Appendices.md#l-cylix-data-protection-briefing-completion-record)_ – Cylix Data Protection Briefing completion record
 - _[Appendix C](./Appendices.md#c-digital-backpack-sample-pdf-output)_ – Digital Backpack Sample PDF Output
-- - _[Appendix K](./Appendices.md#k-sample-processed-moodle-engagement-data-showing-completion-of-the-digital-capabilities-assessment)_ – Sample processed Moodle engagement data showing completion of the Digital Capabilities Assessment
+- _[Appendix K](./Appendices.md#k-sample-processed-moodle-engagement-data-showing-completion-of-the-digital-capabilities-assessment)_ – Sample processed Moodle engagement data showing completion of the Digital Capabilities Assessment
 
 ## 3b – Understanding and engaging with policies and standards
 
