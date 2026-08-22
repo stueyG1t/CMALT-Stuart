@@ -8,14 +8,16 @@ permalink: /Core_Area_3/
 ## 3a Understanding and Engaging with Legislation
 
 ---
+
 ### Revision summary
 
 In response to the assessor feedback, this section has been revised to:
 
 - provide specific evidence of how I developed and maintain my knowledge of data-protection legislation, including formal Cylix training, previous professional experience and engagement with current Information Commissioner’s Office guidance;
 - demonstrate how legislation affects my role in practice, including auditing data flows, minimising the information collected by the Digital Capabilities Assessment and reviewing the retention of associated Moodle records;
-- provide applied examples of interpreting data-protection requirements through the development of *Practical Data Protection for Apprentices* and clarification of the optional connection between LinkedIn Learning and personal LinkedIn profiles;
+- provide applied examples of interpreting data-protection requirements through the development of _Practical Data Protection for Apprentices_ and clarification of the optional connection between LinkedIn Learning and personal LinkedIn profiles;
 - provide greater reflection on the balance between data minimisation, evaluation, personalisation and learner trust, including the limits of my expertise and how these considerations will inform Version 2 of the Digital Backpack.
+
 ---
 
 ### 3a Description
@@ -40,7 +42,7 @@ I considered what information the University genuinely needed to fulfil this pur
 
 This decision limits the analytics available to me. Retaining detailed domain results could support a more granular analysis of student needs, but the possibility that information might later prove useful is not, in itself, sufficient justification for keeping it. The decision has therefore affected both the technical design of the assessment and how I can evaluate it.
 
-The assessment operates within Moodle, so associated enrolment, completion, overall outcome and activity information is covered by the University’s established information and records retention schedules (University of Greenwich, no date). Working within an institutionally managed platform provides an appropriate governance framework, but it does not remove the need to consider whether all Backpack-related information must be retained for the full period available.
+The assessment operates within Moodle, so associated enrolment, completion, overall outcome and activity information is covered by the University’s established information and records retention schedules (University of Greenwich, no date f). Working within an institutionally managed platform provides an appropriate governance framework, but it does not remove the need to consider whether all Backpack-related information must be retained for the full period available.
 
 I have identified this as an area for further development. Students may complete the Backpack or cease using it while their enrolment and associated activity records remain within Moodle. I am therefore seeking ways of further minimising the information retained and exploring whether Backpack records could be reviewed or removed earlier when they no longer serve a defined educational or administrative purpose. Any change would need to be developed with the colleagues responsible for Moodle and institutional records management.
 
@@ -88,26 +90,51 @@ I do not regard myself as a data-protection specialist. My responsibility is to 
 
 ### 3b Description
 
-Engaging with policy development has helped contextualise and temper my technologically focused work. I am unapologetically interested in digital technology and its transformative potential, which has led to opportunities to contribute to innovative approaches during early-stage technology adoption. However, I recognise that for technology to deliver long-term value in education, it must transition from experimentation to acceptance. Policy development provides the structure and accountability needed to support this transition.
+My principal example of engagement with an institutional policy issue concerns the University of Greenwich’s Artificial Intelligence (AI) guidance (University of Greenwich, no date e). Although this material is formally labelled as guidance rather than policy, it has a policy-like function within the institution. It is the central source to which staff and students are directed, contains mandatory language such as "must", and is treated as authoritative in practice. I therefore need to understand both its formal status and how it influences teaching, support and decision-making.
 
-Early in my work at Greenwich, I reviewed existing guidance on the use of Artificial Intelligence. I noticed that the policy was written too broadly and encompassed all aspects of AI, rather than focusing on generative AI. I researched a suitable justification for a rewrite and contributed to the development of an updated policy that better reflects current practice and ethical considerations.
+When reviewing the guidance in 2024, I identified an ambiguity in its use of the term "artificial intelligence". AI is an umbrella term covering a wide range of technologies, including expert systems, search functionality and tools embedded within library databases and other services. However, the University guidance was primarily concerned with generative AI.
 
-I also actively contribute to the University of Greenwich’s AI Special Interest Group (AI-SIG), influencing internal policy on ethical AI use in teaching and learning. My work also aligns with national frameworks such as the Jisc Digital Capabilities Framework (Jisc, 2018) and the UK Government’s Essential Digital Skills Framework (Department for Education, 2019), both embedded into the design of the Digital Backpack.
+This distinction matters educationally. Without a clearly defined scope, students could reasonably interpret references to "AI" as applying to every system containing an AI component. This could lead to confusion about whether all uses of AI were prohibited, permitted or subject to disclosure. The problem was particularly significant given differing levels of digital literacy, confidence and understanding among students and staff.
 
-{% include fig.html id="legal-policy-infographic" %}
+Following a discussion about the guidance, I wrote to the University's Head of Digital Engagement & Change on 26 September 2024. I recommended that the University distinguish generative AI from the broader field of artificial intelligence and suggested the following definition:
 
-I have advised on the adoption of Microsoft Copilot, flagging privacy, bias, and censorship issues, and contributed to draft guidance that frames AI as a support tool rather than a decision-maker.
+> "Generative AI, sometimes called gen AI, is artificial intelligence (AI) that can create original content—such as text, images, video, audio or software code—in response to a user’s prompt or request." (Stryker and Scapicchio, 2024)
+
+I selected this definition because it is concise and accessible to a non-specialist audience while identifying the distinguishing feature of generative AI: the production of content in response to a prompt. IBM is also a longstanding technology provider with an established history in artificial intelligence, giving the definition an appropriate level of authority.
+
+On 27 September 2024, the Head of Digital Engagement & Change confirmed that the recommendation had been considered and that wording based on the definition had been added to all four of the University's "AI for..." pages. An adapted form of the definition now appears on the University’s guidance for students, teaching, research and administration (University of Greenwich, no date a–d).
+
+The published wording states:
+
+> "Generative AI, sometimes called gen AI, can create original content—such as text, images, video, audio or software code—in response to your prompt or request." (University of Greenwich, no date c)
+
+This provides direct evidence that my recommendation influenced the University's published guidance. The change is limited but significant because it establishes the intended scope before readers encounter more detailed expectations about acceptable use, disclosure, academic integrity and data protection.
+
+The guidance also affects my own practice. In workshops for staff and students, I direct participants to the central University guidance rather than presenting my interpretation as an alternative source of authority. I now establish the distinction between AI generally and generative AI at the beginning of these sessions. This helps participants understand which technologies the guidance addresses before considering particular tools or activities.
 
 ### 3b Reflection
 
-Engaging with policy at both institutional and sector levels has taught me the value of timing and framing — policy recommendations gain more traction when supported by concrete evidence and aligned with current strategic priorities. The challenge remains to bridge the gap between fast-moving technology developments and slower-moving policy cycles.
+This experience demonstrated that apparently minor terminology can have important consequences for educational practice. Before this intervention, I tended to focus on what a technology could do and how it could support learning. Reviewing the guidance made me consider more carefully how scope, definitions and institutional authority affect people's interpretation of technology.
 
-The innovator in me is often frustrated by bureaucratic delays, but I have come to value the role of policy in promoting ethical and sustainable practice. Policy development has helped me understand the importance of balancing innovation with responsibility, ensuring that new technologies are adopted in ways that are inclusive, transparent, and aligned with institutional values.
+I learned that a recommendation is more likely to influence institutional guidance when it identifies a specific problem, explains the educational risk and offers wording that can be adopted easily. Rather than arguing generally that the guidance needed improvement, I identified the ambiguity, explained how it could confuse staff and students, and proposed a concise definition from a recognised source. This made the recommendation practical and actionable.
+
+The addition of the definition addressed an immediate problem but did not resolve the wider question of status. The University material is labelled as guidance while sometimes using directive language and being treated culturally as policy. The central repository also continues to move between the broader term "AI" and the more specific term "generative AI". This means I cannot assume that publication has removed every ambiguity. However, placing the definition at the beginning of each section emphasises the scope of the document and helps readers understand what it is intended to address.
+
+As a result, I am now more careful to distinguish between:
+
+- formal institutional requirements;
+- institutional guidance and recommendations;
+- emerging practice that has not yet been formalised; and
+- my own professional advice.
+
+This distinction is particularly important when discussing rapidly developing technologies. Presenting guidance as a formal prohibition could unnecessarily restrict legitimate practice, while treating mandatory expectations as optional could expose students or staff to academic, ethical or data-protection risks.
+
+The experience has also tempered my frustration with the slower pace of institutional decision-making. Policy and guidance require consultation, ownership and continuing revision. My role is not to resolve every issue independently, but to identify problems, provide evidence, propose workable changes and recognise the limits of my authority.
+
+Overall, this engagement helped me understand that responsible innovation depends not only on selecting appropriate technologies but also on creating a shared and sufficiently precise language for their use. It has changed how I frame generative AI in my workshops and how I contribute to continuing institutional discussions.
 
 ### 3b Evidence
 
-- [Appendix B](./Appendices.md#b-censorship-in-copilot---evidence-log) – Censorship in Copilot – Evidence Log
-- [Appendix D](./Appendices.md#d-current-draft-conference-proposal) – Current Draft Conference Proposal
-- [Appendix G](./Appendices.md#g-ai-as-a-constant-companion) – AI as a Constant Companion (conference abstract)
-
----
+- _[Appendix M](./Appendices.md#m-contribution-to-university-generative-ai-guidance)_ – Contribution to University Generative AI Guidance. This provides a redacted and summarised evidence record of my recommendation and the institutional response confirming its adoption.
+- [University of Greenwich AI guidance](https://www.gre.ac.uk/ai-guidance) – Central institutional guidance to which I direct staff and students.
+- Published University guidance incorporating the clarified generative AI definition: [AI for students](https://www.gre.ac.uk/ai-guidance/students), [AI for teaching](https://www.gre.ac.uk/ai-guidance/teaching), [AI for research](https://www.gre.ac.uk/ai-guidance/research) and [AI for administration](https://www.gre.ac.uk/ai-guidance/admin).

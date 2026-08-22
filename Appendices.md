@@ -34,3 +34,7 @@ This internal briefing outlines the strategic rationale for the Digital Backpack
  - password protected, available to Assessors only.
 
 ### L. [Cylix Data Protection Briefing completion record](./assets/media/dpb-certificate.pdf)
+
+### M. [Contribution to University Generative AI Guidance](./assets/media/Contribution_to_University_Generative_AI_Guidance.md)
+
+### N. [Digital Backpack Continuation Report.](./assets/media/Digital_Backpack_Continuation_Report_2026-08-22.pdf)

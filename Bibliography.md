@@ -29,6 +29,7 @@ permalink: /Bibliography/
 - Suchman, L.A. (1987) _Plans and Situated Actions: The Problem of Human-Machine Communication_. Cambridge: Cambridge University Press.
 - Smith, S. (2026) _Practical Data Protection for Apprentices_. Unpublished internal e-learning module. University of Greenwich.
 - Smith, S. (2002) ‘Dyslexia and virtual learning environment interfaces’, _Access All Areas: Disability, Technology and Learning,_ pp. 50–53. Oxford and York: ALT and TechDis.
+- Smith, S. and Ai, J. (2026) ‘Designing for Reflection: Digital Capability Self-Assessment’, *Association for Learning Development in Higher Education Conference 2026*.
 - Stryker, C. and Scapicchio, M. (2024) What is Generative AI? _IBM._ Available at: [https://www.ibm.com/think/topics/generative-ai/](https://www.ibm.com/think/topics/generative-ai/) (Accessed: 15 August 2025).
 - Tien, I.S., Imundo, M.N. and Bjork, E.L. (2023) ‘Viewing oneself during synchronous online learning increases appearance anxiety and decreases memory for lecture content’, _Applied Cognitive Psychology_, 37(2), pp. 443–451. Available at: [https://doi.org/10.1002/acp.4048](https://doi.org/10.1002/acp.4048) (Accessed: 18 August 2025).
 - UK General Data Protection Regulation (UK GDPR), art. 5. Available at: [https://www.legislation.gov.uk/eur/2016/679/article/5](https://www.legislation.gov.uk/eur/2016/679/article/5) (Accessed: 21 August 2026).
@@ -36,7 +37,21 @@ permalink: /Bibliography/
 - University of Greenwich (2022) _Digital Strategy 2030: Becoming a digital-first university._ Internal document
 - University of Greenwich (2024) _Digital Strategy 2022–2030: March 2024 update._ Available at: [https://www.gre.ac.uk/\_\_data/assets/pdf_file/0020/134570/digital-strategy-2022-2030-march-2024-update-4.pdf](https://www.gre.ac.uk/__data/assets/pdf_file/0020/134570/digital-strategy-2022-2030-march-2024-update-4.pdf) (Accessed: 15 July 2025).
 - University of Greenwich (2025) _Digital Teaching and Technology Enhanced Learning in Higher Education (ACAD-1441-M02-2024-25)._ Available at: [https://moodlecurrent.gre.ac.uk/course/view.php?id=107625](https://moodlecurrent.gre.ac.uk/course/view.php?id=107625) (Accessed: 15 July 2025).
-- University of Greenwich (no date) _AI Guidance for Research._ Available at: [https://www.gre.ac.uk/ai-guidance/research](https://www.gre.ac.uk/ai-guidance/research) (Accessed: 14 July 2025).
-- University of Greenwich (no date) _Information and records retention schedules_. Available at: [https://www.gre.ac.uk/about-us/governance/information-compliance/keeping-and-processing-information/information-and-records-retention-schedules](https://www.gre.ac.uk/about-us/governance/information-compliance/keeping-and-processing-information/information-and-records-retention-schedules) (Accessed: 21 August 2026).
+- University of Greenwich (no date a) _AI for administration_. Available at: https://www.gre.ac.uk/ai-guidance/admin (Accessed: 22 August 2026).
+- University of Greenwich (no date b) _AI for research_. Available at: https://www.gre.ac.uk/ai-guidance/research (Accessed: 22 August 2026).
+- University of Greenwich (no date c) _AI for students_. Available at: https://www.gre.ac.uk/ai-guidance/students (Accessed: 22 August 2026).
+- University of Greenwich (no date d) _AI for teaching_. Available at: https://www.gre.ac.uk/ai-guidance/teaching (Accessed: 22 August 2026).
+- University of Greenwich (no date e) _Artificial Intelligence (AI) guidance_. Available at: https://www.gre.ac.uk/ai-guidance (Accessed: 22 August 2026).
+- University of Greenwich (2026) *Digital Backpack Continuation Report*. Internal Moodle completion data, 22 August 2026.
+- University of Greenwich (no date f) _Information and records retention schedules_. Available at: https://www.gre.ac.uk/about-us/governance/information-compliance/keeping-and-processing-information/information-and-records-retention-schedules (Accessed: 21 August 2026).
 - Vygotsky, L.S. (1978) _Mind in society: the development of higher psychological processes_. Cambridge, MA: Harvard University Press.
 - W3C (2018) _Web Content Accessibility Guidelines (WCAG) 2.1._ Available at: [https://www.w3.org/TR/WCAG21/](https://www.w3.org/TR/WCAG21/) (Accessed: 24 July 2025).
+
+
+
+
+
+
+
+
+University of Greenwich (2026) *Digital Backpack Continuation Report*. Internal Moodle completion data, 22 August 2026.
