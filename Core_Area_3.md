@@ -149,6 +149,6 @@ Overall, this engagement helped me understand that responsible innovation depend
 
 ### 3b Evidence
 
-- _[Appendix M](./Appendices.md#m-contribution-to-university-generative-ai-guidance)_ – Contribution to University Generative AI Guidance. This provides a redacted and summarised evidence record of my recommendation and the institutional response confirming its adoption.
+- [Appendix M](./Appendices.md#m-contribution-to-university-generative-ai-guidance) – Contribution to University Generative AI Guidance. This provides a redacted and summarised evidence record of my recommendation and the institutional response confirming its adoption.
 - [University of Greenwich AI guidance](https://www.gre.ac.uk/ai-guidance) – Central institutional guidance to which I direct staff and students.
 - Published University guidance incorporating the clarified generative AI definition: [AI for students](https://www.gre.ac.uk/ai-guidance/students), [AI for teaching](https://www.gre.ac.uk/ai-guidance/teaching), [AI for research](https://www.gre.ac.uk/ai-guidance/research) and [AI for administration](https://www.gre.ac.uk/ai-guidance/admin).
