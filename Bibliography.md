@@ -46,5 +46,4 @@ permalink: /Bibliography/
 - University of Greenwich (no date f) _Information and records retention schedules_. Available at: https://www.gre.ac.uk/about-us/governance/information-compliance/keeping-and-processing-information/information-and-records-retention-schedules (Accessed: 21 August 2026).
 - Vygotsky, L.S. (1978) _Mind in society: the development of higher psychological processes_. Cambridge, MA: Harvard University Press.
 - W3C (2018) _Web Content Accessibility Guidelines (WCAG) 2.1._ Available at: [https://www.w3.org/TR/WCAG21/](https://www.w3.org/TR/WCAG21/) (Accessed: 24 July 2025).
-
-University of Greenwich (2026) _Digital Backpack Continuation Report_. Internal Moodle completion data, 22 August 2026.
+- University of Greenwich (2026) _Digital Backpack Continuation Report_. Internal Moodle completion data, 22 August 2026.
