@@ -8,6 +8,7 @@ permalink: /Specialist_Area/
 ## Specialist Area: Strategic development of confidence-based digital capability
 
 ---
+
 ### Revision summary
 
 In response to the assessor feedback, this section has been revised to:

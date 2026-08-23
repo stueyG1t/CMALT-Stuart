@@ -31,7 +31,7 @@ Additionally, I work closely with colleagues from different departments, and in 
 
 ### 4 Evidence
 
-- [Appendix D](./Appendices.md#d-current-draft-conference-proposal) – Current Draft Conference Proposal
-- [Appendix E](./Appendices.md#e-support-students-for-success-four-tools-to-enhance-your-students-learning) – SHIFT Conference 2025 materials
+- [Appendix D](./Appendices.md#d-current-draft-conference-proposal) – Current Draft Conference Proposal.
+- [Appendix E](./Appendices.md#e-support-students-for-success-four-tools-to-enhance-your-students-learning) – SHIFT Conference 2025 materials.
 
 ---

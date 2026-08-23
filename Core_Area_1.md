@@ -99,8 +99,8 @@ One tutor fed back: “Thanks to your [Stuart Smith's] guidance, I can now easil
 
 ### 1c Evidence
 
-- [Appendix A](./Appendices.md#a--step-by-step-guide-embedding-a-linkedin-learning-course-in-moodle) – Step-by-Step Guide: Embedding LinkedIn Learning in Moodle
-- [Appendix C](./Appendices.md#c-digital-backpack-sample-pdf-output) - Digital Backpack Sample PDF Output
-- [Appendix H](./Appendices.md#h-streamling-digital-learning---executive-summary) – Executive Summary: Streamlining Digital Learning
+- [Appendix A](./Appendices.md#a--step-by-step-guide-embedding-a-linkedin-learning-course-in-moodle) – Step-by-Step Guide: Embedding LinkedIn Learning in Moodle.
+- [Appendix C](./Appendices.md#c-digital-backpack-sample-pdf-output) - Digital Backpack Sample PDF Output.
+- [Appendix H](./Appendices.md#h-streamling-digital-learning---executive-summary) – Executive Summary: Streamlining Digital Learning.
 
 ---
