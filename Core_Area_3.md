@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Stuart Smith CMALT Portfolio - Core Area 3: The Wider Context – Understanding and engaging with legislation, policies and standards
-description: Certified Membership of the Association for Learning Technology (CMALT) portfolio of Stuart Smith, MSc, BA (Hons).
+title: "Stuart Smith CMALT Portfolio - Core Area 3: The Wider Context – Understanding and engaging with legislation, policies and standards"
+description: "Certified Membership of the Association for Learning Technology (CMALT) portfolio of Stuart Smith, MSc, BA (Hons)."
 permalink: /Core_Area_3/
 ---
 
@@ -9,7 +9,7 @@ permalink: /Core_Area_3/
 
 ---
 
-### Revision summary
+### 3a Revision summary
 
 In response to the assessor feedback, this section has been revised to:
 
@@ -82,15 +82,15 @@ I do not regard myself as a data-protection specialist. My responsibility is to 
 
 ### 3a Evidence
 
-- _[Appendix L](./Appendices.md#l-cylix-data-protection-briefing-completion-record)_ – Cylix Data Protection Briefing completion record.
-- _[Appendix C](./Appendices.md#c-digital-backpack-sample-pdf-output)_ – Digital Backpack Sample PDF Output.
-- _[Appendix K](./Appendices.md#k-sample-processed-moodle-engagement-data-showing-completion-of-the-digital-capabilities-assessment)_ – Sample processed Moodle engagement data showing completion of the Digital Capabilities Assessment.
+- [Appendix L](./Appendices.md#l-cylix-data-protection-briefing-completion-record) – Cylix Data Protection Briefing completion record.
+- [Appendix C](./Appendices.md#c-digital-backpack-sample-pdf-output) - Digital Backpack Sample PDF Output.
+- [Appendix K](./Appendices.md#k-sample-processed-moodle-engagement-data-showing-completion-of-the-digital-capabilities-assessment) - Sample processed Moodle engagement data showing completion of the Digital Capabilities Assessment.
 
 ## 3b – Understanding and engaging with policies and standards
 
 ---
 
-### Revision summary
+### 3b Revision summary
 
 In response to the assessor feedback, this section has been revised to:
 
@@ -112,7 +112,7 @@ This distinction matters educationally. Without a clearly defined scope, student
 
 Following a discussion about the guidance, I wrote to the University's Head of Digital Engagement & Change on 26 September 2024. I recommended that the University distinguish generative AI from the broader field of artificial intelligence and suggested the following definition:
 
-> "Generative AI, sometimes called gen AI, is artificial intelligence (AI) that can create original content—such as text, images, video, audio or software code—in response to a user’s prompt or request." (Stryker and Scapicchio, 2024)
+> "Generative AI, sometimes called gen AI, is artificial intelligence (AI) that can create original content—such as text, images, video, audio or software code—in response to a user’s prompt or request." (Stryker and Scapicchio, 2024).
 
 I selected this definition because it is concise and accessible to a non-specialist audience while identifying the distinguishing feature of generative AI: the production of content in response to a prompt. IBM is also a longstanding technology provider with an established history in artificial intelligence, giving the definition an appropriate level of authority.
 
@@ -120,7 +120,7 @@ On 27 September 2024, the Head of Digital Engagement & Change confirmed that the
 
 The published wording states:
 
-> "Generative AI, sometimes called gen AI, can create original content—such as text, images, video, audio or software code—in response to your prompt or request." (University of Greenwich, no date c)
+> "Generative AI, sometimes called gen AI, can create original content—such as text, images, video, audio or software code—in response to your prompt or request." (University of Greenwich, no date c).
 
 This provides direct evidence that my recommendation influenced the University's published guidance. The change is limited but significant because it establishes the intended scope before readers encounter more detailed expectations about acceptable use, disclosure, academic integrity and data protection.
 
