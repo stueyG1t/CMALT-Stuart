@@ -88,6 +88,20 @@ I do not regard myself as a data-protection specialist. My responsibility is to 
 
 ## 3b – Understanding and engaging with policies and standards
 
+---
+
+### Revision summary
+
+In response to the assessor feedback, this section has been revised to:
+
+- focus on a single institutional policy issue, the University of Greenwich's Artificial Intelligence guidance, rather than discussing several policies and standards more broadly;
+- provide specific evidence of how I engaged with and influenced this guidance by identifying ambiguity in the use of the term artificial intelligence and proposing a clearer definition of generative AI;
+- demonstrate the effect of this contribution through the subsequent adoption of the revised definition across the University's published "AI for..." guidance;
+- explain how the institutional guidance influences my own practice, particularly how I frame generative AI and direct staff and students towards authoritative University guidance;
+- provide greater reflection on the distinction between policy, guidance and professional advice, and on what I learnt about influencing institutional practice within the limits of my role.
+
+---
+
 ### 3b Description
 
 My principal example of engagement with an institutional policy issue concerns the University of Greenwich’s Artificial Intelligence (AI) guidance (University of Greenwich, no date e). Although this material is formally labelled as guidance rather than policy, it has a policy-like function within the institution. It is the central source to which staff and students are directed, contains mandatory language such as "must", and is treated as authoritative in practice. I therefore need to understand both its formal status and how it influences teaching, support and decision-making.

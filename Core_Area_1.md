@@ -11,8 +11,8 @@ permalink: /Core_Area_1/
 
 At the University of Greenwich, I have led the deployment of learning technologies that balance pedagogic value, inclusivity, and technical sustainability. A notable example is the integration of LinkedIn Learning with Moodle via LTI 1.3, underpinned by SCIM provisioning for automated account management and role-based access. This solution was selected for its interoperability, reduced administrative overhead, and improved systems integration. This was in response to increasing tutor enquiries about how to get more from LinkedIn Learning.
 
-> "It would be great to make a brief [LinkedIn Learning] pathway... So both students and staff could have a quick way of learning more about it..." – *Tutor query about LinkedIn Learning*  
-> "Getting a lot of interest from tutors in the ability to start importing LinkedIn Learning modules." – *Email extract from Stuart Smith to Moodle team, 25 November 2024*
+> "It would be great to make a brief [LinkedIn Learning] pathway... So both students and staff could have a quick way of learning more about it..." – _Tutor query about LinkedIn Learning_  
+> "Getting a lot of interest from tutors in the ability to start importing LinkedIn Learning modules." – _Email extract from Stuart Smith to Moodle team, 25 November 2024_
 
 Similarly, the Digital Backpack diagnostic using a Likert scale approach was designed to run within Moodle as a SCORM package, aligning with existing institutional infrastructure to maximise accessibility, while avoiding reliance on proprietary external hosting that could introduce GDPR or data retention risks. Other approaches were considered. Initially, the strong preference was to build the diagnostic either using Moodle's own inbuilt tools or Microsoft Forms, as these were already institutionally established. However, neither offered the nuance required for Likert scales.
 
@@ -100,7 +100,7 @@ One tutor fed back: “Thanks to your [Stuart Smith's] guidance, I can now easil
 ### 1c Evidence
 
 - [Appendix A](./Appendices.md#a--step-by-step-guide-embedding-a-linkedin-learning-course-in-moodle) – Step-by-Step Guide: Embedding LinkedIn Learning in Moodle
-- [Appendix C](./Appendices.md#c-digital-backpack-sample-pdf-output)  - Digital Backpack Sample PDF Outputt
+- [Appendix C](./Appendices.md#c-digital-backpack-sample-pdf-output) - Digital Backpack Sample PDF Output
 - [Appendix H](./Appendices.md#h-streamling-digital-learning---executive-summary) – Executive Summary: Streamlining Digital Learning
 
 ---

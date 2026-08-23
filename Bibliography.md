@@ -7,7 +7,7 @@ permalink: /Bibliography/
 
 ## Bibliography
 
-- Association for Learning Technology (2019) _CMALT Guidelines for Candidates_ Available at:[file:///C:/Users/ss6537b/Downloads/CMALT%20Guidelines%202019.pdf](file:///C:/Users/ss6537b/Downloads/CMALT%20Guidelines%202019.pdf) (Accessed: 19 November 2024).
+- Association for Learning Technology (2019) _CMALT Guidelines for Candidates_ Available at:[https://www.alt.ac.uk/sites/default/files/assets_editor_uploads/documents/cmalt_guidelines_v10_20100723.pdf](https://www.alt.ac.uk/sites/default/files/assets_editor_uploads/documents/cmalt_guidelines_v10_20100723.pdf) (Accessed: 19 November 2024).
 - Bandura, A. (1997) _Self-efficacy: The exercise of control._ New York: W. H. Freeman.
 - Black, P. and Wiliam, D. (1998) 'Assessment and classroom learning', _Assessment in Education: Principles, Policy & Practice_, 5(1), pp. 7–74. Available at: [https://doi.org/10.1080/0969595980050102](https://doi.org/10.1080/0969595980050102) (Accessed: 15 July 2025).
 - Blomberg, J., Giacomi, J., Mosher, A. and Swenton-Wall, P. (1993) ‘Ethnographic field methods and their relation to design’, in Schuler, D. and Namioka, A. (eds.) Participatory Design: Principles and Practices. Hillsdale, NJ: Lawrence Erlbaum Associates, pp. 123–155.
@@ -29,7 +29,7 @@ permalink: /Bibliography/
 - Suchman, L.A. (1987) _Plans and Situated Actions: The Problem of Human-Machine Communication_. Cambridge: Cambridge University Press.
 - Smith, S. (2026) _Practical Data Protection for Apprentices_. Unpublished internal e-learning module. University of Greenwich.
 - Smith, S. (2002) ‘Dyslexia and virtual learning environment interfaces’, _Access All Areas: Disability, Technology and Learning,_ pp. 50–53. Oxford and York: ALT and TechDis.
-- Smith, S. and Ai, J. (2026) ‘Designing for Reflection: Digital Capability Self-Assessment’, *Association for Learning Development in Higher Education Conference 2026*.
+- Smith, S. and Ai, J. (2026) ‘Designing for Reflection: Digital Capability Self-Assessment’, _Association for Learning Development in Higher Education Conference 2026_.
 - Stryker, C. and Scapicchio, M. (2024) What is Generative AI? _IBM._ Available at: [https://www.ibm.com/think/topics/generative-ai/](https://www.ibm.com/think/topics/generative-ai/) (Accessed: 15 August 2025).
 - Tien, I.S., Imundo, M.N. and Bjork, E.L. (2023) ‘Viewing oneself during synchronous online learning increases appearance anxiety and decreases memory for lecture content’, _Applied Cognitive Psychology_, 37(2), pp. 443–451. Available at: [https://doi.org/10.1002/acp.4048](https://doi.org/10.1002/acp.4048) (Accessed: 18 August 2025).
 - UK General Data Protection Regulation (UK GDPR), art. 5. Available at: [https://www.legislation.gov.uk/eur/2016/679/article/5](https://www.legislation.gov.uk/eur/2016/679/article/5) (Accessed: 21 August 2026).
@@ -42,16 +42,9 @@ permalink: /Bibliography/
 - University of Greenwich (no date c) _AI for students_. Available at: https://www.gre.ac.uk/ai-guidance/students (Accessed: 22 August 2026).
 - University of Greenwich (no date d) _AI for teaching_. Available at: https://www.gre.ac.uk/ai-guidance/teaching (Accessed: 22 August 2026).
 - University of Greenwich (no date e) _Artificial Intelligence (AI) guidance_. Available at: https://www.gre.ac.uk/ai-guidance (Accessed: 22 August 2026).
-- University of Greenwich (2026) *Digital Backpack Continuation Report*. Internal Moodle completion data, 22 August 2026.
+- University of Greenwich (2026) _Digital Backpack Continuation Report_. Internal Moodle completion data, 22 August 2026.
 - University of Greenwich (no date f) _Information and records retention schedules_. Available at: https://www.gre.ac.uk/about-us/governance/information-compliance/keeping-and-processing-information/information-and-records-retention-schedules (Accessed: 21 August 2026).
 - Vygotsky, L.S. (1978) _Mind in society: the development of higher psychological processes_. Cambridge, MA: Harvard University Press.
 - W3C (2018) _Web Content Accessibility Guidelines (WCAG) 2.1._ Available at: [https://www.w3.org/TR/WCAG21/](https://www.w3.org/TR/WCAG21/) (Accessed: 24 July 2025).
 
-
-
-
-
-
-
-
-University of Greenwich (2026) *Digital Backpack Continuation Report*. Internal Moodle completion data, 22 August 2026.
+University of Greenwich (2026) _Digital Backpack Continuation Report_. Internal Moodle completion data, 22 August 2026.

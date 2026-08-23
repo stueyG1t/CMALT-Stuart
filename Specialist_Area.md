@@ -7,6 +7,21 @@ permalink: /Specialist_Area/
 
 ## Specialist Area: Strategic development of confidence-based digital capability
 
+---
+### Revision summary
+
+In response to the assessor feedback, this section has been revised to:
+
+- narrow the specialist area from a broad range of institution-wide digital initiatives to the strategic development of confidence-based digital capability;
+- use the Digital Backpack as the principal case study through which to demonstrate this specialist practice;
+- make clearer the pedagogic foundations of the work, particularly reflective assessment, learner confidence and self-efficacy;
+- distinguish my own leadership, educational design and strategic contribution from the technical contribution of colleagues, particularly Jingyang Ai;
+- provide more specific reflection on the benefits, limitations and challenges encountered during development, including accessibility, maintainability, institutional constraints and the transition from assessment to continued learner engagement;
+- incorporate implementation evidence from Moodle showing the continuation gap following completion of the Digital Skills Check and explain how this evidence is informing further evaluation and development;
+- strengthen evidence of dissemination beyond the institution through the ALDinHE Conference 2026.
+
+---
+
 ### Description
 
 My specialist area is the strategic development of confidence-based digital capability within higher education. This combines pedagogic design, technical development and institutional implementation to help learners identify and develop their digital capabilities without treating digital competence as a fixed measure or deficit.
