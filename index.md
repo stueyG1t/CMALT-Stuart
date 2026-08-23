@@ -6,11 +6,13 @@ permalink: /
 ---
 
 ## Confirmation Statement
+
 I declare that, to the best of my knowledge, the statements and evidence included in this submission accurately describe my practice and are drawn from my own work, with the input and support of others duly and clearly recognised.
 
 **Signed:** Stuart Smith
 
 **Date:** 19 August 2025
+**Resubmission Date:** 10 September 2026
 
 ## Description
 
@@ -18,7 +20,7 @@ I declare that, to the best of my knowledge, the statements and evidence include
 
 I am the Digital Skills Developer at the University of Greenwich, leading institutional initiatives to improve digital capability among students and staff. I view learning technology not simply as a collection of tools, but as a literacy essential for student empowerment, equity, and future-readiness.
 
-I design and lead innovative, high-impact digital initiatives that deliver sustained benefits, shaping practice both institutionally and within the wider sector. A prominent example is the Digital Backpack, a formative, confidence-based digital skills diagnostic and development framework aligned to the Jisc Digital Capabilities Framework (2022) and the UK Government’s Essential Digital Skills Framework (2019). Developed from inception and continually evolved under my leadership, it addresses widening participation, digital inclusion, and curriculum-embedded skills development. Delivery has involved cross-departmental collaboration (Moodle and Academic Learning Enhancement teams), system access negotiations, and direct student co-design work.
+I design and lead innovative, high-impact digital initiatives that deliver learner benefits, shaping practice both institutionally and within the wider sector. A prominent example is the Digital Backpack, a formative, confidence-based digital skills diagnostic and development framework aligned to the Jisc Digital Capabilities Framework (2022) and the UK Government’s Essential Digital Skills Framework (2019). Developed from inception and continually evolved under my leadership, it addresses widening participation, digital inclusion, and curriculum-embedded skills development. Delivery has involved cross-departmental collaboration (Moodle and Academic Learning Enhancement teams), system access negotiations, and direct student co-design work.
 
 I have also led the LinkedIn Learning integration using SCIM provisioning, enabling improved analytics, segmentation, and data-driven engagement strategies.
 
@@ -50,14 +52,15 @@ I greatly enjoy learning about new technology, and in my current role I have ado
 
 ### Evidence
 
-- [Appendix B](./Appendices.md#a--step-by-step-guide-embedding-a-linkedin-learning-course-in-moodle) - Embedding a LinkedIn Learning Course in Moodle.
-- [Appendix C](./Appendices.md#c-digital-backpack-sample-pdf-output)  - Digital Backpack Sample PDF Output
-- [Appendix E](./Appendices.md#e-support-students-for-success-four-tools-to-enhance-your-students-learning) - Support students for success: four tools to enhance your students' learning P48 - 54]
-- [Appendix F](./Appendices.md#f-policy-influence-internal-exec-briefing--digital-backpack-a-personalised-digital-skills-portfolio-appendix-e---password-protected-available-to-assessors-only) - Policy Influence: Internal Exec Briefing- Digital Backpack: a personalised digital skills portfolio
+- [Appendix A](./Appendices.md#a--step-by-step-guide-embedding-a-linkedin-learning-course-in-moodle) - Embedding a LinkedIn Learning Course in Moodle.
+- [Appendix C](./Appendices.md#c-digital-backpack-sample-pdf-output) - Digital Backpack Sample PDF Output.
+- [Appendix E](./Appendices.md#e-support-students-for-success-four-tools-to-enhance-your-students-learning) - Support students for success: four tools to enhance your students' learning P48 - 54.
+- [Appendix F](./Appendices.md#f-policy-influence-internal-exec-briefing--digital-backpack-a-personalised-digital-skills-portfolio-appendix-e---password-protected-available-to-assessors-only) - Policy Influence: Internal Exec Briefing- Digital Backpack: a personalised digital skills portfolio.
 
 ---
 
-## Additional Information 
+## Additional Information
+
 ### Accessibility
 
 I have considered accessibility throughout the development of this portfolio. I have tested the site using automated accessibility checking alongside manual checks informed by my own accessibility practice, including keyboard navigation and reviewing the site without style sheets. The automated check found no accessibility issues in the criteria it was able to test. This testing does not constitute a full accessibility audit or a claim of WCAG conformance.
@@ -67,4 +70,5 @@ I have considered accessibility throughout the development of this portfolio. I 
 ### AI use declaration
 
 I have used generative AI tools to support the development of this portfolio, including reviewing and refining my writing. The experiences, evidence, reflections and professional judgements presented are my own, and I take responsibility for the final content.
+
 ---

@@ -61,7 +61,7 @@ Accessibility also informs the language and structure of the assessment. Questio
 
 An earlier version placed greater emphasis on judging skills and competence. Feedback and reflection made me concerned about the experience this could create for learners who already believed that they were “bad with technology”. I therefore redesigned the assessment around confidence and reflection rather than correctness. The resulting **Explorer, Navigator and Pioneer** pathways are developmental routes rather than grades such as beginner, intermediate or advanced.
 
-**I have also undertaken small-scale user testing. Two student** workers **each worked with two students for approximately 15 minutes, observing where learners hesitated, misunderstood terminology or encountered navigation problems. This approach is lightly informed by Suchman's (1987) concept of \*\***situated action\*\*, which encourages attention to what people actually do when interacting with technology in context.
+I have also undertaken small-scale user testing. Two student workers each worked with two students for approximately 15 minutes, observing where learners hesitated, misunderstood terminology or encountered navigation problems. This approach is lightly informed by Suchman's (1987) concept of situated action, which encourages attention to what people actually do when interacting with technology in context.
 
 The testing also challenged my own assumptions. Some student workers had lower confidence in English, so I simplified the testing instructions and focused on a small number of observable questions. This reinforced that inclusive design applies to evaluation processes as well as the technology itself.
 
