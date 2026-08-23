@@ -54,3 +54,17 @@ I greatly enjoy learning about new technology, and in my current role I have ado
 - [Appendix C](./Appendices.md#c-digital-backpack-sample-pdf-output)  - Digital Backpack Sample PDF Output
 - [Appendix E](./Appendices.md#e-support-students-for-success-four-tools-to-enhance-your-students-learning) - Support students for success: four tools to enhance your students' learning P48 - 54]
 - [Appendix F](./Appendices.md#f-policy-influence-internal-exec-briefing--digital-backpack-a-personalised-digital-skills-portfolio-appendix-e---password-protected-available-to-assessors-only) - Policy Influence: Internal Exec Briefing- Digital Backpack: a personalised digital skills portfolio
+
+---
+
+## Additional Information 
+### Accessibility
+
+I have considered accessibility throughout the development of this portfolio. I have tested the site using automated accessibility checking alongside manual checks informed by my own accessibility practice, including keyboard navigation and reviewing the site without style sheets. The automated check found no accessibility issues in the criteria it was able to test. This testing does not constitute a full accessibility audit or a claim of WCAG conformance.
+
+[View the automated accessibility check (PDF)](/assets/media/Free-Web-Accessibility-Checker%20_%20WCAG-ADA-Compliance-Scan_AEL-Data.pdf).
+
+### AI use declaration
+
+I have used generative AI tools to support the development of this portfolio, including reviewing and refining my writing. The experiences, evidence, reflections and professional judgements presented are my own, and I take responsibility for the final content.
+---
