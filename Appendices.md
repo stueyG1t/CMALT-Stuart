@@ -33,7 +33,7 @@ This internal resource outlines the strategic rationale for the Digital Backpack
 
 ### H. [Streamlining Digital Learning - Executive Summary](./assets/media/UoG-Streamlining-Digital-Learning-LinkedInLearning-Moodle.pdf)
 
-### I. [User-testing activity and findings](./assets/media/Digital_Backpack_Testing_Pack.pdf)
+### I. [User-testing activity and findings](./assets/media/Digital_Backpack_Student_Testing_Pack.pdf)
 
 Password protected, available to assessors only.
 
