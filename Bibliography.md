@@ -29,7 +29,7 @@ permalink: /Bibliography/
 - Suchman, L.A. (1987) _Plans and Situated Actions: The Problem of Human-Machine Communication_. Cambridge: Cambridge University Press.
 - Smith, S. (2026) _Practical Data Protection for Apprentices_. Unpublished internal e-learning module. University of Greenwich.
 - Smith, S. (2002) ‘Dyslexia and virtual learning environment interfaces’, _Access All Areas: Disability, Technology and Learning,_ pp. 50–53. Oxford and York: ALT and TechDis.
-- Smith, S. and Ai, J. (2026) ‘Designing for Reflection: Digital Capability Self-Assessment’, _Association for Learning Development in Higher Education Conference 2026_.
+- Smith, S. and Ai, J. (2006) ‘Designing for reflection: a learning-development approach to digital-capability self-assessment’, _ALDcon26 conference proceedings June 2026_. ALDcon26, Leeds, UK: Association for Learning Development in Higher Education, pp. 256–273.
 - Stryker, C. and Scapicchio, M. (2024) What is Generative AI? _IBM._ Available at: [https://www.ibm.com/think/topics/generative-ai/](https://www.ibm.com/think/topics/generative-ai/) (Accessed: 15 August 2025).
 - Tien, I.S., Imundo, M.N. and Bjork, E.L. (2023) ‘Viewing oneself during synchronous online learning increases appearance anxiety and decreases memory for lecture content’, _Applied Cognitive Psychology_, 37(2), pp. 443–451. Available at: [https://doi.org/10.1002/acp.4048](https://doi.org/10.1002/acp.4048) (Accessed: 18 August 2025).
 - UK General Data Protection Regulation (UK GDPR), art. 5. Available at: [https://www.legislation.gov.uk/eur/2016/679/article/5](https://www.legislation.gov.uk/eur/2016/679/article/5) (Accessed: 21 August 2026).
