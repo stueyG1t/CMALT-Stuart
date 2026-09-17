@@ -69,7 +69,7 @@ The specialist expertise I have developed therefore lies less in producing a par
 
 - _[Appendix N](./Appendices.md#n-digital-backpack-continuation-report)_ – **Digital Backpack Continuation Report.** Analysis of Moodle completion data showing progression from the Digital Skills Check gateway into subsequent Digital Backpack activities.
 
-- **[‘Designing for reflection: a learning-development approach to digital-capability self-assessment’, ALDcon26 conference proceedings June 2026.](https://aldinhe.ac.uk/product/resource-bank/event-resource/conference-proceedings/collaborative-conference-proceedings-and-reflections-2026/)** Evidence of dissemination of the confidence-based assessment approach beyond the University of Greenwich and engagement with the wider learning development community (Smith and Ai, 2026).
+- **[‘Designing for reflection: a learning-development approach to digital-capability self-assessment’](https://aldinhe.ac.uk/product/resource-bank/event-resource/conference-proceedings/collaborative-conference-proceedings-and-reflections-2026/), ALDcon26 conference proceedings June 2026.** Evidence of dissemination of the confidence-based assessment approach beyond the University of Greenwich and engagement with the wider learning development community (Smith and Ai, 2026).
 
 - **Head of Department endorsement.** Provides independent evidence of my role in leading the Digital Backpack alongside Jingyang Ai and of the collaborative, cross-team nature of its development:
 
