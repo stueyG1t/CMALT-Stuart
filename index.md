@@ -12,7 +12,8 @@ I declare that, to the best of my knowledge, the statements and evidence include
 **Signed:** Stuart Smith
 
 **Date:** 19 August 2025
-**Resubmission Date:** 10 September 2026
+
+**Resubmission Date:** 17 September 2026
 
 ## Description
 
@@ -65,7 +66,7 @@ I greatly enjoy learning about new technology, and in my current role I have ado
 
 I have considered accessibility throughout the development of this portfolio. I have tested the site using automated accessibility checking alongside manual checks informed by my own accessibility practice, including keyboard navigation and reviewing the site without style sheets. The automated check found no accessibility issues in the criteria it was able to test. This testing does not constitute a full accessibility audit or a claim of WCAG conformance.
 
-[View the automated accessibility check (PDF)](/assets/media/Free-Web-Accessibility-Checker%20_%20WCAG-ADA-Compliance-Scan_AEL-Data.pdf).
+[View the automated accessibility check (PDF)](/assets/media/Free-Web-Accessibility-Checker_WCAG-ADA-Compliance-Scan_AEL-Data.pdf).
 
 ### AI use declaration
 
